@@ -1,5 +1,3 @@
-# This is the default format. 
-# For more see: https://github.com/mojombo/jekyll/wiki/Permalinks
 permalink: /:categories/:year/:month/:day/:title 
 auto: true
 pygments: true
@@ -8,11 +6,11 @@ var:
   categories_path : /categories.html
   tags_path : /tags.html
 
-production_url : http://username.github.com # or your custom domain name
-title : My Blog =)
+production_url : http://liuliu.me
+title : 静水铭室 Silient Water and Curved Mountain
 
 author :
-  name : Name Lastname
-  email : blah@email.test
-  github : username
-  twitter : username
+  name : Liu Liu
+  email : i@liuliu.me
+  github : liuliu
+  twitter : liu_liu

@@ -1,0 +1,300 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="744.09448819"
+   height="1052.3622047"
+   id="svg3939"
+   version="1.1"
+   inkscape:version="0.48.2 r9819"
+   sodipodi:docname="drawing.svg"
+   inkscape:export-filename="/home/liu/drawing.png"
+   inkscape:export-xdpi="90"
+   inkscape:export-ydpi="90">
+  <defs
+     id="defs3941" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="16"
+     inkscape:cx="29.125"
+     inkscape:cy="679.59375"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1300"
+     inkscape:window-height="744"
+     inkscape:window-x="66"
+     inkscape:window-y="24"
+     inkscape:window-maximized="1"
+     showguides="true"
+     inkscape:guide-bbox="true">
+    <inkscape:grid
+       type="xygrid"
+       id="grid4671" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata3944">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="fill:#f5f4d7;fill-opacity:1;stroke:none"
+       id="rect3947"
+       width="1340"
+       height="1245.7142"
+       x="-321"
+       y="-82.066391" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot4476"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#dc3400;fill-opacity:1;stroke:none;font-family:Sans"><flowRegion
+         id="flowRegion4478"><rect
+           id="rect4480"
+           width="521"
+           height="34"
+           x="-68"
+           y="334.36218"
+           style="fill:#dc3400;fill-opacity:1" /></flowRegion><flowPara
+         id="flowPara4482"
+         style="font-size:22px;-inkscape-font-specification:Serif Bold;font-family:Serif;font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal;fill:#dc3400;fill-opacity:1">What is FIFO, The Design Principle</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot4484"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"><flowRegion
+         id="flowRegion4486"><rect
+           id="rect4488"
+           width="603"
+           height="174"
+           x="-42"
+           y="400.36218" /></flowRegion><flowPara
+         id="flowPara4494"
+         style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Serif;-inkscape-font-specification:Serif">  Patent in its traditional meaning, is a government-protected monopoly. However, because it is a granted property right that covers wide range of transactions, questionable practices such as patent suppression are invented ever since. By actively applying for patents and passively asking for royalty fee, it now becomes a standalone business mode, companies like Intellectual Ventures and Digitude Innovations are actively seeking legal means to profit from the large patent pools they gathered through acquisitions and bankruptcy liquidations. These business practices failed to address the very principle of patent law, which is to reward patent inventors in order to better promote technology advancement. On the other hand, in today’s world, a competitive market shows great success in allocating resources. If we can create a competitive market for patent through some minor modifications on current patent practice, it would be expected that many bad business practices due to our inefficient patent allocation would go away.</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot4501"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       transform="translate(4,-44)"><flowRegion
+         id="flowRegion4503"><rect
+           id="rect4505"
+           width="604"
+           height="158"
+           x="-46"
+           y="626.36218" /></flowRegion><flowPara
+         id="flowPara4507"
+         style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Serif;-inkscape-font-specification:Serif">  Patent is considered as a property. Thus, it comes with full property rights. In practice, that is usually means companies are the ones who will exercise these rights on patents. It makes sense because individuals usually lack of necessary means to exercise their rights on patents, especially when they need to collect royal fee, investigate patent infringements etc. However, Two differences between corporation and natural person make this situation easier for patent abuse. First, a company doesn’t hold morality value. The purpose of a company is to make profit. Thus, it will operate at the edge of what the law permits when that is to its advantages. Second, a company can be bought or restructured, which will turn its original purpose up side down. In many patent suppression cases, the patents involved are usually bought through bankruptcy liquidations or acquisitions.</flowPara></flowRoot>    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="400"
+       y="383.36218"
+       id="text4513"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4515"
+         x="400"
+         y="383.36218"
+         style="font-size:14px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Serif;-inkscape-font-specification:Serif Bold">December 13th, 2011</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="-54"
+       y="383.36218"
+       id="text4517"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4519"
+         x="-54"
+         y="383.36218"
+         style="font-size:13px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Serif;-inkscape-font-specification:Serif">3 Comments</tspan></text>
+    <path
+       style="fill:#2373cd;fill-opacity:1;stroke:#2373cd;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 32.9375,382.92468 2.875,0 0,-6.25 z"
+       id="path4543"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccc" />
+    <path
+       style="fill:none;stroke:#ffffff;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 625,309.36218 0.125,510.25 0,-0.0625"
+       id="path4545"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccc" />
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="rect4547"
+       width="4.25"
+       height="4.1875"
+       x="622.6875"
+       y="304.54968" />
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#2373cd;fill-opacity:1;stroke:none;font-family:Sans"
+       x="680"
+       y="358.36218"
+       id="text4549"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4551"
+         x="680"
+         y="358.36218"
+         style="font-size:20px;font-weight:normal;-inkscape-font-specification:Sans;stroke:none;stroke-opacity:1;fill:#2373cd;fill-opacity:1">December, 2011</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#2373cd;fill-opacity:1;stroke:none;font-family:Sans"
+       x="680"
+       y="403.72693"
+       id="text4553"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4555"
+         x="680"
+         y="403.72693"
+         style="font-size:20px;fill:#2373cd;fill-opacity:1">November, 2011</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#2373cd;fill-opacity:1;stroke:none;font-family:Sans"
+       x="680.83984"
+       y="449.09167"
+       id="text4557"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4559"
+         x="680.83984"
+         y="449.09167"
+         style="font-size:20px;fill:#2373cd;fill-opacity:1">October, 2011</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#2373cd;fill-opacity:1;stroke:none;font-family:Sans"
+       x="680.64453"
+       y="493.53845"
+       id="text4561"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4563"
+         x="680.64453"
+         y="493.53845"
+         style="font-size:20px;fill:#2373cd;fill-opacity:1">September, 2011</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#2373cd;fill-opacity:1;stroke:none;font-family:Sans"
+       x="681.80664"
+       y="538.72742"
+       id="text4565"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4567"
+         x="681.80664"
+         y="538.72742"
+         style="font-size:20px;fill:#2373cd;fill-opacity:1">August, 2011</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#2373cd;fill-opacity:1;stroke:none;font-family:Sans"
+       x="682.99805"
+       y="584.26794"
+       id="text4569"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4571"
+         x="682.99805"
+         y="584.26794"
+         style="font-size:20px;fill:#2373cd;fill-opacity:1">July, 2011</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#2373cd;fill-opacity:1;stroke:none;font-family:Sans"
+       x="682.99805"
+       y="629.53503"
+       id="text4573"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4575"
+         x="682.99805"
+         y="629.53503"
+         style="font-size:20px;fill:#2373cd;fill-opacity:1">June, 2011</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#2373cd;fill-opacity:1;stroke:none;font-family:Sans"
+       x="680"
+       y="674.82166"
+       id="text4577"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4579"
+         x="680"
+         y="674.82166"
+         style="font-size:20px;fill:#2373cd;fill-opacity:1">May, 2011</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#2373cd;fill-opacity:1;stroke:none;font-family:Sans"
+       x="681.80664"
+       y="720.36218"
+       id="text4581"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4583"
+         x="681.80664"
+         y="720.36218"
+         style="font-size:20px;fill:#2373cd;fill-opacity:1">April, 2011</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="-53.75"
+       y="281.61218"
+       id="text4663"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4665"
+         x="-53.75"
+         y="281.61218"
+         style="font-size:12px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#00a035;fill-opacity:1;font-family:WenQuanYi Zen Hei;-inkscape-font-specification:WenQuanYi Zen Hei Bold">静水铭室</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="4"
+       y="281.11218"
+       id="text4667"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4669"
+         x="4"
+         y="281.11218"
+         style="font-size:10px;fill:#000000;fill-opacity:1">静水可铭，丰山须镂。- Silent Water and Curved Mountain</tspan></text>
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:none"
+       id="rect4681"
+       width="425.75"
+       height="2.5"
+       x="296.25"
+       y="276.86218" />
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#dc3400;fill-opacity:1;stroke:none;font-family:Sans"
+       x="743.1875"
+       y="282.48718"
+       id="text4685"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4687"
+         x="743.1875"
+         y="282.48718"
+         style="font-size:12px;fill:#dc3400;fill-opacity:1">Me on Facebook</tspan></text>
+  </g>
+</svg>

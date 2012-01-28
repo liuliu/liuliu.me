@@ -1,0 +1,11 @@
+---
+layout: post
+title: 真是大工程
+tags:
+- Twitter
+status: publish
+type: post
+published: true
+meta: {}
+---
+<div>最近用APR重写ClusCom，才发现这三个月干了什么。写了一个ClusCom的基类，继承ClusCom又写了一个PicEn的子类。为了方便调用，又写了一个Daemon来调用ClusCom。为了和Daemon沟通，还封装了叫ClusCom_Input的方法。基于ClusCom_Input，又实现PicEn上的Delete，Add，Retrieve，Regroup操作。为了PHP能够调用，又将这些方法再打包了一遍。想起初中时候写那个图像编辑软件，也是不知不觉就封装了一堆类出来。真是费劲的大工程。C#里面写图像编辑速度很慢，同样的方法比C++要慢十倍，所以，微软还是把所有要用的图像操作都封装起来吧！说不定，过两天要跑深圳，拜托电话里就谈好吧。</div>

@@ -1,0 +1,24 @@
+---
+layout: post
+title: ! 'CCV: New in the Summer'
+tags:
+- Eyes
+status: publish
+type: post
+published: true
+meta:
+  _edit_last: '3'
+  fb-status-updater-meta: a:5:{s:22:"custom-facebook-status";s:0:"";s:21:"custom-twitter-status";s:0:"";s:7:"fb-push";s:1:"1";s:7:"tw-push";s:1:"1";s:4:"push";s:1:"1";}
+  fb-status-updater-sn-reference: a:2:{i:0;a:2:{i:0;s:8:"facebook";i:1;s:27:"705703078_10150305654143079";}i:1;a:2:{i:0;s:7:"twitter";i:1;s:17:"7.19867109841E+16";}}
+---
+The progress of ccv during the spring is not as good as I expected. During the spring, I've finished a new test framework for ccv known as CASE, and moved most ccv ad-hoc unit tests into this framework. I've implemented SWT (Stroke Width Transform) for text detection, though the result on test dataset is not as good as the original paper claims to be. The DPM (Deformable-Parts Model, a.k.a. Latent SVM) implementation was started, but quickly got stalled.
+
+But finally I would have some spare time to work on ccv codebase. And I would love to implement these things during the summer:
+
+1). I finally figured out appropriate HTTP interface for RPC to ccv;
+
+2). A new cache back-end thus you don't have to call ccv_garbage_collect every time;
+
+3). Long discussed DPM implementation in ccv;
+
+4). Web/Android support with favor of Actionscript (for webcam), Javascript and HTTP-RPC (I am deadly serious, I plan to implement a semi-realtime detector/tracker with webcam support).

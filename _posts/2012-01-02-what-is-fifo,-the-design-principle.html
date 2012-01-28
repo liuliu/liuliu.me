@@ -1,0 +1,19 @@
+---
+layout: post
+title: What is FIFO, The Design Principle
+tags:
+- Twitter
+status: draft
+type: post
+published: false
+meta:
+  _edit_last: '3'
+  fb-status-updater-meta: a:5:{s:22:"custom-facebook-status";s:0:"";s:21:"custom-twitter-status";s:0:"";s:7:"fb-push";s:1:"1";s:7:"tw-push";s:1:"1";s:4:"push";s:1:"1";}
+---
+FIFO is: <a href="http://fifo.me/">http://fifo.me/</a>
+
+I've just pushed a new version out that you can log in with your Facebook credential now. Unlike the previous version, it saves your list to server-side. FIFO is intended to be your deadly simple TODO list that works. Thus, first and foremost, it should be simple. In FIFO's design, the operations you can actually perform on the TODO list is limited. There are only four: 1). add a task, 2). modify an ongoing task, 3). mark a task as completed and 4). move current task to the end of the queue.
+
+The magic dew of FIFO is that it ticks. A task is ongoing not only because it is highlighted with the big, yellow "R" button, but also because the time elapses. A task in FIFO has been assigned an estimate completion time. Once the task is ongoing (highlighted), its timer starts. If you spend more than a INTERVAL (default to 1 hour) time, you will be automatically moved to the next task. The idea is derived from deadline scheduler in Operating System, its original design philosophy is to make sure that every task at least can make some progress. FIFO borrowed the same idea to make sure one can make some progress on every task in the list.
+
+It certainly complicated FIFO's UI, but also brought some simplifications. For one, you cannot uncheck a completed task. If you've completed a task, and want to finish up some last minute thing, the alternative is to click on that completed task which will copy the item into input box and from there, you can re-enter the task.

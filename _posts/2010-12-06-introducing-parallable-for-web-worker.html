@@ -1,0 +1,25 @@
+---
+layout: post
+title: Introducing Parallable for Web Worker
+tags:
+- Eyes
+status: publish
+type: post
+published: true
+meta:
+  _edit_last: '3'
+  _wp_old_slug: ''
+---
+I've spent sometime this afternoon to perfecting the web worker implementation in <a href="https://github.com/liuliu/ccv/blob/current/js/ccv.js" target="_blank">ccv.js</a>. Something interested me is that maybe, I can implement a thing that makes web worker painless. The current web worker flow is: 1). you partitioned the work into many pieces of jobs; 2). create a small js file that explicitly handle one job; 3). create bunch of workers from the small js file and run; 4). collect results. The workflow is great in a way that it explicitly specified the message-passing path. I am a big fan of MP model for parallel computing (my professor Andrew Grimshaw has a big rant on shared-memory thing just every time you asked him) and the web worker just hit the right taste.
+
+However, it does purpose a hurdle for library authors who want to utilize web worker. Maybe they can use web worker to run computation expensive job in parallel, maybe they want to make the interface more responsive by moving computational part to background. However, current web worker infrastructure requires a separate js file explicitly written for a single job. Javascript is already notoriously bad at its package management, and scattered web worker code in the universe may make it worse.
+
+Identified the problem with web worker, I created the tiny code snippet called "parallable". It is so small that you can copy &amp; paste it to your js file and instantly, you can write code that runs in parallel. Well, not instantly, parallable suggested a code convention for writing parallable functions. I will show you a full code that basically compute sum of elements in an array with parallable (<a href="https://github.com/liuliu/parallable/blob/master/sum.js" target="_blank">sum.js</a>):
+
+<script src="https://gist.github.com/732693.js?file=parallable.sum.js"></script>
+
+To conform the convention of parallable, you have to separate the function into 3 parts - pre, core and post. It is a process chain, in a way that pre will split input into appropriate parts, and pass each part to core. The core will process each partitioned data, and return part of result. post will gather all results and generate the final one. Only the core part will be run on the web worker. They do share some information which you can specified in this.shared structure, but don't assume any consistency in this.shared data, it will never be synchronized.
+
+Despite the convention, the real part of parallable is in the beginning of the code. It wrapped original function declaration with <em>parallable("sum.js", function (list) ...</em> where sum.js is the file name and function structure is untouched. You can think it as a decorator to original function. For unnamed argument function (the traditional javascript way), parallable will append the arguments with two new parameters: the first is async and the second is worker_num. For named argument, it will append the two directly. So, to call sum in synchronous fashion, you can just call <em>sum(some list, false, 0)</em>, and it will return the result once it done with data. If you set async to be true, it will spawn some number of web workers to do the job, and what it returned immediately is a <a href="https://github.com/creationix/do" target="_blank">continuable</a>, thus, you can do <em>sum(some list, true, 4)(callback)</em> to spawn 4 web workers and get result in the callback.
+
+Checkout <a href="https://github.com/liuliu/parallable/" target="_blank">parallable code snippet on github now</a>.

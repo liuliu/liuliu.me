@@ -1,0 +1,14 @@
+---
+layout: post
+title: Review Vector Boosting with Bag of Words
+tags:
+- Twitter
+status: draft
+type: post
+published: false
+meta:
+  _edit_last: '3'
+---
+While reviewing vector boosting, the idea is tempting. It is a way to vectorize a region super fast and has learning ability inside. Sounds familiar? Modern dense descriptors do exactly like that but without the learning ability. More than that, if we can learning a vector from a given region, why not just learn the bag of words model directly? When you consider the user case of vector boosting (for different pose of faces), the output vector are generally sparse and so the bag of words model. What a great fit.
+
+There are several constraints that made the training a vector boosting model for interesting point detector/descriptor never be touched before. 1). Training a large vector is something prohibitive in time. A small usable codebook has tens of thousands classes, and today's typical vector boosting technique only works on handful classes. 2). Semi/non-supervised boosting learning is needed. Ideally, we don't want to rely on external detector to prepare the training data. If so, the trained system may be just sub-optimal than the external detector and thus useless. 3). Vector boosting requires orthogonal vector projection, for 10,000 classes, that means 10,000-d vector.

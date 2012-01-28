@@ -1,0 +1,28 @@
+---
+layout: post
+title: 关于色情图像检测的一些说明
+tags:
+- 随感
+status: publish
+type: post
+published: true
+meta:
+  _edit_last: '3'
+---
+考虑到草稿箱里面有5、6篇没发布的文章，终于下决心写一篇中文的、完整的、图文并茂的文章。
+
+最近由于中国强制安装的一款软件带有色情图像检出功能，这方面的讨论在国内又热了起来。事实上，色情图像检测的研究已经有多年的历史，各大搜索引擎都带有或好或坏的色情图像检出功能（关于Google可参见：<a href="http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.68.7839&amp;rep=rep1&amp;type=pdf" target="_blank">Large Scale Image-Based Adult-Content Filtering</a>）。在进入CV领域之初，我也曾研究过一段时间的色情图像过滤技术，但是觉得单独而言没有太大的学术/商业前景而放弃了，要是知道会有4000万这样的单子，就研究下去了，扯远了。
+
+在90年代人们开始研究这一问题的时候，自然而然地会想到通过检测图像上人的相对位置和动作来获取图像的语义信息。但是，考虑到写Google那篇文章的H.A.Rowley在98年才做出一个实用的人脸检测器，行人的检测到2004年后才有一些可以见人的结果，在当时要作出和Natal一样的动作检测器真是太难了。
+<p style="text-align: center;"><img class="aligncenter" src="http://cache.gawker.com/assets/images/gizmodo/2009/06/pennyarcadenatal.jpg" alt="Project Natal" width="468" height="234" /></p>
+<p style="text-align: left;">因此，90年代更有效的方法就是用颜色直方图来训练分类器，得到一些在实际生活中比乱猜好不了多少的结果。</p>
+<p style="text-align: left;">用多了繁琐的颜色直方图和分类器之后，越来越多人意识到如果用颜色的话，色情图像的检测根本就不用分类器这么麻烦，或者说用个简单的分段函数就好了。这就是后来大家常用的肤色统计方法。正巧，这时候<a title="Face Detection in Color Images" href="http://www.cg.cs.uni-bonn.de/docs/teaching/2002/WS/cv_hand_tracking/documents/papers/face-detection-in-color.pdf" target="_blank">很多人也对肤色检测</a>感兴趣了，于是又有了好多的通过肤色统计的色情图像检测法。</p>
+<p style="text-align: center;"><img class="aligncenter" src="http://gandolf.homelinux.org/~smhanov/blog/images/jones2002.png" alt="Skin Detection" width="404" height="252" /></p>
+<p style="text-align: left;">通过肤色检测只不过是直方图的一个简化，固有的问题还是没有解决，比如很多风景图片也有大块的类肤色区域，况且还有肤色高光部分导致的漏判，还有大块人脸等。通过一个人脸检测器来过滤大块的人脸区域于是成了标配。引入更多的图像特征，比如纹理等，也可以过滤掉一些误判的风景图像。根据提供给官方的<a title="谈判响应书" href="http://www.tinydust.net/lvbar.doc.zip" target="_blank">谈判响应书</a>说明，这家企业的色情图像过滤无非也是用了这样一些在2000年后成为标配的方法，可能还有一些形态学上进行处理的方法，加一起做出来的罢了。</p>
+<p style="text-align: left;">大家都知道，现在我的兴趣也转向了局部特征描述子，当然了，现在也有一些用<a title="Bag-of-Visual-Words Models for Adult Image Classification and Filtering" href="http://www-i6.informatik.rwth-aachen.de/publications/download/571/Deselaers-ICPR-2008.pdf" target="_blank">局部特征描述子的方法</a>来解决这一问题。事实上，通过局部特征描述字应该是最接近通过语义解决这问题的方法了。当然，检测时间上仍然显得不划算。</p>
+<p style="text-align: left;">另，很多人说国内的那款软件没有OpenCV的版权声明。其实，OpenCV的协议已经很宽松了，只需要含有版权声明就可，实在是很让人费解。</p>
+
+<p style="text-align: left;">本文部分图片和内容从以下来源获得：
+<a href="http://gandolf.homelinux.org/~smhanov/blog/?id=63" target="_blank">http://gandolf.homelinux.org/~smhanov/blog/?id=63</a>
+<a href="http://groups.google.com/group/pongba/browse_thread/thread/78095c0bd8a90fe6?hl=zh-CN" target="_blank">http://groups.google.com/group/pongba/browse_thread/thread/78095c0bd8a90fe6?hl=zh-CN</a>
+<a href="http://i.gizmodo.com/5282974/yes-but-which-48-points-does-project-natal-track" target="_blank">http://i.gizmodo.com/5282974/yes-but-which-48-points-does-project-natal-track</a>
