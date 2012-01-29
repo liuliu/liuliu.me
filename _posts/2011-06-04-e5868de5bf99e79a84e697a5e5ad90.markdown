@@ -6,7 +6,7 @@ status: publish
 title: 再忙的日子
 wordpress_id: '1286'
 categories:
-- Twitter
+- twitter
 ---
 
 这个日期也必须要上来写一笔，再过两年就要到本命年了。

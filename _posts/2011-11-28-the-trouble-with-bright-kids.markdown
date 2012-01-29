@@ -6,7 +6,7 @@ status: publish
 title: The trouble with bright kids
 wordpress_id: '1369'
 categories:
-- Twitter
+- twitter
 ---
 
 [http://blogs.hbr.org/cs/2011/11/the_trouble_with_bright_kids.html](http://blogs.hbr.org/cs/2011/11/the_trouble_with_bright_kids.html)

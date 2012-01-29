@@ -6,7 +6,7 @@ status: publish
 title: 新闻无评论（2月13日）
 wordpress_id: '380'
 categories:
-- Twitter
+- twitter
 ---
 
 China Suffers Severe Brain Drain  

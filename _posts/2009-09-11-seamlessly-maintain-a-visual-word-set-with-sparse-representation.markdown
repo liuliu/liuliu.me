@@ -6,7 +6,7 @@ status: publish
 title: Seamlessly Maintain a Visual Word Set with Sparse Representation
 wordpress_id: '641'
 categories:
-- Eyes
+- eyes
 tags:
 - sparse representation
 - visual word

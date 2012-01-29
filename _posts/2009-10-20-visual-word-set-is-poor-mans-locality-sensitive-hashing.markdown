@@ -6,7 +6,7 @@ status: publish
 title: Visual Word Set is Poor Man's Locality Sensitive Hashing?
 wordpress_id: '665'
 categories:
-- Eyes
+- eyes
 tags:
 - locality sensitive hashing
 - visual word

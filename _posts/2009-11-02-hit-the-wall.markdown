@@ -6,7 +6,7 @@ status: publish
 title: hit the wall
 wordpress_id: '689'
 categories:
-- Twitter
+- twitter
 ---
 
 I officially ran out of ideas.

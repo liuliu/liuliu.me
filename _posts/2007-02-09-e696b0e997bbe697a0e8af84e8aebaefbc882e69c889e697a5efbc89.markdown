@@ -6,7 +6,7 @@ status: publish
 title: 新闻无评论（2月9日）
 wordpress_id: '381'
 categories:
-- Twitter
+- twitter
 ---
 
 四川托普的资金黑洞有多深？  

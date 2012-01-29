@@ -9,10 +9,10 @@ categories:
 - 随感
 tags:
 - computer vision
-- MSER
+- mser
 - query language
-- SQL
-- SURF
+- sql
+- surf
 - table engine
 ---
 

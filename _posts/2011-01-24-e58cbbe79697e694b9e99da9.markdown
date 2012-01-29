@@ -6,7 +6,7 @@ status: publish
 title: 医疗改革
 wordpress_id: '1154'
 categories:
-- Twitter
+- twitter
 ---
 
 http://www.ftchinese.com/story/001036635?page=1

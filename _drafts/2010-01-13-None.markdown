@@ -6,7 +6,7 @@ status: draft
 title: Why China is not the Future (of Business)
 wordpress_id: '763'
 categories:
-- Twitter
+- twitter
 ---
 
 Google is pulling out its China operation. Some posts are saying that it will damage Google's long-term growth. However, the implication here is that China is the future of business, and by quitting Chinese market, you are losing the future.

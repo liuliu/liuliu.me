@@ -6,7 +6,7 @@ status: publish
 title: The Idea of FIFO, or Why Makes the TODO List Ticking
 wordpress_id: '1400'
 categories:
-- Eyes
+- eyes
 ---
 
 Yesterday, I started to work on a new kind of TODO list, or a fancier way to call it, "a personal deadline scheduler".

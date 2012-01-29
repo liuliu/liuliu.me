@@ -6,7 +6,7 @@ status: publish
 title: Atonement
 wordpress_id: '312'
 categories:
-- Twitter
+- twitter
 ---
 
 Atonement这部电影教育我们，小孩子，尤其是小孩子是惹不起的。 

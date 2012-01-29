@@ -6,7 +6,7 @@ status: publish
 title: My dear, it is two different problem domains
 wordpress_id: '555'
 categories:
-- Eyes
+- eyes
 ---
 
 **1. How to make a query and get associated data?**

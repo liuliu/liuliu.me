@@ -6,7 +6,7 @@ status: publish
 title: no better than chance
 wordpress_id: '608'
 categories:
-- Twitter
+- twitter
 ---
 
 The dataset are so hard that even SVM can perform no better than chance (54%). ANN got 52%. On the original dataset. I thought that is impossible.

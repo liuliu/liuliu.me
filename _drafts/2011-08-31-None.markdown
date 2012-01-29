@@ -6,7 +6,7 @@ status: draft
 title: Getting better than random chance
 wordpress_id: '1310'
 categories:
-- Twitter
+- twitter
 ---
 
 None

@@ -6,7 +6,7 @@ status: publish
 title: 多花两天时间
 wordpress_id: '265'
 categories:
-- Twitter
+- twitter
 ---
 
 先把SURF给实现了。  

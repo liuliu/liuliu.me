@@ -6,7 +6,7 @@ status: publish
 title: Can China Censor the Internet?
 wordpress_id: '765'
 categories:
-- Twitter
+- twitter
 ---
 
 There are several practical ways to bypass GFW today. However, there are a good chance that all these services will be blocked in the future.

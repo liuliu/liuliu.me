@@ -6,7 +6,7 @@ status: publish
 title: My Diary Went Away
 wordpress_id: '104'
 categories:
-- Twitter
+- twitter
 ---
 
 I burnt my diary, which covers my 3-year secondary school life. All good things and bad things have gone away with it.

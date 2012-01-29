@@ -6,7 +6,7 @@ status: draft
 title: The Value of Networking
 wordpress_id: '1284'
 categories:
-- Twitter
+- twitter
 ---
 
 You must knew one or two of these people. They are childhood best friends of some well-known names. They know people in high positions. They are some kind of legendary in the early 21st century. They are networking people.

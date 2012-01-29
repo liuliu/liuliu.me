@@ -6,7 +6,7 @@ status: draft
 title: The Checker's Dilemma
 wordpress_id: '1362'
 categories:
-- Twitter
+- twitter
 ---
 
 None

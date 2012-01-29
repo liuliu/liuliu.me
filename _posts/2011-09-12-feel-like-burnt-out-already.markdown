@@ -6,7 +6,7 @@ status: publish
 title: Feel like burnt out already
 wordpress_id: '1316'
 categories:
-- Twitter
+- twitter
 ---
 
 Cannot get anything done. And still have to work hard for another 3 months.

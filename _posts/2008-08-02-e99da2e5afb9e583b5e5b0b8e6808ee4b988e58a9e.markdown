@@ -6,7 +6,7 @@ status: publish
 title: 面对僵尸怎么办
 wordpress_id: '314'
 categories:
-- Twitter
+- twitter
 ---
 
 最近事情很纷杂，做小文愉情。  

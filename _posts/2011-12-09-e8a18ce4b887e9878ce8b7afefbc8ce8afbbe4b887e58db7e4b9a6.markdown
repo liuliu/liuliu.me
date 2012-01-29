@@ -6,7 +6,7 @@ status: publish
 title: 行万里路，读万卷书
 wordpress_id: '1383'
 categories:
-- Twitter
+- twitter
 ---
 
 在一个地方沉寂了三年，学到了很多的知识，积累了很多的技术。突然觉得，应该出去走走看看，才不枉古训“行万里路，读万卷书”。

@@ -6,7 +6,7 @@ status: publish
 title: 今天睡了
 wordpress_id: '954'
 categories:
-- Twitter
+- twitter
 ---
 
 整整七个半小时，起床的时候还是想死的心都有了。昨天某人说每天早上洗澡的时候都有淹死自己的冲动。心有戚戚焉。看来睡眠不够不是不够努力的借口。

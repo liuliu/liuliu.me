@@ -6,7 +6,7 @@ status: publish
 title: 北京发生大规模恐怖袭击后的演讲
 wordpress_id: '313'
 categories:
-- Twitter
+- twitter
 ---
 
 小时候，奶奶给我讲过一个故事。她说到某一天，每个人都会尽力发挥自己的才能，而且想得到什么就有什么。她说，这叫天下大同。  

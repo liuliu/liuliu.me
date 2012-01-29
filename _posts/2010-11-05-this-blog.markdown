@@ -6,7 +6,7 @@ status: publish
 title: This blog
 wordpress_id: '1064'
 categories:
-- Twitter
+- twitter
 ---
 
 is on Linode now.

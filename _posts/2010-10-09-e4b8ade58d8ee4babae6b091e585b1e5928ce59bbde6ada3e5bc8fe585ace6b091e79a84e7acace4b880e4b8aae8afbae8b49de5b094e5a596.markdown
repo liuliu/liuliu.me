@@ -6,7 +6,7 @@ status: publish
 title: 中华人民共和国正式公民的第一个诺贝尔奖
 wordpress_id: '1037'
 categories:
-- Twitter
+- twitter
 ---
 
 刘晓波

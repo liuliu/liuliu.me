@@ -6,7 +6,7 @@ status: draft
 title: What is FIFO, The Design Principle
 wordpress_id: '1406'
 categories:
-- Twitter
+- twitter
 ---
 
 FIFO is: [http://fifo.me/](http://fifo.me/)

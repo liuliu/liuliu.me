@@ -6,7 +6,7 @@ status: publish
 title: A Necessity
 wordpress_id: '760'
 categories:
-- Twitter
+- twitter
 ---
 
 Someone has to stand up and say: enough is enough.

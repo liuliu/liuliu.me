@@ -6,7 +6,7 @@ status: publish
 title: 太累了
 wordpress_id: '669'
 categories:
-- Twitter
+- twitter
 ---
 
 没有螺丝刀，装了4个小时，居然忘了接ATX电源，总算搞好了，看来我还是会装PC的。

@@ -6,7 +6,7 @@ status: publish
 title: 海南，我来啦
 wordpress_id: '47'
 categories:
-- Twitter
+- twitter
 ---
 
 现在时刻，3点25分。飞机晚点将近五个小时，因此，现在才来到海南。

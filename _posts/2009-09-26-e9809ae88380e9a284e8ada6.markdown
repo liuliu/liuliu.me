@@ -6,7 +6,7 @@ status: publish
 title: 通胀预警
 wordpress_id: '651'
 categories:
-- Twitter
+- twitter
 ---
 
 在如此大规模的印钞和输血之后，我们已经不问美国是否会发生通胀，而是关心何时会发生。而通过美元，美国将向全球输出通胀。

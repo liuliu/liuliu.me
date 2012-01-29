@@ -6,7 +6,7 @@ status: publish
 title: Intel ISEF 2006 CS项目不完全点评
 wordpress_id: '5'
 categories:
-- Twitter
+- twitter
 ---
 
 今年ISEF的参赛项目名单可在[http://www.sciserv.org/isef/finaldir.pdf](http://www.sciserv.org/isef/finaldir.pdf)上下载。

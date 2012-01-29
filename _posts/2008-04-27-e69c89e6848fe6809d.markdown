@@ -6,7 +6,7 @@ status: publish
 title: 有意思
 wordpress_id: '325'
 categories:
-- Twitter
+- twitter
 ---
 
 辛辛苦苦三十年，一夜回到改革前。  

@@ -6,7 +6,7 @@ status: publish
 title: always remember
 wordpress_id: '612'
 categories:
-- Twitter
+- twitter
 ---
 
 free memory with double-pointer is a good practice, otherwise, free and null pointer. stuck on this for 3 hours. trust your oldest code.

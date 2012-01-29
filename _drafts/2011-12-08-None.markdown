@@ -6,7 +6,7 @@ status: draft
 title: The Symbol with Power - Storytelling of a Kadaitcha Man
 wordpress_id: '1378'
 categories:
-- Twitter
+- twitter
 ---
 
 Introduction

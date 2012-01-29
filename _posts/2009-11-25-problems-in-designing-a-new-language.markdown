@@ -6,7 +6,7 @@ status: publish
 title: Problems in Designing a new Language
 wordpress_id: '701'
 categories:
-- Twitter
+- twitter
 ---
 
 1. Clearly stated philosophy is important, but hard to keep;

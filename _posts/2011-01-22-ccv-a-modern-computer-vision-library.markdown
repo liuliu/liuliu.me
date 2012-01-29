@@ -6,7 +6,7 @@ status: publish
 title: 'CCV: a modern computer vision library'
 wordpress_id: '1163'
 categories:
-- Eyes
+- eyes
 ---
 
 It is from a presentation I gonna make next week:

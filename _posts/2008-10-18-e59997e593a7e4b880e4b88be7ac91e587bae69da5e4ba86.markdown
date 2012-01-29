@@ -6,7 +6,7 @@ status: publish
 title: 噗哧一下笑出来了
 wordpress_id: '297'
 categories:
-- Twitter
+- twitter
 ---
 
 其实抛光一下我简历也可以这么写：The inventor of "one-touch" photo correction technology. The creator of first face-based person search engine. The main contributor of opencv's local feature descriptor implementation who now is working on improving portability of opencv and distributed computer vision framework.  

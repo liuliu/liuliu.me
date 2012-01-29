@@ -6,7 +6,7 @@ status: publish
 title: 第一天，海南，三亚，大东海
 wordpress_id: '46'
 categories:
-- Twitter
+- twitter
 ---
 
 今天一觉睡到10点，慌忙和岑爬起来吃早饭。吃早饭的绿园很热闹，都快没有位置的样子。虽然菜很多，就随便挑了一点填填肚子。

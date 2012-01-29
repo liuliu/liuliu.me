@@ -6,7 +6,7 @@ status: publish
 title: 要雇多少个Java程序员
 wordpress_id: '783'
 categories:
-- Twitter
+- twitter
 ---
 
 才能设计出这么繁复得清新脱俗，让人呕吐不止的API？

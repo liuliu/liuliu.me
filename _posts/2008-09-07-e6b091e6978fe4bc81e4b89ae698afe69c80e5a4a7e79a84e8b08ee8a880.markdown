@@ -6,7 +6,7 @@ status: publish
 title: 民族企业是最大的谎言
 wordpress_id: '304'
 categories:
-- Twitter
+- twitter
 ---
 
 也是打压对手的重要武器，但是对以后的企业发展有无影响尚不清楚，慎用。  

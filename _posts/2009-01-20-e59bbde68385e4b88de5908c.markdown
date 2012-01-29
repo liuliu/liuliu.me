@@ -6,7 +6,7 @@ status: publish
 title: 国情不同
 wordpress_id: '448'
 categories:
-- Twitter
+- twitter
 tags:
 - 中国
 - 俄罗斯

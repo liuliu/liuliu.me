@@ -6,7 +6,7 @@ status: publish
 title: Survey on The Next Generation Nuclear Reactor
 wordpress_id: '1385'
 categories:
-- Eyes
+- eyes
 ---
 
 After the Three Mile Island (TMI) accident and the more recent Fukushima disaster, nuclear energy as a viable clean energy alternative is questioned. Germany has planed to phase out nuclear power plants starting from 2008 while others, especially developing countries, are still seeing nuclear energy as a modern and cheap alternative comparing to wind power or solar power. Brazil still focus its renewable energy plan on nuclear power, and China, with recent controversies regarding Fukushima disaster, has quite a few nuclear construction projects under way. Although Chernobyl, TMI and Fukushima disasters highlight weaknesses in safety measures of some nuclear power plants, safety can be improved. The first traffic light prototype killed a policeman, well-designed twin tower can be stroke down and an earthquake can shake a nuclear power plant down. These accidents, though worrying people, but hardly can be a showstopper for nuclear power in general. However, the problem with nuclear waste was underplayed for many years may well be the killer switch for nuclear power installation. This survey intended to summarize recent developments of nuclear reactors, and hopefully, would also provide an insight into the possible future of nuclear energy development regarding some popular concerns.

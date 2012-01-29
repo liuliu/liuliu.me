@@ -6,7 +6,7 @@ status: draft
 title: Target has been Vectorized and Quantized
 wordpress_id: '610'
 categories:
-- Twitter
+- twitter
 ---
 
 A common method to do computer experiment is to vectorize something and then quantize them in order to get a good, discrete representation of the essence. The one convenient thing about multimedia is that all the digital form of media is naturally a vector and sort of quantized. That's to say, to extract a better representation of media, we only have to apply different linear/non-linear transformations.

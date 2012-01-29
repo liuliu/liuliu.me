@@ -6,7 +6,7 @@ status: publish
 title: The Limitation of Local Feature Descriptor
 wordpress_id: '467'
 categories:
-- Eyes
+- eyes
 ---
 
 Local feature descriptor (LFD) is an overwhelming successful method for image comparision which is currently the best solution against in-plane-rotation, distortion and light variations. However, there are some assumptions should be noticed. LFD is a appearance feature. It is more stable than pixel feature, but after all, the property of appearance feature still disturbs the ability of LFD. First, the appearance feature is vulnerable to variations of light and the description ability is depended by the complexity of appearance. LFD by collecting features through the key areas counteract the interferences of image variations. You can view that as sort of extension to shape description. Still, for object with low complexity of appearance, LFD failed to achieve any thing. The test senerio will be a color ball with a complex background. For this senerio, LFD cannot capture any useful information of the ball because the distinguish of the ball is the shape not appearance. For that part, LFD can do little.

@@ -6,7 +6,7 @@ status: draft
 title: 为什么48核的CPU不是未来
 wordpress_id: '747'
 categories:
-- Twitter
+- twitter
 ---
 
 这篇文章大部分只是重复偶Prof和业界的一些观点，但是我觉得有必要说明一下，因为似乎媒体，特别是中文媒体在这些方面还有很大的误解。例如电脑报的这篇文章，就存在很多概念错误：[http://www.shudoo.com/09/1225/09/13777145.html](http://www.shudoo.com/09/1225/09/13777145.html)。

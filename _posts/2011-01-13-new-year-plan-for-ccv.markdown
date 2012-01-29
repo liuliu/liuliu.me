@@ -6,7 +6,7 @@ status: publish
 title: New Year Plan for CCV
 wordpress_id: '1148'
 categories:
-- Eyes
+- eyes
 ---
 
 I've developed ccv for about a good of year. In the beginning of September, I've set out the goal to finish 4 important applications in ccv: 1). a key-point detection/matching algorithm; 2). an object detection algorithm; 3). text detection algorithm; 4). 3d reconstruction algorithm. Now, the first two have already finished and released, and the development since has been stagnated for about two months, it is a good time to recap some of my thought on this project and what's the direction it will end up to.

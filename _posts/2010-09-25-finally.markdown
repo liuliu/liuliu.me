@@ -6,7 +6,7 @@ status: publish
 title: Finally
 wordpress_id: '1008'
 categories:
-- Twitter
+- twitter
 ---
 
 I released the first preview of ccv: [http://github.com/liuliu/ccv](http://github.com/liuliu/ccv)

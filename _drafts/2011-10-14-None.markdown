@@ -6,7 +6,7 @@ status: draft
 title: On Core Competency
 wordpress_id: '1326'
 categories:
-- Twitter
+- twitter
 ---
 
 As naive as I am, or as biased as an engineer, I still think that the core competency in reforming any current physical activities lies in between engineering efforts and design. The core competency of an online banking is the engineering of optimizing

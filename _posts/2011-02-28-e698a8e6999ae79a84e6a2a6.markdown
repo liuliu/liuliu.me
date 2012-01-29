@@ -6,7 +6,7 @@ status: publish
 title: 昨晚的梦
 wordpress_id: '1207'
 categories:
-- Twitter
+- twitter
 ---
 
 使我悲哀地意识到，经过这么多年的修养，仍然是一个天才的鼓动家。

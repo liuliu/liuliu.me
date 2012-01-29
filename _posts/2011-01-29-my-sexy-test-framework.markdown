@@ -6,7 +6,7 @@ status: publish
 title: My Sexy Test Framework
 wordpress_id: '1171'
 categories:
-- Twitter
+- twitter
 ---
 
 Look & Feel:

@@ -6,7 +6,7 @@ status: publish
 title: monster of overfitting
 wordpress_id: '690'
 categories:
-- Twitter
+- twitter
 ---
 
 my feature space is too fat.

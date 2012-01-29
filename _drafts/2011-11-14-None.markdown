@@ -6,7 +6,7 @@ status: draft
 title: 伟大帝国的没落
 wordpress_id: '1361'
 categories:
-- Twitter
+- twitter
 ---
 
 None

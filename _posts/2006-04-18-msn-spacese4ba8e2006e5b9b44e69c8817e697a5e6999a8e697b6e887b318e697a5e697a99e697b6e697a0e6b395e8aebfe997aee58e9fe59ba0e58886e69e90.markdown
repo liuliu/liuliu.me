@@ -6,7 +6,7 @@ status: publish
 title: MSN Spaces于2006年4月17日晚8时至18日早9时无法访问原因分析
 wordpress_id: '8'
 categories:
-- Twitter
+- twitter
 ---
 
 **概况介绍：**

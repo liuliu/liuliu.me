@@ -6,7 +6,7 @@ status: publish
 title: 此事
 wordpress_id: '396'
 categories:
-- Twitter
+- twitter
 ---
 
 一个月后再做评论

@@ -6,7 +6,7 @@ status: publish
 title: 成佛
 wordpress_id: '271'
 categories:
-- Twitter
+- twitter
 ---
 
 这几天徘徊在Linux和Windows之下，使用C++，C#和PHP。使用框架有APR和XNA，太爽了。

@@ -6,7 +6,7 @@ status: publish
 title: 新闻无评论（7月8日）
 wordpress_id: '355'
 categories:
-- Twitter
+- twitter
 ---
 
 百仕通对酒店业的乐观预期或将落空  

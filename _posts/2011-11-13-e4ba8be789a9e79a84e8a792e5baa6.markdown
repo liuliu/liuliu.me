@@ -6,7 +6,7 @@ status: publish
 title: 事物的角度
 wordpress_id: '1356'
 categories:
-- Twitter
+- twitter
 ---
 
 有时候，人们通常会在容易批评到的角度看待事物。比如今天在新浪微博上看到有人转：

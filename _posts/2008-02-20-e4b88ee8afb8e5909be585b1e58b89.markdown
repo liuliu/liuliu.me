@@ -6,7 +6,7 @@ status: publish
 title: 与诸君共勉
 wordpress_id: '267'
 categories:
-- Twitter
+- twitter
 ---
 
 常将有时思无时，莫把无时当有时。

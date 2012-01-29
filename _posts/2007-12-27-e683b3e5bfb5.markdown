@@ -6,7 +6,7 @@ status: publish
 title: 想念
 wordpress_id: '284'
 categories:
-- Twitter
+- twitter
 ---
 
 去年此时在SB碰到的短裙女孩

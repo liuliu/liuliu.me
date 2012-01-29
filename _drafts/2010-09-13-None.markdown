@@ -6,7 +6,7 @@ status: draft
 title: Introducing LimPQ Service, Concepts and Ideas
 wordpress_id: '619'
 categories:
-- Twitter
+- twitter
 ---
 
 [limpq.com](http://limpq.com) is my newest venture to help developers get rid of all the madness in implementing a web-based photo management application. The web interface is only my vision of how a web photo management app should look like. The whole idea behind limPQ is about providing simple and robust photo management system that can be easily customized and embedded. With limPQ, developer can create a photo management app in minutes by pure javascript API or RESTful API.

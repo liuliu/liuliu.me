@@ -6,7 +6,7 @@ status: publish
 title: 巴西完了
 wordpress_id: '48'
 categories:
-- Twitter
+- twitter
 ---
 
 8年前，8年后。

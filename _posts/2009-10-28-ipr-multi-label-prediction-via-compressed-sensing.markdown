@@ -6,7 +6,7 @@ status: publish
 title: 'IPR: Multi-Label Prediction via Compressed Sensing'
 wordpress_id: '685'
 categories:
-- Interesting Paper Reading
+- interesting paper reading
 ---
 
 [[PDF](http://arxiv.org/abs/0902.1284)]

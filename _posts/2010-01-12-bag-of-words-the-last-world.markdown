@@ -6,7 +6,7 @@ status: draft
 title: Bag of Words, the Last World?
 wordpress_id: '756'
 categories:
-- Eyes
+- eyes
 ---
 
 It has been a while that when people talking about general purpose image retrieval, it has to be bag of words model related. No doubt bag of words is a powerful model to solve image retrieval problem, however, is it the last model we have to solve the problem after all?

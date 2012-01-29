@@ -6,7 +6,7 @@ status: publish
 title: Image Self-Similarity Everywhere
 wordpress_id: '593'
 categories:
-- Eyes
+- eyes
 tags:
 - ensemble tracking
 - self-similarity

@@ -6,7 +6,7 @@ status: publish
 title: 简单说一下iPad
 wordpress_id: '789'
 categories:
-- Twitter
+- twitter
 ---
 
 没错，今天有两件大事：1. Apple发布了iPad；2. Armor Plus: Tekknoman Blade发布了。喜欢iPad的价格，大小，厚度。但是，直觉不喜欢一个全在苹果控制中的世界。每个公司都带有自己的个性的。这么多年了，Eric还是想他那个Workstation-Server的梦；Bill还在卖他的软件，因为“软件是需要钱来开发的”；而Steve还想他的控制整个生产链的世界。理性上知道通过控制终端，Apple的开发者可以赚到更多钱，但是作为一个封闭终端，是不是有点大？我不知道，只是反直觉。

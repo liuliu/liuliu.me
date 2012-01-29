@@ -6,7 +6,7 @@ status: publish
 title: 刘备
 wordpress_id: '316'
 categories:
-- Twitter
+- twitter
 ---
 
 小时候一直觉得刘备谦近于伪。  

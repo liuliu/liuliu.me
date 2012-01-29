@@ -6,7 +6,7 @@ status: draft
 title: Review Vector Boosting with Bag of Words
 wordpress_id: '787'
 categories:
-- Twitter
+- twitter
 ---
 
 While reviewing vector boosting, the idea is tempting. It is a way to vectorize a region super fast and has learning ability inside. Sounds familiar? Modern dense descriptors do exactly like that but without the learning ability. More than that, if we can learning a vector from a given region, why not just learn the bag of words model directly? When you consider the user case of vector boosting (for different pose of faces), the output vector are generally sparse and so the bag of words model. What a great fit.

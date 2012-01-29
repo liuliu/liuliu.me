@@ -6,7 +6,7 @@ status: publish
 title: Freedom doesn't come free
 wordpress_id: '1289'
 categories:
-- Twitter
+- twitter
 ---
 
 Or stop bullshitting, Thomas Friedman!

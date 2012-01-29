@@ -6,7 +6,7 @@ status: publish
 title: 清谈误国
 wordpress_id: '277'
 categories:
-- Twitter
+- twitter
 ---
 
 Google.cn是没有创意的公司  

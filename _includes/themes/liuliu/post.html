@@ -1,20 +1,20 @@
-<div class="article"><div class="title"><a href="{{ page.url }}">{{ page.title }}</a></div><a href="{{ page.url }}#disqus_thread" class="comment-counter" data-disqus-identifier="{{ page.url }}">No comment yet<div><div></div></div></a><div class="datetime">{{ page.date | date_to_long_string }}</div><div class="paragraph">{{ page.content | markdownify }}</div></div>
+<div class="article"><div class="title"><a href="{{ page.url }}">{{ page.title }}</a></div><a href="{{ page.url }}#disqus_thread" class="comment-counter" data-disqus-identifier="{% if page.wordpress_id %}{{ page.wordpress_id }} http://jsms.me/?p={{ page.wordpress_id }}{% else %}{{ page.url }}{% endif %}">No comment yet<div><div></div></div></a><div class="datetime">{{ page.date | date_to_human_string }}</div><div class="paragraph">{{ page.content | markdownify }}</div></div>
 <div id="discuss"><div class="related-lead">Related Posts</div>
 {% if site.related_posts.size > 0 %}
 <ul class="related">
 	{% for post in site.related_posts %}
-	<li><a href="{{ post.url }}">{{ post.date | date_to_string }}, {{ post.title }}</a></li>
+<li><a href="{{ post.url }}">{{ post.date | date_to_string }}, {{ post.title }}</a></li>
 	{% endfor %}
 </ul>
 {% endif %}
-{% if page.next %}
-<div class="next"><a href="{{ page.next.url }}" title="{{ page.next.title }}">Next &rsaquo;</a></div>
-{% else %}
-<div class="next">Next &rsaquo;</div>
-{% endif %}
 {% if page.previous %}
-<div class="prev"><a href="{{ page.previous.url }}" title="{{ page.previous.title }}">&lsaquo; Previous</a></div>
+<div class="older"><a href="{{ page.previous.url }}" title="{{ page.previous.title }}">Older &rsaquo;</a></div>
 {% else %}
-<div class="prev">&lsaquo; Previous</div>
+<div class="older">Older &rsaquo;</div>
+{% endif %}
+{% if page.next %}
+<div class="newer"><a href="{{ page.next.url }}" title="{{ page.next.title }}">&lsaquo; Newer</a></div>
+{% else %}
+<div class="newer">&lsaquo; Newer</div>
 {% endif %}
 <div class="comment">{% include JB/comments %}</div></div>

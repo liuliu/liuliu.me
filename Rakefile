@@ -94,7 +94,7 @@ end # task :preview
 
 desc "Update to production"
 task :update do
-  system "jekyll ; rsync -az --delete _site kamino@liuliu.me:/home/kamino/jekyll"
+  system "jekyll ; rsync -avz --progress --delete _site/* kamino@liuliu.me:/home/kamino/jekyll/"
 end # task :update
 
 def ask(message, valid_options)

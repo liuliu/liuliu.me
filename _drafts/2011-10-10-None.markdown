@@ -6,7 +6,7 @@ status: draft
 title: My Creative Pause
 wordpress_id: '1324'
 categories:
-- Twitter
+- twitter
 ---
 
 None

@@ -6,7 +6,7 @@ status: publish
 title: New Fotas.net will be Enhanced with NDQI
 wordpress_id: '524'
 categories:
-- Twitter
+- twitter
 ---
 
 Fotas.net is always proud of its "[dynamic folder](http://www.vimeo.com/1927194)" technology. Now, with NDQI (Non-structural Data Query Interface), the new fotas.net collection (former name "dynamic folder") will be more powerful and finally syntax-complete.

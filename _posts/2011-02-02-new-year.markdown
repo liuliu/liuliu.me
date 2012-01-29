@@ -6,7 +6,7 @@ status: publish
 title: New Year
 wordpress_id: '1166'
 categories:
-- Twitter
+- twitter
 ---
 
 do a lot of things; be productive; make concrete progress and patient.

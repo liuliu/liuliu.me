@@ -6,7 +6,7 @@ status: publish
 title: 意
 wordpress_id: '992'
 categories:
-- Twitter
+- twitter
 ---
 
 农人看到的是糟蹋过的麦田，猎人看到的却是活泼的野猪。

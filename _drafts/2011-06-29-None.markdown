@@ -6,7 +6,7 @@ status: draft
 title: (Why) do things one doesn't like
 wordpress_id: '1291'
 categories:
-- Twitter
+- twitter
 ---
 
 It is famous to say, if you don't like it, don't do it. Such ignorant attitude is wrong because human brain fundamentally cannot  the 

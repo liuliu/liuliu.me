@@ -6,7 +6,7 @@ status: publish
 title: 香港独立了
 wordpress_id: '290'
 categories:
-- Twitter
+- twitter
 ---
 
 该多好。只用带着护照去香港驻中国大使馆办个签证就行了。

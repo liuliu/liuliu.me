@@ -6,7 +6,7 @@ status: publish
 title: 颠沛流离
 wordpress_id: '221'
 categories:
-- Twitter
+- twitter
 ---
 
 终于回家了。这日子过得，前几天还在海拔为负的地方，过几天就到了海拔4000多米的地方。

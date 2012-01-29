@@ -6,7 +6,7 @@ status: publish
 title: 欲望
 wordpress_id: '272'
 categories:
-- Twitter
+- twitter
 ---
 
 是一切罪恶的源泉。

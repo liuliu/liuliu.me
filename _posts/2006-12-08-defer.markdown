@@ -6,7 +6,7 @@ status: publish
 title: Defer
 wordpress_id: '335'
 categories:
-- Twitter
+- twitter
 ---
 
 既然有些事情人控制不了，只能劳民伤财地和概率赌一把了

@@ -6,7 +6,7 @@ status: publish
 title: Audrey Hepburn
 wordpress_id: '323'
 categories:
-- Twitter
+- twitter
 ---
 
 今天生日，怪不得。  

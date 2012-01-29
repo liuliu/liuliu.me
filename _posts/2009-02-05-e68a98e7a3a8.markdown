@@ -6,7 +6,7 @@ status: publish
 title: 折磨
 wordpress_id: '474'
 categories:
-- Twitter
+- twitter
 ---
 
 搞MSER搞了一周了，还是在找local minimum的时候有问题，而且还比原文的实现结果慢了4倍左右，感慨怎么实现点稍微复杂的算法就已经这么疲惫了。

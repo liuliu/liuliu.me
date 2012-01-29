@@ -6,7 +6,7 @@ status: publish
 title: I am not
 wordpress_id: '836'
 categories:
-- Twitter
+- twitter
 ---
 
 [http://www.paulgraham.com/hamming.html](http://www.paulgraham.com/hamming.html)

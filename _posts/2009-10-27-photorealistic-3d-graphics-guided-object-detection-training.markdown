@@ -6,7 +6,7 @@ status: publish
 title: Photorealistic 3D Graphics Guided Object Detection Training
 wordpress_id: '671'
 categories:
-- Eyes
+- eyes
 tags:
 - 3d render
 - object detection

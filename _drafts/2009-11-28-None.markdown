@@ -6,7 +6,7 @@ status: draft
 title: 谈创业团队
 wordpress_id: '703'
 categories:
-- Twitter
+- twitter
 ---
 
 最近有朋友跟我说要在互联网创业了。身边想做，已经开始做的朋友不少了，大家总是纠结在这几个问题，团队多大合适，怎么配置，股份怎么分配。

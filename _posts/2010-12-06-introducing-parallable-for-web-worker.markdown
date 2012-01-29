@@ -6,7 +6,7 @@ status: publish
 title: Introducing Parallable for Web Worker
 wordpress_id: '1103'
 categories:
-- Eyes
+- eyes
 ---
 
 I've spent sometime this afternoon to perfecting the web worker implementation in [ccv.js](https://github.com/liuliu/ccv/blob/current/js/ccv.js). Something interested me is that maybe, I can implement a thing that makes web worker painless. The current web worker flow is: 1). you partitioned the work into many pieces of jobs; 2). create a small js file that explicitly handle one job; 3). create bunch of workers from the small js file and run; 4). collect results. The workflow is great in a way that it explicitly specified the message-passing path. I am a big fan of MP model for parallel computing (my professor Andrew Grimshaw has a big rant on shared-memory thing just every time you asked him) and the web worker just hit the right taste.

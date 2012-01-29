@@ -6,7 +6,7 @@ status: publish
 title: Habit
 wordpress_id: '1001'
 categories:
-- Twitter
+- twitter
 ---
 
 I have a long essay on augmented reality and social network. But it just take too long to finish. Lost in translation.

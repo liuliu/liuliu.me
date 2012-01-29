@@ -6,7 +6,7 @@ status: publish
 title: Revising Basic Ideas of Good Interesting Point Detector
 wordpress_id: '720'
 categories:
-- Eyes
+- eyes
 tags:
 - interesting point detector
 - local feature descriptor

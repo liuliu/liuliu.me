@@ -6,7 +6,7 @@ status: publish
 title: Too much fun
 wordpress_id: '793'
 categories:
-- Twitter
+- twitter
 ---
 
 but time is too short.

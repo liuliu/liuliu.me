@@ -6,7 +6,7 @@ status: publish
 title: Juno
 wordpress_id: '273'
 categories:
-- Twitter
+- twitter
 ---
 
 Juno is sweet. I  made up my mind to get Ph.D in CS before 25 just now.  

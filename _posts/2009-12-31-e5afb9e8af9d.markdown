@@ -6,7 +6,7 @@ status: publish
 title: 对话
 wordpress_id: '741'
 categories:
-- Twitter
+- twitter
 ---
 
 刚才看了个10年前的对话节目，意识到逻辑混乱是从60年代生人就开始了。

@@ -6,7 +6,7 @@ status: publish
 title: My Existence
 wordpress_id: '61'
 categories:
-- Twitter
+- twitter
 ---
 
 偶现在在北京，维持到明天12点，有要来探狱的朋友赶快。

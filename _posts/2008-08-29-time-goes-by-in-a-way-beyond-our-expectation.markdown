@@ -6,7 +6,7 @@ status: publish
 title: time goes by in a way beyond our expectation
 wordpress_id: '308'
 categories:
-- Twitter
+- twitter
 ---
 
 听说小学时候的一个同学死了。得了精神病，从楼上掉下来。小学六年级的时候，我和他都被老师认为最有可能进清华北大的学生。

@@ -6,7 +6,7 @@ status: publish
 title: What is
 wordpress_id: '319'
 categories:
-- Twitter
+- twitter
 ---
 
 GIST Descriptor?  

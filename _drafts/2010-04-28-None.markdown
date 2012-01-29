@@ -6,7 +6,7 @@ status: draft
 title: The Fallacy of Military Occupation
 wordpress_id: '956'
 categories:
-- Twitter
+- twitter
 ---
 
 The march to Baghdad in April, 2003 symbolized a triumph of the United States military force. However, the premature occupation policies of Iraq caused more chaos and uncertainty. Conventional wisdom suggests that the longer the military occupation is the more chaos it will create.  Contrarily, “The Surge”, Bush’s new way forward which essentially meant to send more troops to Iraq harvested many positive effects in the past three years. To many politicians, it seems now that sending more military force can solve the problem. However, the successes in Iraq only proved that enforcing more police power and regulations can improve local security situation. It cannot justify the necessity to send more troops under similar situation in the future.

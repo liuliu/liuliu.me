@@ -6,7 +6,7 @@ status: draft
 title: This is the end of everything
 wordpress_id: '1405'
 categories:
-- Twitter
+- twitter
 ---
 
 None

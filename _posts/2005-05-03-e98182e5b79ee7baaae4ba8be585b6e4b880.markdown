@@ -6,7 +6,7 @@ status: publish
 title: 遂州纪事其一
 wordpress_id: '92'
 categories:
-- Twitter
+- twitter
 ---
 
 今天是生日，总得写点什么吧。 

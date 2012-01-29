@@ -6,7 +6,7 @@ status: publish
 title: 遂州纪事其三
 wordpress_id: '23'
 categories:
-- Twitter
+- twitter
 ---
 
 这部分其实早就写好雪藏在电脑里面，偶然翻出来，以飨读者。

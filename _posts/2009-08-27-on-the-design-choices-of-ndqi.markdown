@@ -6,7 +6,7 @@ status: publish
 title: On the Design Choices of NDQI
 wordpress_id: '520'
 categories:
-- Eyes
+- eyes
 ---
 
 In my [several](http://jsms.me/?p=450) [former](http://jsms.me/?p=484) [articles](http://jsms.me/?p=517), I mentioned a system from different degrees and now I think it is the time to bring the stealth project: NDQI (Non-structural Data Query Interface) to the spot light.

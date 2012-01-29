@@ -6,7 +6,7 @@ status: publish
 title: Being a Month
 wordpress_id: '784'
 categories:
-- Twitter
+- twitter
 ---
 
 Having been a month on the "new" point detector idea, I cannot get progress. Giving up and using FAST + Multiscale + Orientation Prediction + WLD.

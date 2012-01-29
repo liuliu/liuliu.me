@@ -6,7 +6,7 @@ status: publish
 title: Creating Competitive Market for Patent
 wordpress_id: '1391'
 categories:
-- Eyes
+- eyes
 ---
 
 Patent in its traditional meaning, is a government-protected monopoly. However, because it is a granted property right that covers wide range of transactions, questionable practices such as patent suppression are invented ever since. By actively applying for patents and passively asking for royalty fee, it now becomes a standalone business mode, companies like Intellectual Ventures and Digitude Innovations are actively seeking legal means to profit from the large patent pools they gathered through acquisitions and bankruptcy liquidations. These business practices failed to address the very principle of patent law, which is to reward patent inventors in order to better promote technology advancement. On the other hand, in today’s world, a competitive market shows great success in allocating resources. If we can create a competitive market for patent through some minor modifications on current patent practice, it would be expected that many bad business practices due to our inefficient patent allocation would go away.

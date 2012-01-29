@@ -6,7 +6,7 @@ status: publish
 title: 香蕉的故事
 wordpress_id: '307'
 categories:
-- Twitter
+- twitter
 ---
 
 如果你有一根快坏掉的香蕉怎么办？很多人是如果只坏了一点的话就把它咬掉再吃，如果差不多都坏了就装做没坏的样子吃了。

@@ -6,7 +6,7 @@ status: publish
 title: 心情低落时
 wordpress_id: '1294'
 categories:
-- Twitter
+- twitter
 ---
 
 我总是读书。于是昨天又买了好多好多流行书。

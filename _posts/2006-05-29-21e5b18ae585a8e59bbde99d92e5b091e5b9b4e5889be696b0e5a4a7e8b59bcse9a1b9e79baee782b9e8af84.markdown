@@ -6,7 +6,7 @@ status: publish
 title: 21届全国青少年创新大赛CS项目点评
 wordpress_id: '53'
 categories:
-- Twitter
+- twitter
 ---
 
 由于项目不是很多，一共才18个，打算逐个点评，虽然与我无关，随兴而来。点评有褒贬，无恶意。

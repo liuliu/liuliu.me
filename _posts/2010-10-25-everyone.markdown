@@ -6,7 +6,7 @@ status: publish
 title: Everyone
 wordpress_id: '1060'
 categories:
-- Twitter
+- twitter
 ---
 
 should read this: [http://paulbuchheit.blogspot.com/2010/10/serendipity-finds-you.html](http://paulbuchheit.blogspot.com/2010/10/serendipity-finds-you.html). It is inspirational, eye-opening and positive.

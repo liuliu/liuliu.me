@@ -6,7 +6,7 @@ status: publish
 title: 想到老罗
 wordpress_id: '970'
 categories:
-- Twitter
+- twitter
 ---
 
 说的一句话：我发现这个世界惊人的事实是，坏人往往比好人更努力。

@@ -6,7 +6,7 @@ status: publish
 title: Numeric Method
 wordpress_id: '982'
 categories:
-- Twitter
+- twitter
 ---
 
 interested to solve a traditional problem with numeric method. Having some promising result but still, I am so bad at derivatives.

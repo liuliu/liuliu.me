@@ -6,7 +6,7 @@ status: publish
 title: 夏日偶题
 wordpress_id: '369'
 categories:
-- Twitter
+- twitter
 ---
 
 未见金髻未见人，  

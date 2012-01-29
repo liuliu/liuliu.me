@@ -6,7 +6,7 @@ status: draft
 title: 那些年，我们一起追的女孩，她们还好么
 wordpress_id: '1397'
 categories:
-- Twitter
+- twitter
 ---
 
 None

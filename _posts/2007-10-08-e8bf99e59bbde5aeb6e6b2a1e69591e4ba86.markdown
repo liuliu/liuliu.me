@@ -6,7 +6,7 @@ status: publish
 title: 这国家没救了
 wordpress_id: '347'
 categories:
-- Twitter
+- twitter
 ---
 
 偌大个机场，连个卖杂志的地方都没有。

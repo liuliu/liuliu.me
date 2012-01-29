@@ -6,7 +6,7 @@ status: publish
 title: 新闻无评论（5月13日）
 wordpress_id: '371'
 categories:
-- Twitter
+- twitter
 ---
 
 迷信怎能托起孩子的**前程？**  

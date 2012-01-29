@@ -6,7 +6,7 @@ status: publish
 title: 漂亮
 wordpress_id: '294'
 categories:
-- Twitter
+- twitter
 ---
 
 小女孩们一个个都出落得越加漂亮了。

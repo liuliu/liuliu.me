@@ -6,7 +6,7 @@ status: publish
 title: 遂州纪事与社会底层
 wordpress_id: '376'
 categories:
-- Twitter
+- twitter
 ---
 
 遂州纪事很久没动笔了，并不是因为别的太多原因，一是太忙，二是故事本身。

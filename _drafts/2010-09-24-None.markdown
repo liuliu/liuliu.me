@@ -6,7 +6,7 @@ status: draft
 title: On Betting the Big will Fail
 wordpress_id: '1007'
 categories:
-- Twitter
+- twitter
 ---
 
 I have the little hobbit of predicting the future, based on patterns. The recent fail of Cuil to Google and upcoming challengers of CollegeOnly and Diaspora to Facebook give me a chance to predict the pattern of small startup up against big player in market.

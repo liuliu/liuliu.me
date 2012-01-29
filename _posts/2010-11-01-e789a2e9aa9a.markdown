@@ -6,7 +6,7 @@ status: publish
 title: 牢骚
 wordpress_id: '1062'
 categories:
-- Twitter
+- twitter
 ---
 
 没想到设计个简单的物理引擎还这么费事，[另](http://liuliu.me/detect/detect.html)。

@@ -6,7 +6,7 @@ status: publish
 title: 开口元神散，舌动是非生
 wordpress_id: '60'
 categories:
-- Twitter
+- twitter
 ---
 
 记住奶奶的教导。

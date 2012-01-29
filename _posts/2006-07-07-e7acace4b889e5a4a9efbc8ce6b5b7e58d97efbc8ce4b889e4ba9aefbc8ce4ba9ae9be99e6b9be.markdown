@@ -6,7 +6,7 @@ status: publish
 title: 第三天，海南，三亚，亚龙湾
 wordpress_id: '44'
 categories:
-- Twitter
+- twitter
 ---
 
 今天一觉又睡到了十点，简直是养成习惯了。赶快起来去吃早餐。早餐很丰富啊，吃得很饱，以至于中午和岑一个PIZZA就打发了。

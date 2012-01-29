@@ -6,7 +6,7 @@ status: publish
 title: Using Affinity Propagation as a Descriptor-Reducing Tool
 wordpress_id: '517'
 categories:
-- Eyes
+- eyes
 tags:
 - affinity propagation
 - content-based image search

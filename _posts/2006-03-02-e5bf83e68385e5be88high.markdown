@@ -6,7 +6,7 @@ status: publish
 title: 心情很High
 wordpress_id: '36'
 categories:
-- Twitter
+- twitter
 ---
 
 憋了一天的Abstract，如果不写点东西人要憋坏掉。

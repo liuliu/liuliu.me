@@ -6,7 +6,7 @@ status: publish
 title: 一周多不在状态了
 wordpress_id: '1217'
 categories:
-- Twitter
+- twitter
 ---
 
 但是事情也不会自己完成。要慢慢把状态给Pick Up。首先把Hacker News给戒了吧。还有各种情绪控制，深呼吸，冥想。

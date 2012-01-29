@@ -6,7 +6,7 @@ status: publish
 title: 黄鸣
 wordpress_id: '275'
 categories:
-- Twitter
+- twitter
 ---
 
 8，  这个时代不是爱迪生、牛顿的时代了，而是TEAM WORK的时代。一个企业的研发绝不象个人想象的那么简单，所以他拒绝民间合作，拒绝民间发明者，一个到40岁还在个人鼓捣发明的家伙肯定是个偏执狂。

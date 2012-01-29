@@ -6,7 +6,7 @@ status: publish
 title: Let's bet on
 wordpress_id: '1065'
 categories:
-- Twitter
+- twitter
 ---
 
 [http://www.longbets.org/588](http://www.longbets.org/588)

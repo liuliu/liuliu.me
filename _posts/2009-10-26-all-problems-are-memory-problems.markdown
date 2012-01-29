@@ -6,7 +6,7 @@ status: publish
 title: All Problems are Memory Problems
 wordpress_id: '673'
 categories:
-- Twitter
+- twitter
 ---
 
 And all hail to Turing. Who can tell me how the "Remapping PCI Memory to Memory" option affects Linux 64bit and Win7 64bit?

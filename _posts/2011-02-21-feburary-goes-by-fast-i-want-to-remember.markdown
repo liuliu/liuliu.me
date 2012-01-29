@@ -6,7 +6,7 @@ status: publish
 title: Feburary goes by fast, I want to remember
 wordpress_id: '1191'
 categories:
-- Twitter
+- twitter
 ---
 
 that words contain power. It shouldn't. Wait Ender's, his game.

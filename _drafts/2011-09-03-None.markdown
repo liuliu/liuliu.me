@@ -6,7 +6,7 @@ status: draft
 title: On Playing Safe
 wordpress_id: '1313'
 categories:
-- Twitter
+- twitter
 ---
 
 None

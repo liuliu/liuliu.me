@@ -6,7 +6,7 @@ status: publish
 title: 乱世
 wordpress_id: '786'
 categories:
-- Twitter
+- twitter
 ---
 
 用重典。钦此。

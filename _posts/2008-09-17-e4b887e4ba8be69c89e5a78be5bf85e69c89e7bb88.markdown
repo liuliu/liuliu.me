@@ -6,7 +6,7 @@ status: publish
 title: 万事有始必有终
 wordpress_id: '303'
 categories:
-- Twitter
+- twitter
 ---
 
 本来不想说这事的，因为还有一些细节没有完全想清楚，想清楚了自然有一篇宏文。但是看到大家居然反应这么激烈。本来就是不正常的事情，现在不过是平衡了一下罢了。  

@@ -6,7 +6,7 @@ status: publish
 title: Reflection on Learning Distance
 wordpress_id: '492'
 categories:
-- Eyes
+- eyes
 tags:
 - distance learning
 - k-nn

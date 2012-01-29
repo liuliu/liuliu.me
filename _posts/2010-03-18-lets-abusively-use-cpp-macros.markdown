@@ -6,7 +6,7 @@ status: publish
 title: Let's abusively use cpp macros
 wordpress_id: '810'
 categories:
-- Eyes
+- eyes
 tags:
 - code optimization
 - framework

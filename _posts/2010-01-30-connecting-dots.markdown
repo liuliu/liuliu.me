@@ -6,7 +6,7 @@ status: publish
 title: Connecting Dots
 wordpress_id: '791'
 categories:
-- Twitter
+- twitter
 ---
 
 Enlightened. Suddenly feel everything I've learned in the past becomes meaningful. On somthing BIG.

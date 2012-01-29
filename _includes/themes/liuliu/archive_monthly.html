@@ -2,7 +2,15 @@
 {% for d in (1..31) reversed %}
 	{% if page.collated_posts[page.year][page.month][d] %}
 		{% for post in page.collated_posts[page.year][page.month][d] reversed %}
-<div class="article"><div class="title"><a href="{{ post.url }}">{{ post.title }}</a></div><a href="{{ post.url }}#disqus_thread" class="comment-counter" data-disqus-identifier="{{ post.url }}">No comment yet<div><div></div></div></a><div class="datetime">{{ post.date | date_to_long_string }}</div><div class="paragraph">{{ post.content | markdownify }}</div></div>
+<div class="article"><div class="title"><a href="{{ post.url }}">{{ post.title }}</a></div><a href="{{ post.url }}#disqus_thread" class="comment-counter" data-disqus-identifier="{% if post.wordpress_id %}{{ post.wordpress_id }} http://jsms.me/?p={{ post.wordpress_id }}{% else %}{{ post.url }}{% endif %}">No comment yet<div><div></div></div></a><div class="datetime">{{ post.date | date_to_human_string }}</div><div class="paragraph">{{ post.content | markdownify }}</div></div>
 		{% endfor %}
 	{% endif %}
 {% endfor %}
+<div id="discuss">
+{% if page.previous %}
+<div class="older"><a href="/{{ page.previous | date: "%Y/%m" }}">{{ page.previous | date: "%b, %Y" }} &rsaquo;</a></div>
+{% endif %}
+{% if page.next %}
+<div class="newer"><a href="/{{ page.next | date: "%Y/%m" }}">&lsaquo; {{ page.next | date: "%b, %Y" }}</a></div>
+{% endif %}
+</div>

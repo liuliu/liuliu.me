@@ -6,7 +6,7 @@ status: publish
 title: 'IPR: Attribute and Simile Classifiers for Face Verification'
 wordpress_id: '750'
 categories:
-- Interesting Paper Reading
+- interesting paper reading
 ---
 
 [[PDF](http://www1.cs.columbia.edu/CAVE/publications/pdfs/Kumar_ICCV09.pdf)]

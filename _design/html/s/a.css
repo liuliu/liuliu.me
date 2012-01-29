@@ -150,12 +150,6 @@ a.hyper:hover {
 	margin-right: 6px;
 }
 
-#header .title a:link,
-#header .title a:visited,
-#header .title a:hover {
-	text-decoration: none;
-}
-
 #header .divider {
 	overflow: hidden;
 }
@@ -186,16 +180,22 @@ a.hyper:hover {
 	margin-bottom: 2px;
 }
 
+#content #main .article {
+	margin-bottom: 28px;
+}
+
 #content #main .article .title {
-	margin-top: 26px;
-	margin-bottom: 20px;
+	margin-top: 20px;
+	margin-bottom: 14px;
 	margin-right: 290px;
 }
 
 #content #main .article .title a {
 	font-weight: bold;
+	text-transform: capitalize;
 	color: #dc3400;
 	font-size: 1.5em;
+	line-height: 125%;
 }
 
 #content #main .article .comment-counter {
@@ -239,6 +239,7 @@ a.hyper:hover {
 	text-align: right;
 	margin-right: 300px;
 	margin-bottom: 8px;
+	margin-top: 0.05em;
 }
 
 #content #main .article .paragraph {
@@ -261,7 +262,6 @@ a.hyper:hover {
 }
 
 #content #main #discuss {
-	margin-top: 26px;
 	margin-left: 20px;
 	margin-right: 310px;
 }
@@ -290,23 +290,23 @@ a.hyper:hover {
 	content: '» ';
 }
 
-#content #main #discuss .prev {
+#content #main #discuss .newer {
 	color: #454545;
 	margin-bottom: 20px;
 	float: left;
 }
 
-#content #main #discuss .next {
+#content #main #discuss .older {
 	color: #454545;
 	margin-bottom: 20px;
 	float: right;
 }
 
-#content #main #discuss .prev a {
+#content #main #discuss .newer a {
 	color: #dc3400;
 }
 
-#content #main #discuss .next a {
+#content #main #discuss .older a {
 	color: #dc3400;
 }
 

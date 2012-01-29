@@ -6,7 +6,7 @@ status: publish
 title: Proposal of a Query Language for Image Database
 wordpress_id: '712'
 categories:
-- Eyes
+- eyes
 ---
 
 **Introduction**

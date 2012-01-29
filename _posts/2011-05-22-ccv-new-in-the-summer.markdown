@@ -6,7 +6,7 @@ status: publish
 title: 'CCV: New in the Summer'
 wordpress_id: '1277'
 categories:
-- Eyes
+- eyes
 ---
 
 The progress of ccv during the spring is not as good as I expected. During the spring, I've finished a new test framework for ccv known as CASE, and moved most ccv ad-hoc unit tests into this framework. I've implemented SWT (Stroke Width Transform) for text detection, though the result on test dataset is not as good as the original paper claims to be. The DPM (Deformable-Parts Model, a.k.a. Latent SVM) implementation was started, but quickly got stalled.
