@@ -50,6 +50,14 @@ table {
 	border-spacing: 0;
 }
 
+strong {
+	font-weight: bold;
+}
+
+a, a:link, a:visited, a:hover {
+	text-decoration: none;
+}
+
 a.hyper {
 	color: #0a7acd;
 	cursor: pointer;
@@ -89,6 +97,24 @@ a.hyper:hover {
 	height: 18px;
 	position: relative;
 	overflow: hidden;
+}
+
+#footer {
+	clear: both;
+	padding-top: 20px;
+}
+
+#footer div {
+	text-align: center;
+	font-size: 0.8em;
+	margin: 0px 60px 16px 60px;
+	padding-top: 12px;
+	color: #454545;
+	border-top: 2px #ffffff dotted;
+}
+
+#footer a {
+	color: #454545;
 }
 
 #header .me {
@@ -152,25 +178,29 @@ a.hyper:hover {
 	font-family: "minion-pro-1","minion-pro-2","Palatino",Georgia,"Times New Roman",serif;
 }
 
+#content #main .lead {
+	margin-top: 14px;
+	font-size: 1.2em;
+	color: #454545;
+	margin-left: 10px;
+	margin-bottom: 2px;
+}
+
 #content #main .article .title {
 	margin-top: 26px;
 	margin-bottom: 20px;
+	margin-right: 290px;
 }
 
 #content #main .article .title a {
 	font-weight: bold;
 	color: #dc3400;
 	font-size: 1.5em;
-	text-decoration: none;
-}
-
-#content #main .article .title a:link,
-#content #main .article .title a:visited,
-#content #main .article .title a:hover {
-	text-decoration: none;
 }
 
 #content #main .article .comment-counter {
+	display: block;
+	color: #000000;
 	float: left;
 	font-size: 0.9em;
 	margin-left: 10px;
@@ -206,8 +236,8 @@ a.hyper:hover {
 #content #main .article .datetime {
 	font-size: 1em;
 	font-weight: bold;
-	float: right;
-	margin-right: 45px;
+	text-align: right;
+	margin-right: 300px;
 	margin-bottom: 8px;
 }
 
@@ -228,13 +258,60 @@ a.hyper:hover {
 
 #content #main .article .paragraph a {
 	color: #dc3400;
-	text-decoration: none;
 }
 
-#content #main .article .paragraph a:link,
-#content #main .article .paragraph a:visited,
-#content #main .article .paragraph a:hover {
-	text-decoration: none;
+#content #main #discuss {
+	margin-top: 26px;
+	margin-left: 20px;
+	margin-right: 310px;
+}
+
+#content #main #discuss .related-lead {
+	font-size: 0.9em;
+	margin-bottom: 20px;
+	margin-left: 10px;
+}
+
+#content #main #discuss .related {
+	font-size: 0.9em;
+	margin-bottom: 28px;
+	margin-left: 20px;
+}
+
+#content #main #discuss .related li {
+	margin-bottom: 9px;
+}
+
+#content #main #discuss .related li a {
+	color: #dc3400;
+}
+
+#content #main #discuss .related li a:before {
+	content: '» ';
+}
+
+#content #main #discuss .prev {
+	color: #454545;
+	margin-bottom: 20px;
+	float: left;
+}
+
+#content #main #discuss .next {
+	color: #454545;
+	margin-bottom: 20px;
+	float: right;
+}
+
+#content #main #discuss .prev a {
+	color: #dc3400;
+}
+
+#content #main #discuss .next a {
+	color: #dc3400;
+}
+
+#content #main #discuss .comment {
+	clear: left;
 }
 
 #content #navigation {

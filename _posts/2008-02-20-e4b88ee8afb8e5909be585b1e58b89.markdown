@@ -1,0 +1,12 @@
+---
+date: '2008-02-20 00:32:00'
+layout: post
+slug: '%e4%b8%8e%e8%af%b8%e5%90%9b%e5%85%b1%e5%8b%89'
+status: publish
+title: 与诸君共勉
+wordpress_id: '267'
+categories:
+- Twitter
+---
+
+常将有时思无时，莫把无时当有时。

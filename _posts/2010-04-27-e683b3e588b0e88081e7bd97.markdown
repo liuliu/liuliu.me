@@ -1,0 +1,12 @@
+---
+date: '2010-04-27 02:00:14'
+layout: post
+slug: '%e6%83%b3%e5%88%b0%e8%80%81%e7%bd%97'
+status: publish
+title: 想到老罗
+wordpress_id: '970'
+categories:
+- Twitter
+---
+
+说的一句话：我发现这个世界惊人的事实是，坏人往往比好人更努力。

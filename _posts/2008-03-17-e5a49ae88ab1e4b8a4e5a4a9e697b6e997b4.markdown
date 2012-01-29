@@ -1,0 +1,13 @@
+---
+date: '2008-03-17 21:37:00'
+layout: post
+slug: '%e5%a4%9a%e8%8a%b1%e4%b8%a4%e5%a4%a9%e6%97%b6%e9%97%b4'
+status: publish
+title: 多花两天时间
+wordpress_id: '265'
+categories:
+- Twitter
+---
+
+先把SURF给实现了。  
+

@@ -1,0 +1,12 @@
+---
+date: '2011-11-15 02:15:10'
+layout: post
+slug: None
+status: draft
+title: The Checker's Dilemma
+wordpress_id: '1362'
+categories:
+- Twitter
+---
+
+None

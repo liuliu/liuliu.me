@@ -1,0 +1,22 @@
+---
+date: '2007-02-13 16:45:00'
+layout: post
+slug: '%e6%96%b0%e9%97%bb%e6%97%a0%e8%af%84%e8%ae%ba%ef%bc%882%e6%9c%8813%e6%97%a5%ef%bc%89'
+status: publish
+title: 新闻无评论（2月13日）
+wordpress_id: '380'
+categories:
+- Twitter
+---
+
+China Suffers Severe Brain Drain  
+[http://news.bbc.co.uk/2/hi/asia-pacific/6356101.stm](http://news.bbc.co.uk/2/hi/asia-pacific/6356101.stm)
+
+留学反成就业绊脚石 海归就业率锐减8％  
+[http://edu.qq.com/a/20070115/000065.htm](http://edu.qq.com/a/20070115/000065.htm)
+
+武汉新洲中专生求职受挫报复作案  
+[http://news.csdn.net/n/20070213/101412.html](http://news.csdn.net/n/20070213/101412.html)
+
+奇虎为规避法律风险 反流氓软件改名反××软件  
+[http://tech.tom.com/2007-02-07/04B5/12515454.html](http://tech.tom.com/2007-02-07/04B5/12515454.html)

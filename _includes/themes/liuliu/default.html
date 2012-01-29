@@ -1,0 +1,29 @@
+{% include JB/setup %}
+<!DOCTYPE html>
+<html><head><title>静水铭室 Silent Water and Curved Mountain</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<link rel="stylesheet" type="text/css" href="/s/a.css">
+<link rel="alternate" type="application/rss+xml" title="静水铭室 RSS Feed" href="{{ site.production_url }}/atom.xml" />
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
+<script type="text/javascript">var disqus_url = '{{ site.production_url }}{{ page.url }}'.toLowerCase(); var disqus_identifier = '{{ page.url }}'.toLowerCase();</script>
+</head><body>
+<div id="container">
+<div id="header"><span class="me"><a href="http://facebook.com/liu.ll">Me on Facebook</a></span><span class="title"><a href="/">静水铭室</a> 静水可铭，丰山须镂。 - Silent Water and Curved Mountain</span><div class="divider"><div></div></div></div>
+<div id="content"><div id="navigation"><div class="divider"><div></div></div>
+{% assign posts_collate = site.posts %}
+{% include JB/posts_collate %}
+</div>
+<div id="main">{{ content }}</div>
+</div><div id="footer"><div><a href="http://facebook.com/liu.ll">Liu Liu</a> @ <a href="http://liuliu.me">liuliu.me</a></div></div></div>
+<script type="text/javascript">
+	var disqus_shortname = 'liuliu';
+	(function () {
+		var s = document.createElement('script'); s.async = true;
+		s.type = 'text/javascript';
+		s.src = 'http://' + disqus_shortname + '.disqus.com/count.js';
+		(document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(s);
+	}());
+</script>
+{% include JB/analytics %}

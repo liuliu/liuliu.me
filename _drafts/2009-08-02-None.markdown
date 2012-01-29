@@ -1,0 +1,14 @@
+---
+date: '2009-08-02 01:21:39'
+layout: post
+slug: None
+status: draft
+title: Some Misconceptions in Haar-like Feature Detection
+wordpress_id: '605'
+categories:
+- Twitter
+---
+
+Adaboost training is simple. HAAR-like feature is simple. And the method for fast-detection was discovered in the beginning of 21st century. What's the big deal here? Well, because for a long time, I basically have some mis-concepts regarding the wide used fast-detection techniques.
+
+The adaboost classifier is a linear classifier. However, a linear classifier is not neccessarily bad classifier especially for these in high-dimensional space. HAAR-like features lays in a very rich space. It is rebundant,

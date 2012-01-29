@@ -1,0 +1,12 @@
+---
+date: '2011-01-19 12:16:50'
+layout: post
+slug: None
+status: draft
+title: The disruptive Technology
+wordpress_id: '1155'
+categories:
+- 随感
+---
+
+Most people take technology as an inevitable achievement of intelligent beings. Thus, a lot people would like to regard technology as a continuous improvement force to our daily life. For any technological sufficient race, the technology part should not be considered as an add-on for social structure. Rather, technology as a disruptive power

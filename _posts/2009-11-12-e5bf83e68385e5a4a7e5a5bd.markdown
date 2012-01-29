@@ -1,0 +1,12 @@
+---
+date: '2009-11-12 11:11:34'
+layout: post
+slug: '%e5%bf%83%e6%83%85%e5%a4%a7%e5%a5%bd'
+status: publish
+title: 心情大好
+wordpress_id: '698'
+categories:
+- Twitter
+---
+
+Though it rains a day outside, 我却心情大好，反反复复跑了两周的检测器结果不错，听Prof扯淡很开心。烤个香肠吃。

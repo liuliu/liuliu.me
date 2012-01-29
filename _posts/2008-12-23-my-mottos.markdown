@@ -1,0 +1,22 @@
+---
+date: '2008-12-23 13:52:32'
+layout: post
+slug: my-mottos
+status: publish
+title: My Mottos
+wordpress_id: '413'
+categories:
+- 收藏
+---
+
+Everyone lies. - House
+
+只有成交量不会做假。- 爸
+
+man is mortal. - Logics
+
+Women and children can be careless but not men. - The God Father
+
+Where are they? - Fermi
+
+Fool me once, shame on you; fool me twice, shame on me. - proverbs

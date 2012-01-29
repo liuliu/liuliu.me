@@ -1,0 +1,12 @@
+---
+date: '2008-02-04 14:48:00'
+layout: post
+slug: '%e6%84%8f%e8%af%86%e5%88%b0'
+status: publish
+title: 意识到
+wordpress_id: '270'
+categories:
+- Twitter
+---
+
+猛然意识到要去看电影了虽然没有爸爸妈妈带，否则一天又被Boring Coding毁了

@@ -1,0 +1,13 @@
+---
+date: '2007-09-15 11:54:00'
+layout: post
+slug: '%e8%bf%99%e5%a4%aa%e4%b8%8d%e5%85%ac%e5%b9%b3%e4%ba%86'
+status: publish
+title: 这太不公平了
+wordpress_id: '348'
+categories:
+- Twitter
+---
+
+为什么设计网页的比维护发电机的赚得多，为什么写程序的比打扫卫生的赚得多。再这样下去我快成平均主义者了。  
+

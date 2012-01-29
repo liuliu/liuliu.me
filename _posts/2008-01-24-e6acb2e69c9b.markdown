@@ -1,0 +1,12 @@
+---
+date: '2008-01-24 21:17:00'
+layout: post
+slug: '%e6%ac%b2%e6%9c%9b'
+status: publish
+title: 欲望
+wordpress_id: '272'
+categories:
+- Twitter
+---
+
+是一切罪恶的源泉。

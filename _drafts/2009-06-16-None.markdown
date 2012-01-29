@@ -1,0 +1,12 @@
+---
+date: '2009-06-16 14:22:55'
+layout: post
+slug: None
+status: draft
+title: 新资本家
+wordpress_id: '578'
+categories:
+- Twitter
+---
+
+关于资本家的盈利模式，自由派经济学家和马克思是有重大分歧的。马克思认为价值是物品的固有属性，不会随着外部而变化。

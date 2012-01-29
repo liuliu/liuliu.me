@@ -1,0 +1,12 @@
+---
+date: '2009-12-04 07:44:02'
+layout: post
+slug: '%e9%a2%9c%e5%9b%9e'
+status: publish
+title: 颜回
+wordpress_id: '716'
+categories:
+- Twitter
+---
+
+一箪食，一瓢饮，在陋巷。人不堪其忧，回也不改其乐。贤哉回也！

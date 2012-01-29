@@ -1,0 +1,12 @@
+---
+date: '2010-04-02 15:16:18'
+layout: post
+slug: speed-up
+status: publish
+title: speed up
+wordpress_id: '921'
+categories:
+- Twitter
+---
+
+finally see around 20% speed up over the 8-thread i7 860 CPU impl. The opencl version is really hard to get it right. Hoping a total 110% speed up by using both CPU and GPU.

@@ -1,0 +1,12 @@
+---
+date: '2011-03-10 12:36:17'
+layout: post
+slug: '%e6%88%91%e4%b9%9f%e6%9b%be%e5%86%99%e8%bf%87%e8%bf%99%e4%b9%88%e5%a5%bd%e7%9a%84%e5%8f%a5%e5%ad%90'
+status: publish
+title: 我也曾写过这么好的句子
+wordpress_id: '1214'
+categories:
+- Twitter
+---
+
+“找一批人，做一点事，留下一串闪亮的名字和让人采撷的珍珠。” —— 摘自某篇日记

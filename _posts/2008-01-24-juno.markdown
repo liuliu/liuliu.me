@@ -1,0 +1,13 @@
+---
+date: '2008-01-24 01:48:00'
+layout: post
+slug: juno
+status: publish
+title: Juno
+wordpress_id: '273'
+categories:
+- Twitter
+---
+
+Juno is sweet. I  made up my mind to get Ph.D in CS before 25 just now.  
+

@@ -1,0 +1,12 @@
+---
+date: '2006-12-08 06:40:00'
+layout: post
+slug: defer
+status: publish
+title: Defer
+wordpress_id: '335'
+categories:
+- Twitter
+---
+
+既然有些事情人控制不了，只能劳民伤财地和概率赌一把了

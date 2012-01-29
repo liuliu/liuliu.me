@@ -1,0 +1,8 @@
+<div class="lead">Posts from {{ page.month | date_to_month }}, {{ page.year }}</div>
+{% for d in (1..31) reversed %}
+	{% if page.collated_posts[page.year][page.month][d] %}
+		{% for post in page.collated_posts[page.year][page.month][d] reversed %}
+<div class="article"><div class="title"><a href="{{ post.url }}">{{ post.title }}</a></div><a href="{{ post.url }}#disqus_thread" class="comment-counter" data-disqus-identifier="{{ post.url }}">No comment yet<div><div></div></div></a><div class="datetime">{{ post.date | date_to_long_string }}</div><div class="paragraph">{{ post.content | markdownify }}</div></div>
+		{% endfor %}
+	{% endif %}
+{% endfor %}

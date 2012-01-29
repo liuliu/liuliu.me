@@ -1,4 +1,10 @@
 ---
-	layout: default
+layout: page
+is_index: true
 ---
-<div class="article"><div class="title"><a href="{% post.url %}">{% post.title %}</a></div><div class="comment-counter">3 Comments<div><div></div></div></div><div class="datetime">{% post.date | date_to_long_string %}</div><div class="paragraph">{% post.content %}</div></div></div></div>
+{% include JB/setup %}
+
+{% for post in paginator.posts %}
+<div class="article"><div class="title"><a href="{{ post.url }}">{{ post.title }}</a></div><a href="{{ post.url }}#disqus_thread" class="comment-counter" data-disqus-identifier="{{ post.url }}">No comment yet<div><div></div></div></a><div class="datetime">{{ post.date | date_to_long_string }}</div><div class="paragraph">{{ post.content }}</div></div>
+{% endfor %}
+

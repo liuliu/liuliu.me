@@ -1,0 +1,12 @@
+---
+date: '2009-10-29 16:26:10'
+layout: post
+slug: None
+status: draft
+title: Memory Efficiency is Important for Tree Structure
+wordpress_id: '657'
+---
+
+When implementing general tree structure, people sometimes just forgets how important the memory efficiency is. At least, I was. The first mistake that made I aware of this issue is in the implementing radix tree (prefix tries). Radix tree is a tree structure with more than 2 children (26 children / 16 children is the common pattern). That's where the common knowledge is challenged. When implementing binary tree, we always allocate two pointers (left node/right node). If we follow the common knowledge and allocate 26/16 pointers, it becomes a huge waste. When a tree structure needs to hold millions of objects (which is common these days) in memory, a constant waste of 4*16 bytes is large.
+
+Most time we think the tree structure is more memory efficient than hash table.

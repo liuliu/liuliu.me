@@ -1,0 +1,12 @@
+---
+date: '2011-02-02 20:33:08'
+layout: post
+slug: new-year
+status: publish
+title: New Year
+wordpress_id: '1166'
+categories:
+- Twitter
+---
+
+do a lot of things; be productive; make concrete progress and patient.

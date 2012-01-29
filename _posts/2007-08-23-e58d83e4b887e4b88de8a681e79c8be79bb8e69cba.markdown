@@ -1,0 +1,13 @@
+---
+date: '2007-08-23 23:58:00'
+layout: post
+slug: '%e5%8d%83%e4%b8%87%e4%b8%8d%e8%a6%81%e7%9c%8b%e7%9b%b8%e6%9c%ba'
+status: publish
+title: 千万不要看相机
+wordpress_id: '350'
+categories:
+- Twitter
+---
+
+花了一晚上的时间看各种相机，扫了K100D，K10D，40D，D40X，400D的样张和参数，还看了HD Photo和JPEG 2000的样张对比。还是用JPEG 2000。  
+

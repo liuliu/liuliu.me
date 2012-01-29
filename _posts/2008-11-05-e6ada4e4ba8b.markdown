@@ -1,0 +1,12 @@
+---
+date: '2008-11-05 00:53:58'
+layout: post
+slug: '%e6%ad%a4%e4%ba%8b'
+status: publish
+title: 此事
+wordpress_id: '396'
+categories:
+- Twitter
+---
+
+一个月后再做评论

@@ -1,0 +1,12 @@
+---
+date: '2007-10-08 19:42:00'
+layout: post
+slug: '%e8%bf%99%e5%9b%bd%e5%ae%b6%e6%b2%a1%e6%95%91%e4%ba%86'
+status: publish
+title: 这国家没救了
+wordpress_id: '347'
+categories:
+- Twitter
+---
+
+偌大个机场，连个卖杂志的地方都没有。

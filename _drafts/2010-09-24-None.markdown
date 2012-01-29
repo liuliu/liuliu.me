@@ -1,0 +1,14 @@
+---
+date: '2010-09-24 06:06:21'
+layout: post
+slug: None
+status: draft
+title: On Betting the Big will Fail
+wordpress_id: '1007'
+categories:
+- Twitter
+---
+
+I have the little hobbit of predicting the future, based on patterns. The recent fail of Cuil to Google and upcoming challengers of CollegeOnly and Diaspora to Facebook give me a chance to predict the pattern of small startup up against big player in market.
+
+It interesting because whether Cuil or CollegeOnly or Diaspora had chose a way to directly compete with these who already took a big share of market already. To me, these startups were founded on the idea that big players were too big to pursuit a small division of the market where can give these a niche.

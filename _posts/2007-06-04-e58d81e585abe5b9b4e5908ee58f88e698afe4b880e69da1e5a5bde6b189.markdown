@@ -1,0 +1,12 @@
+---
+date: '2007-06-04 00:36:00'
+layout: post
+slug: '%e5%8d%81%e5%85%ab%e5%b9%b4%e5%90%8e%e5%8f%88%e6%98%af%e4%b8%80%e6%9d%a1%e5%a5%bd%e6%b1%89'
+status: publish
+title: 十八年后又是一条好汉
+wordpress_id: '359'
+categories:
+- 随感
+---
+
+李逵喜欢这么说，那天肯定也有人这么说。真的十八年了。

@@ -1,0 +1,12 @@
+---
+date: '2007-11-01 16:42:00'
+layout: post
+slug: '%e6%bc%82%e4%ba%ae'
+status: publish
+title: 漂亮
+wordpress_id: '294'
+categories:
+- Twitter
+---
+
+小女孩们一个个都出落得越加漂亮了。

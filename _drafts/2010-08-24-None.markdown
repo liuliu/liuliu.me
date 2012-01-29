@@ -1,0 +1,12 @@
+---
+date: '2010-08-24 04:04:32'
+layout: post
+slug: None
+status: draft
+title: The Third Thing
+wordpress_id: '995'
+categories:
+- 随感
+---
+
+I am the tech guy, which means, I spent more time on pursuing neat ideas and great implementations.

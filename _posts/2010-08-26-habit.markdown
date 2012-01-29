@@ -1,0 +1,12 @@
+---
+date: '2010-08-26 08:10:16'
+layout: post
+slug: habit
+status: publish
+title: Habit
+wordpress_id: '1001'
+categories:
+- Twitter
+---
+
+I have a long essay on augmented reality and social network. But it just take too long to finish. Lost in translation.

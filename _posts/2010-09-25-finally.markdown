@@ -1,0 +1,12 @@
+---
+date: '2010-09-25 15:24:01'
+layout: post
+slug: finally
+status: publish
+title: Finally
+wordpress_id: '1008'
+categories:
+- Twitter
+---
+
+I released the first preview of ccv: [http://github.com/liuliu/ccv](http://github.com/liuliu/ccv)

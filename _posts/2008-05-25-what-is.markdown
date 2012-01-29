@@ -1,0 +1,13 @@
+---
+date: '2008-05-25 15:45:00'
+layout: post
+slug: what-is
+status: publish
+title: What is
+wordpress_id: '319'
+categories:
+- Twitter
+---
+
+GIST Descriptor?  
+

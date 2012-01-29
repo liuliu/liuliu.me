@@ -1,0 +1,12 @@
+---
+date: '2010-10-25 07:26:18'
+layout: post
+slug: everyone
+status: publish
+title: Everyone
+wordpress_id: '1060'
+categories:
+- Twitter
+---
+
+should read this: [http://paulbuchheit.blogspot.com/2010/10/serendipity-finds-you.html](http://paulbuchheit.blogspot.com/2010/10/serendipity-finds-you.html). It is inspirational, eye-opening and positive.

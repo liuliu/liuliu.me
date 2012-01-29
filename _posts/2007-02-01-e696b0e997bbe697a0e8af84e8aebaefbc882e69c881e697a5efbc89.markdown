@@ -1,0 +1,16 @@
+---
+date: '2007-02-01 18:47:00'
+layout: post
+slug: '%e6%96%b0%e9%97%bb%e6%97%a0%e8%af%84%e8%ae%ba%ef%bc%882%e6%9c%881%e6%97%a5%ef%bc%89'
+status: publish
+title: 新闻无评论（2月1日）
+wordpress_id: '383'
+categories:
+- Twitter
+---
+
+洪江市检察院正确运用宽严相济的刑事政策  
+[http://hn.rednet.cn/c/2007/02/01/1119716.htm](http://hn.rednet.cn/c/2007/02/01/1119716.htm)
+
+并且在Google Earth软件中加入审核制度  
+[http://dzh.mop.com/topic/readSub_7299181_0_0.html](http://dzh.mop.com/topic/readSub_7299181_0_0.html)
