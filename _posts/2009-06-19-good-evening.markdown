@@ -4,6 +4,7 @@ layout: post
 slug: good-evening
 status: publish
 title: Good Evening
+wordpress_guid: http://jsms.me/?p=580
 wordpress_id: '580'
 categories:
 - 收藏

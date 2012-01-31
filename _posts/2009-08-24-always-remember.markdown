@@ -4,6 +4,7 @@ layout: post
 slug: always-remember
 status: publish
 title: always remember
+wordpress_guid: http://jsms.me/?p=612
 wordpress_id: '612'
 categories:
 - twitter

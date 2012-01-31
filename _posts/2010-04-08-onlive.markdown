@@ -4,6 +4,7 @@ layout: post
 slug: onlive
 status: publish
 title: OnLive
+wordpress_guid: http://jsms.me/?p=941
 wordpress_id: '941'
 categories:
 - twitter

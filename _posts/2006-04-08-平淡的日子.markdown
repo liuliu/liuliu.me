@@ -1,0 +1,16 @@
+---
+date: '2006-04-08 15:19:00'
+layout: post
+slug: 平淡的日子
+status: publish
+title: 平淡的日子
+wordpress_guid: http://jsms.me/?p=171
+wordpress_id: '11'
+categories:
+- 随感
+---
+
+最近看完了《The Choice》之后那本《经济学原理》还没到，断档期间看《Concrete Mathematics》，有点文思枯竭的感觉。
+
+
+日子过得太平淡了。而我本性是寻求刺激的人，所以随时提醒自己要沉潜下来。沉潜下来，就是甘于平淡。不能甘于平淡，就始终是个跳梁小丑。 

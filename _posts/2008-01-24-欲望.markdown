@@ -1,0 +1,13 @@
+---
+date: '2008-01-24 21:17:00'
+layout: post
+slug: 欲望
+status: publish
+title: 欲望
+wordpress_guid: http://jsms.me/?p=48
+wordpress_id: '272'
+categories:
+- twitter
+---
+
+是一切罪恶的源泉。

@@ -4,6 +4,7 @@ layout: post
 slug: gear-to-my-extreme
 status: publish
 title: gear to my extreme
+wordpress_guid: http://jsms.me/twitter/gear-to-my-extreme
 wordpress_id: '902'
 categories:
 - twitter

@@ -4,6 +4,7 @@ layout: post
 slug: i-have-this-weird-relationship-with-the-god
 status: publish
 title: I have this weird relationship with the God
+wordpress_guid: http://jsms.me/?p=1219
 wordpress_id: '1219'
 categories:
 - 随感

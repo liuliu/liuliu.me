@@ -4,6 +4,7 @@ layout: post
 slug: numeric-method
 status: publish
 title: Numeric Method
+wordpress_guid: http://jsms.me/twitter/numeric-method
 wordpress_id: '982'
 categories:
 - twitter

@@ -4,6 +4,7 @@ layout: post
 slug: facebooks-china-strategy
 status: publish
 title: Facebook's China Strategy
+wordpress_guid: http://jsms.me/?p=1144
 wordpress_id: '1144'
 categories:
 - 随感

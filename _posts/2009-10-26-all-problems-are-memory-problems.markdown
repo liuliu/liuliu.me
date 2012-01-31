@@ -4,6 +4,7 @@ layout: post
 slug: all-problems-are-memory-problems
 status: publish
 title: All Problems are Memory Problems
+wordpress_guid: http://jsms.me/?p=673
 wordpress_id: '673'
 categories:
 - twitter

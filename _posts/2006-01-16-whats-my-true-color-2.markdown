@@ -4,6 +4,7 @@ layout: post
 slug: whats-my-true-color-2
 status: publish
 title: What's My True Color?
+wordpress_guid: http://jsms.me/?p=211
 wordpress_id: '264'
 categories:
 - 收藏

@@ -4,6 +4,7 @@ layout: post
 slug: creating-competitive-market-for-patent
 status: publish
 title: Creating Competitive Market for Patent
+wordpress_guid: http://jsms.me/?p=1391
 wordpress_id: '1391'
 categories:
 - eyes

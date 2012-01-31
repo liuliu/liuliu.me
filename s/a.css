@@ -234,12 +234,17 @@ a.hyper:hover {
 }
 
 #content #main .article .datetime {
+	display: block;
 	font-size: 1em;
 	font-weight: bold;
 	text-align: right;
 	margin-right: 300px;
 	margin-bottom: 8px;
 	margin-top: 0.05em;
+}
+
+#content #main .article .datetime a {
+	color: #000000;
 }
 
 #content #main .article .paragraph {

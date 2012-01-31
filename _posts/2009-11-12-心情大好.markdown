@@ -1,0 +1,13 @@
+---
+date: '2009-11-12 11:11:34'
+layout: post
+slug: 心情大好
+status: publish
+title: 心情大好
+wordpress_guid: http://jsms.me/?p=698
+wordpress_id: '698'
+categories:
+- twitter
+---
+
+Though it rains a day outside, 我却心情大好，反反复复跑了两周的检测器结果不错，听Prof扯淡很开心。烤个香肠吃。

@@ -1,0 +1,14 @@
+---
+date: '2008-10-18 02:27:00'
+layout: post
+slug: 噗哧一下笑出来了
+status: publish
+title: 噗哧一下笑出来了
+wordpress_guid: http://jsms.me/?p=7
+wordpress_id: '297'
+categories:
+- twitter
+---
+
+其实抛光一下我简历也可以这么写：The inventor of "one-touch" photo correction technology. The creator of first face-based person search engine. The main contributor of opencv's local feature descriptor implementation who now is working on improving portability of opencv and distributed computer vision framework.  
+

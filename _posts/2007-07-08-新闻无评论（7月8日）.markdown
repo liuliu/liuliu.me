@@ -1,0 +1,17 @@
+---
+date: '2007-07-08 15:56:00'
+layout: post
+slug: 新闻无评论（7月8日）
+status: publish
+title: 新闻无评论（7月8日）
+wordpress_guid: http://jsms.me/?p=78
+wordpress_id: '355'
+categories:
+- twitter
+---
+
+百仕通对酒店业的乐观预期或将落空  
+[http://chinese.wsj.com/gb/20070706/hrd170851.asp?source=Billingual](http://chinese.wsj.com/gb/20070706/hrd170851.asp?source=Billingual)
+
+新秀丽同意接受CVC的收购  
+[http://chinese.wsj.com/gb/20070706/bri124602.asp?source=Billingual](http://chinese.wsj.com/gb/20070706/bri124602.asp?source=Billingual)

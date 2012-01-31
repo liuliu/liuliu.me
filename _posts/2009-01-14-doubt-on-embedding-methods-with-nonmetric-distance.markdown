@@ -4,6 +4,7 @@ layout: post
 slug: doubt-on-embedding-methods-with-nonmetric-distance
 status: publish
 title: Doubt on Embedding Methods with Nonmetric Distance
+wordpress_guid: http://jsms.me/?p=436
 wordpress_id: '436'
 categories:
 - 随感

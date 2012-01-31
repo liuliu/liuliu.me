@@ -1,0 +1,13 @@
+---
+date: '2011-03-10 12:36:17'
+layout: post
+slug: 我也曾写过这么好的句子
+status: publish
+title: 我也曾写过这么好的句子
+wordpress_guid: http://jsms.me/?p=1214
+wordpress_id: '1214'
+categories:
+- twitter
+---
+
+“找一批人，做一点事，留下一串闪亮的名字和让人采撷的珍珠。” —— 摘自某篇日记

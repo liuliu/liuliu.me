@@ -4,6 +4,7 @@ layout: post
 slug: the-idea-of-fifo-or-why-makes-the-todo-list-ticking
 status: publish
 title: The Idea of FIFO, or Why Makes the TODO List Ticking
+wordpress_guid: http://jsms.me/?p=1400
 wordpress_id: '1400'
 categories:
 - eyes

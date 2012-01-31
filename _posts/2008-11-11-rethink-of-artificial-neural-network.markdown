@@ -4,6 +4,7 @@ layout: post
 slug: rethink-of-artificial-neural-network
 status: publish
 title: Rethink of artificial neural network
+wordpress_guid: http://jsms.me/?p=397
 wordpress_id: '397'
 categories:
 - 随感

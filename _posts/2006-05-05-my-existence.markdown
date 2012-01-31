@@ -4,6 +4,7 @@ layout: post
 slug: my-existence
 status: publish
 title: My Existence
+wordpress_guid: http://jsms.me/?p=160
 wordpress_id: '61'
 categories:
 - twitter

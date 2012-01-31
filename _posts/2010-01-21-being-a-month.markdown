@@ -4,6 +4,7 @@ layout: post
 slug: being-a-month
 status: publish
 title: Being a Month
+wordpress_guid: http://jsms.me/?p=784
 wordpress_id: '784'
 categories:
 - twitter

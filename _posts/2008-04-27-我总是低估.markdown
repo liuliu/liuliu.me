@@ -1,0 +1,14 @@
+---
+date: '2008-04-27 00:33:00'
+layout: post
+slug: 我总是低估
+status: publish
+title: 我总是低估
+wordpress_guid: http://jsms.me/?p=33
+wordpress_id: '309'
+categories:
+- twitter
+---
+
+人对于冒险的热情。  
+

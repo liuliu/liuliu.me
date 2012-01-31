@@ -4,6 +4,7 @@ layout: post
 slug: defer
 status: publish
 title: Defer
+wordpress_guid: http://jsms.me/?p=104
 wordpress_id: '335'
 categories:
 - twitter

@@ -4,6 +4,7 @@ layout: post
 slug: the-missed-fortune
 status: publish
 title: The Missed Fortune
+wordpress_guid: http://jsms.me/?p=1246
 wordpress_id: '1246'
 categories:
 - 随感

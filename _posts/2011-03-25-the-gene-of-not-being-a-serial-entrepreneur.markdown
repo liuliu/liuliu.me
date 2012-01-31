@@ -4,6 +4,7 @@ layout: post
 slug: the-gene-of-not-being-a-serial-entrepreneur
 status: publish
 title: The Gene of Not Being a Serial Entrepreneur
+wordpress_guid: http://jsms.me/?p=1223
 wordpress_id: '1223'
 categories:
 - 随感

@@ -4,6 +4,7 @@ layout: post
 slug: the-modern-society
 status: publish
 title: The Modern Society
+wordpress_guid: http://jsms.me/?p=1073
 wordpress_id: '1073'
 categories:
 - 随感

@@ -4,6 +4,7 @@ layout: post
 slug: how-long-will-you-need-to-find-your-truest-most-productive-niche
 status: publish
 title: How long will you need to find your truest, most productive niche
+wordpress_guid: http://jsms.me/?p=1353
 wordpress_id: '1353'
 categories:
 - twitter

@@ -4,6 +4,7 @@ layout: post
 slug: audrey-hepburn
 status: publish
 title: Audrey Hepburn
+wordpress_guid: http://jsms.me/?p=30
 wordpress_id: '323'
 categories:
 - twitter

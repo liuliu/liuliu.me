@@ -4,6 +4,7 @@ layout: post
 slug: institutionalization
 status: publish
 title: Institutionalization
+wordpress_guid: http://jsms.me/?p=124
 wordpress_id: '345'
 categories:
 - 随感

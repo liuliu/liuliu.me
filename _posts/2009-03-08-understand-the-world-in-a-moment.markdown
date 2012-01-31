@@ -4,6 +4,7 @@ layout: post
 slug: understand-the-world-in-a-moment
 status: publish
 title: Understand the World in a Moment
+wordpress_guid: http://jsms.me/?p=484
 wordpress_id: '484'
 categories:
 - 随感

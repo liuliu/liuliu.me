@@ -4,6 +4,7 @@ layout: post
 slug: the-limitation-of-local-feature-descriptor
 status: publish
 title: The Limitation of Local Feature Descriptor
+wordpress_guid: http://jsms.me/?p=467
 wordpress_id: '467'
 categories:
 - eyes

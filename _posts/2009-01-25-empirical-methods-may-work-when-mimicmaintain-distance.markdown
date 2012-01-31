@@ -4,6 +4,7 @@ layout: post
 slug: empirical-methods-may-work-when-mimicmaintain-distance
 status: publish
 title: Empirical Methods may Work when Mimic/Maintain Distance
+wordpress_guid: http://jsms.me/?p=450
 wordpress_id: '450'
 categories:
 - 随感

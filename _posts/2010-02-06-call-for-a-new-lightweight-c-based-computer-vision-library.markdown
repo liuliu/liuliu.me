@@ -4,6 +4,7 @@ layout: post
 slug: call-for-a-new-lightweight-c-based-computer-vision-library
 status: publish
 title: Call for a new, lightweight, c-based computer vision library
+wordpress_guid: http://jsms.me/?p=794
 wordpress_id: '794'
 categories:
 - eyes

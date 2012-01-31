@@ -4,6 +4,7 @@ layout: post
 slug: freedom-doesnt-come-free
 status: publish
 title: Freedom doesn't come free
+wordpress_guid: http://jsms.me/?p=1289
 wordpress_id: '1289'
 categories:
 - twitter

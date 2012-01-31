@@ -1,0 +1,15 @@
+---
+date: '2008-07-27 21:50:00'
+layout: post
+slug: 刘备
+status: publish
+title: 刘备
+wordpress_guid: http://jsms.me/?p=23
+wordpress_id: '316'
+categories:
+- twitter
+---
+
+小时候一直觉得刘备谦近于伪。  
+  
+长大之后，才把刘备引为知己。曹操曾经说过：“刘备，人中之龙也，生平未尝得水。今得荆州，是困龙入大海矣。”

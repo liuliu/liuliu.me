@@ -4,6 +4,7 @@ layout: post
 slug: a-necessity
 status: publish
 title: A Necessity
+wordpress_guid: http://jsms.me/?p=760
 wordpress_id: '760'
 categories:
 - twitter

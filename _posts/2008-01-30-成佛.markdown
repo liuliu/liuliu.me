@@ -1,0 +1,13 @@
+---
+date: '2008-01-30 23:23:00'
+layout: post
+slug: 成佛
+status: publish
+title: 成佛
+wordpress_guid: http://jsms.me/?p=47
+wordpress_id: '271'
+categories:
+- twitter
+---
+
+这几天徘徊在Linux和Windows之下，使用C++，C#和PHP。使用框架有APR和XNA，太爽了。

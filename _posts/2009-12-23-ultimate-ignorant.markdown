@@ -4,6 +4,7 @@ layout: post
 slug: ultimate-ignorant
 status: publish
 title: Ultimate Ignorant
+wordpress_guid: http://jsms.me/?p=735
 wordpress_id: '735'
 categories:
 - twitter

@@ -4,6 +4,7 @@ layout: post
 slug: stephen-wolfram
 status: publish
 title: Stephen Wolfram
+wordpress_guid: http://jsms.me/twitter/stephen-wolfram
 wordpress_id: '979'
 categories:
 - twitter

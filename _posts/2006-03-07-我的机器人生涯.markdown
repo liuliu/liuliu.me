@@ -1,0 +1,52 @@
+---
+date: '2006-03-07 14:40:00'
+layout: post
+slug: 我的机器人生涯
+status: publish
+title: 我的机器人生涯
+wordpress_guid: http://jsms.me/?p=183
+wordpress_id: '33'
+categories:
+- 随感
+---
+
+居然有人不知道我的一大爱好是做机器人，今天特在此说一说，而且很不好意思地破坏了本BLOG不放照片的良好习惯。
+
+
+04年10月份的时候，我和小轶花了一周的时间做了一个小机器人，后来WEC的时候是这个小机器人的改进版本，改进版本的图很多，视频都没有。
+
+
+**一周时间做的小机器人：**
+
+
+[![](http://tk.files.storage.msn.com/x1pRTZV02Ww2pnGvrhyBzMu0Nf9ZLRo0WyMRHbWzm2F7P2wUaTrZHTaCi_ah2QwD5TFbOXZ_28zgFVuhxHJu1yCmZOWlOt3WmH9BaSOX_Sx--87Q_m_C8MJ1QasGRZktBuO2hyyA0TBPH8)](http://tk.files.storage.msn.com/x1pRTZV02Ww2pnGvrhyBzMu0Nf9ZLRo0WyMRHbWzm2F7P2wUaTrZHTaCi_ah2QwD5TFbOXZ_28zgFVuhxHJu1yCmZOWlOt3WmH9BaSOX_Sx--87Q_m_C8MJ1QasGRZktBuO2hyyA0TBPH8) [![](http://tk.files.storage.msn.com/x1pRTZV02Ww2pnGvrhyBzMu0CBndcX_yLXZycEBoGsgUg4LKFkCk18Ewv-T8yizemyGsSi5GI2qPr5Dd7gpG26wpIbUnoegiKvfwrR37Kp7BDiiijdJ4pWciqJE_ZWj0eMXdhuWnNR8zro)](http://tk.files.storage.msn.com/x1pRTZV02Ww2pnGvrhyBzMu0CBndcX_yLXZycEBoGsgUg4LKFkCk18Ewv-T8yizemyGsSi5GI2qPr5Dd7gpG26wpIbUnoegiKvfwrR37Kp7BDiiijdJ4pWciqJE_ZWj0eMXdhuWnNR8zro) [![](http://tk.files.storage.msn.com/x1pRTZV02Ww2pnGvrhyBzMu0JdkuGWK3I6pfffkMFWz6Zu8v9VtHAVwJLXKpm6dxqBS6wYnd45qZ9Ar56qdyqoVnM0noJ2eA7rm-APcixbj9_ecdqhmWECgCj-bLU6SY5lf-ryZ1joi_98)](http://tk.files.storage.msn.com/x1pRTZV02Ww2pnGvrhyBzMu0JdkuGWK3I6pfffkMFWz6Zu8v9VtHAVwJLXKpm6dxqBS6wYnd45qZ9Ar56qdyqoVnM0noJ2eA7rm-APcixbj9_ecdqhmWECgCj-bLU6SY5lf-ryZ1joi_98)
+
+
+**小机器人的改进版本：**
+
+
+[![](http://tk.files.storage.msn.com/x1pRTZV02Ww2pnGvrhyBzMu0F8LZnxYByTi9vGYr_6Abt6CjXxBikMd-UEMiGLTjCTknLVMbvFuN_CCdIQMkf_Z59UsiR26KjdeOTPXqPXaLS2HhzPgtkgT_IzMLNLXiq9kQHdJN4TD_Eg)](http://tk.files.storage.msn.com/x1pRTZV02Ww2pnGvrhyBzMu0F8LZnxYByTi9vGYr_6Abt6CjXxBikMd-UEMiGLTjCTknLVMbvFuN_CCdIQMkf_Z59UsiR26KjdeOTPXqPXaLS2HhzPgtkgT_IzMLNLXiq9kQHdJN4TD_Eg) [![](http://tk.files.storage.msn.com/x1pRTZV02Ww2pnGvrhyBzMu0F6U1dawZZN73XvWIb88MKQV3irPq2OYHQz_E5W64Dn0RHha_FWpwvOf8C5jr_K1Dl6jlapuLvNT5fro7Y_WbZQUTLEO6S00MRLJtCymUnWeq4t5xyguoO0)](http://tk.files.storage.msn.com/x1pRTZV02Ww2pnGvrhyBzMu0F6U1dawZZN73XvWIb88MKQV3irPq2OYHQz_E5W64Dn0RHha_FWpwvOf8C5jr_K1Dl6jlapuLvNT5fro7Y_WbZQUTLEO6S00MRLJtCymUnWeq4t5xyguoO0) [![](http://tk.files.storage.msn.com/x1pRTZV02Ww2pnGvrhyBzMu0IjWHdT_-qHKhrCyPHXucwn_yssvQvv7D108n2MPpFd3i-NjvkvLKBjbCqsrrrovSWg1X46p3B6D9MdbftA4DKwyl_nEoAzkVoaBZvaB6DCtl3xbZ8AcArE)](http://tk.files.storage.msn.com/x1pRTZV02Ww2pnGvrhyBzMu0IjWHdT_-qHKhrCyPHXucwn_yssvQvv7D108n2MPpFd3i-NjvkvLKBjbCqsrrrovSWg1X46p3B6D9MdbftA4DKwyl_nEoAzkVoaBZvaB6DCtl3xbZ8AcArE)
+
+
+05年创新大赛的时候，我和小轶花了整整一个月的时间准备另一个小机器人，顺便提一句，也就是说荒废了俺CS的课题整整一个月。这个机器人的RCC是俺现在写得最满意的一个，因为NS系列的RCC还没写出来嘛。
+
+
+**05年做的机器人：**
+
+
+[![](http://tk.files.storage.msn.com/x1pRTZV02Ww2pnGvrhyBzMu0KapAVCau1qRw7uVTfX4en4HyzLxjvkvnNQPhRf70k1KFrCu3HbhwY6k1c0-BatKF3Xt1Tjzm-_8InnP0IdWC2fwBQpf-7q2QvJuS1L5VV6M)](http://tk.files.storage.msn.com/x1pRTZV02Ww2pnGvrhyBzMu0KapAVCau1qRw7uVTfX4en4HyzLxjvkvnNQPhRf70k1KFrCu3HbhwY6k1c0-BatKF3Xt1Tjzm-_8InnP0IdWC2fwBQpf-7q2QvJuS1L5VV6M) [![](http://tk.files.storage.msn.com/x1pRTZV02Ww2pnGvrhyBzMu0IoxSsxjmVofldILcqFAic-g-poApJ6YovKsS-Ri-X3fa0NJ7QaVRVZVjDs2DRtxkg1YVcEB7BoyzA6Un4lz1gLU2kUCByESj9DMRpZUjC2G07zyCziLdGQ)](http://tk.files.storage.msn.com/x1pRTZV02Ww2pnGvrhyBzMu0IoxSsxjmVofldILcqFAic-g-poApJ6YovKsS-Ri-X3fa0NJ7QaVRVZVjDs2DRtxkg1YVcEB7BoyzA6Un4lz1gLU2kUCByESj9DMRpZUjC2G07zyCziLdGQ) [![](http://tk.files.storage.msn.com/x1pRTZV02Ww2pnGvrhyBzMu0HXa6NSUmprfQmtGEHFOqaC37DAhBA1QmoO1xDolTeUcDbPrdgd3VYsfcXQF1w339ytqoVsAKPUIzhTlBdpTPv-3B5J6fb-x7bJFaZKBDfV6)](http://tk.files.storage.msn.com/x1pRTZV02Ww2pnGvrhyBzMu0HXa6NSUmprfQmtGEHFOqaC37DAhBA1QmoO1xDolTeUcDbPrdgd3VYsfcXQF1w339ytqoVsAKPUIzhTlBdpTPv-3B5J6fb-x7bJFaZKBDfV6)
+
+
+[![](http://tk.files.storage.msn.com/x1pRTZV02Ww2pnGvrhyBzMu0LnxoJp1afscgXg3Z9SHu8jb1TEFvWYEJPO9WxVU6GzWsaT8NSIt_iM1eGjIC5lynqKw7wqFT_eylOwQQBStUJSWXsf_lJLFvSUom4Mwg_yeB0uz2hjlJ0o)](http://tk.files.storage.msn.com/x1pRTZV02Ww2pnGvrhyBzMu0LnxoJp1afscgXg3Z9SHu8jb1TEFvWYEJPO9WxVU6GzWsaT8NSIt_iM1eGjIC5lynqKw7wqFT_eylOwQQBStUJSWXsf_lJLFvSUom4Mwg_yeB0uz2hjlJ0o) [![](http://tk.files.storage.msn.com/x1pRTZV02Ww2pnGvrhyBzMu0NHLXiHsorSBEj0NLbzILvHc0fo3sktMrgua-_dmWm5wuR_J1kZfTAyCdGymn76VwT2aIsYnaee9DiuSz2rJoHsCyDcFbruotMwprEhbQXPIM1DOE76Z4AE)](http://tk.files.storage.msn.com/x1pRTZV02Ww2pnGvrhyBzMu0NHLXiHsorSBEj0NLbzILvHc0fo3sktMrgua-_dmWm5wuR_J1kZfTAyCdGymn76VwT2aIsYnaee9DiuSz2rJoHsCyDcFbruotMwprEhbQXPIM1DOE76Z4AE) [![](http://tk.files.storage.msn.com/x1pRTZV02Ww2pnGvrhyBzMu0Dmhrlnh6MwSrs6gQZ7iQfa4PJtOAMbC8sWlquLCFDO-BOB3mfoOHsbB8_rV6uObQiah0oRa4lMIR7DF50U-N9nZkHi-w1iinW_Xyz5IHEDZ2Nh7BLjRERE)](http://tk.files.storage.msn.com/x1pRTZV02Ww2pnGvrhyBzMu0Dmhrlnh6MwSrs6gQZ7iQfa4PJtOAMbC8sWlquLCFDO-BOB3mfoOHsbB8_rV6uObQiah0oRa4lMIR7DF50U-N9nZkHi-w1iinW_Xyz5IHEDZ2Nh7BLjRERE)
+
+
+**感觉最满意的RCC：**
+
+
+[![](http://tk.files.storage.msn.com/x1pRTZV02Ww2pnGvrhyBzMu0GWW4aeZt4Mj0Mk-YOaVdwNJBPbamVb3ZyutEEupycIcFfjVNqfTi3Kk--lXVzgW1AAod9CbN8O7WCGRXXa8l6kVloTUkqh38qYSlwa6YGET)](http://tk.files.storage.msn.com/x1pRTZV02Ww2pnGvrhyBzMu0GWW4aeZt4Mj0Mk-YOaVdwNJBPbamVb3ZyutEEupycIcFfjVNqfTi3Kk--lXVzgW1AAod9CbN8O7WCGRXXa8l6kVloTUkqh38qYSlwa6YGET)
+
+
+昨天和小轶发短信，他说觉得最好玩的还是WEC的时候，那真是有吃有喝有玩，如果组委会再人手提供一妞完了再每人发点奖金过年就完美了。现在感觉还真是物是人非啊。
+
+
+小轶要准备交大的自主招生，所以叫我找找以前的资料，现在又翻出来，真的是好留恋。以前在地下室里面，我凶巴巴地对着小轶大吵大叫，后来发现是自己的RCC上有错。因为机器人上的一个小毛病，我们趴在展览厅的地板上瞅，把学校本来就不好看的校服弄得脏兮兮的。现在觉得很遥远了，但是只要是想拥有的，总会得到。

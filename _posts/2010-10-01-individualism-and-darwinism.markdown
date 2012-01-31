@@ -4,6 +4,7 @@ layout: post
 slug: individualism-and-darwinism
 status: publish
 title: Individualism and Darwinism
+wordpress_guid: http://jsms.me/?p=1012
 wordpress_id: '1012'
 categories:
 - 随感

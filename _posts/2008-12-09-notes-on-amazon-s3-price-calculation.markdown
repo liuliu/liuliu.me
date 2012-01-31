@@ -4,6 +4,7 @@ layout: post
 slug: notes-on-amazon-s3-price-calculation
 status: publish
 title: Notes on Amazon S3 Price Calculation
+wordpress_guid: http://jsms.me/?p=406
 wordpress_id: '406'
 categories:
 - 随感

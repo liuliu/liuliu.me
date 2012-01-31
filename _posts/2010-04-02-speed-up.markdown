@@ -4,6 +4,7 @@ layout: post
 slug: speed-up
 status: publish
 title: speed up
+wordpress_guid: http://jsms.me/twitter/speed-up
 wordpress_id: '921'
 categories:
 - twitter

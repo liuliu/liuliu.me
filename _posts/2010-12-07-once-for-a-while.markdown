@@ -4,6 +4,7 @@ layout: post
 slug: once-for-a-while
 status: publish
 title: Once for a while
+wordpress_guid: http://jsms.me/?p=1113
 wordpress_id: '1113'
 categories:
 - twitter

@@ -4,6 +4,7 @@ layout: post
 slug: no-better-than-chance
 status: publish
 title: no better than chance
+wordpress_guid: http://jsms.me/?p=608
 wordpress_id: '608'
 categories:
 - twitter

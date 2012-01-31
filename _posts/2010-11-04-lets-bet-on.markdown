@@ -4,6 +4,7 @@ layout: post
 slug: lets-bet-on
 status: publish
 title: Let's bet on
+wordpress_guid: http://jsms.me/?p=1065
 wordpress_id: '1065'
 categories:
 - twitter

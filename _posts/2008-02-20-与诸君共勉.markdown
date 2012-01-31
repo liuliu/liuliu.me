@@ -1,0 +1,13 @@
+---
+date: '2008-02-20 00:32:00'
+layout: post
+slug: 与诸君共勉
+status: publish
+title: 与诸君共勉
+wordpress_guid: http://jsms.me/?p=43
+wordpress_id: '267'
+categories:
+- twitter
+---
+
+常将有时思无时，莫把无时当有时。

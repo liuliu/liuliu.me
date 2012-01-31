@@ -4,6 +4,7 @@ layout: post
 slug: revising-basic-ideas-of-good-interesting-point-detector
 status: publish
 title: Revising Basic Ideas of Good Interesting Point Detector
+wordpress_guid: http://jsms.me/?p=720
 wordpress_id: '720'
 categories:
 - eyes

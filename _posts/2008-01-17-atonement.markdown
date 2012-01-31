@@ -4,6 +4,7 @@ layout: post
 slug: atonement
 status: publish
 title: Atonement
+wordpress_guid: http://jsms.me/?p=52
 wordpress_id: '312'
 categories:
 - twitter

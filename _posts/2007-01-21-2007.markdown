@@ -4,6 +4,7 @@ layout: post
 slug: '2007'
 status: publish
 title: '2007'
+wordpress_guid: http://jsms.me/?p=100
 wordpress_id: '360'
 categories:
 - 随感

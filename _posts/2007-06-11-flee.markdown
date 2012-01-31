@@ -4,6 +4,7 @@ layout: post
 slug: flee
 status: publish
 title: Flee
+wordpress_guid: http://jsms.me/?p=81
 wordpress_id: '358'
 categories:
 - 随感

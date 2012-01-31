@@ -4,6 +4,7 @@ layout: post
 slug: juno
 status: publish
 title: Juno
+wordpress_guid: http://jsms.me/?p=49
 wordpress_id: '273'
 categories:
 - twitter

@@ -4,6 +4,7 @@ layout: post
 slug: why-k-mean-is-wrong-in-hyperspace
 status: publish
 title: Why k-mean is wrong in hyperspace
+wordpress_guid: http://jsms.me/?p=16
 wordpress_id: '305'
 categories:
 - 随感

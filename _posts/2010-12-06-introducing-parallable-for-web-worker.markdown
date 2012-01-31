@@ -4,6 +4,7 @@ layout: post
 slug: introducing-parallable-for-web-worker
 status: publish
 title: Introducing Parallable for Web Worker
+wordpress_guid: http://jsms.me/?p=1103
 wordpress_id: '1103'
 categories:
 - eyes

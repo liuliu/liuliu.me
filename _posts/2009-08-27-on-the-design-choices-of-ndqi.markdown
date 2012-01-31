@@ -4,6 +4,7 @@ layout: post
 slug: on-the-design-choices-of-ndqi
 status: publish
 title: On the Design Choices of NDQI
+wordpress_guid: http://jsms.me/?p=520
 wordpress_id: '520'
 categories:
 - eyes

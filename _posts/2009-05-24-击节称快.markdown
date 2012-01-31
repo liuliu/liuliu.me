@@ -1,0 +1,13 @@
+---
+date: '2009-05-24 12:36:25'
+layout: post
+slug: 击节称快
+status: publish
+title: 击节称快
+wordpress_guid: http://jsms.me/?p=553
+wordpress_id: '553'
+categories:
+- twitter
+---
+
+有时候读到一些有年头的论文仍为其前瞻性而拍手鼓掌，实在是一大乐事。

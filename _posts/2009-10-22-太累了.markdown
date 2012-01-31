@@ -1,0 +1,13 @@
+---
+date: '2009-10-22 05:40:16'
+layout: post
+slug: 太累了
+status: publish
+title: 太累了
+wordpress_guid: http://jsms.me/?p=669
+wordpress_id: '669'
+categories:
+- twitter
+---
+
+没有螺丝刀，装了4个小时，居然忘了接ATX电源，总算搞好了，看来我还是会装PC的。

@@ -4,6 +4,7 @@ layout: post
 slug: time-goes-by-in-a-way-beyond-our-expectation
 status: publish
 title: time goes by in a way beyond our expectation
+wordpress_guid: http://jsms.me/?p=19
 wordpress_id: '308'
 categories:
 - twitter

@@ -4,6 +4,7 @@ layout: post
 slug: my-sexy-test-framework
 status: publish
 title: My Sexy Test Framework
+wordpress_guid: http://jsms.me/?p=1171
 wordpress_id: '1171'
 categories:
 - twitter

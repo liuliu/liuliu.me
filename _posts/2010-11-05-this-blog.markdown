@@ -4,6 +4,7 @@ layout: post
 slug: this-blog
 status: publish
 title: This blog
+wordpress_guid: http://jsms.me/?p=1064
 wordpress_id: '1064'
 categories:
 - twitter

@@ -4,6 +4,7 @@ layout: post
 slug: visual-word-set-is-poor-mans-locality-sensitive-hashing
 status: publish
 title: Visual Word Set is Poor Man's Locality Sensitive Hashing?
+wordpress_guid: http://jsms.me/?p=665
 wordpress_id: '665'
 categories:
 - eyes

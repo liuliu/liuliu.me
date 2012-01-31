@@ -4,6 +4,7 @@ layout: post
 slug: image-self-similarity-everywhere
 status: publish
 title: Image Self-Similarity Everywhere
+wordpress_guid: http://jsms.me/?p=593
 wordpress_id: '593'
 categories:
 - eyes

@@ -4,6 +4,7 @@ layout: post
 slug: survey-on-the-next-generation-nuclear-reactor
 status: publish
 title: Survey on The Next Generation Nuclear Reactor
+wordpress_guid: http://jsms.me/?p=1385
 wordpress_id: '1385'
 categories:
 - eyes

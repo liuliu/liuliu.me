@@ -1,0 +1,28 @@
+---
+date: '2005-08-11 13:22:00'
+layout: post
+slug: 创新大赛的牢骚
+status: publish
+title: 创新大赛的牢骚
+wordpress_guid: http://jsms.me/?p=240
+wordpress_id: '79'
+categories:
+- 随感
+---
+
+每次比赛，都有所感慨，唉一声。
+
+
+
+
+内存清理是完全不用的，MS的系统可以放心的，然后看看获奖名单，CS还有一个做内存清理的获得一等奖。为什么？这又不是新技术，又不是新创意。杀病毒软件在Ring0级运行也不是什么难事情，CS还有一个搞这个的。唉。每次总是这样，照顾偏僻省市，却又产生了不公平，就挺为杨炼的那个音乐分类惋惜的。
+
+
+
+
+[http://www.xiaoxiaotong.org/news/View.aspx?NewsId=1443](http://www.xiaoxiaotong.org/news/View.aspx?NewsId=1443)
+
+
+
+
+[http://www.xiaoxiaotong.org/news/View.aspx?NewsId=1439](http://www.xiaoxiaotong.org/news/View.aspx?NewsId=1439)

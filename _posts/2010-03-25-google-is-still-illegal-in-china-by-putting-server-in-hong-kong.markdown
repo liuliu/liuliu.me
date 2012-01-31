@@ -4,6 +4,7 @@ layout: post
 slug: google-is-still-illegal-in-china-by-putting-server-in-hong-kong
 status: publish
 title: Google is still illegal (in China) by putting server in Hong Kong
+wordpress_guid: http://jsms.me/?p=882
 wordpress_id: '882'
 categories:
 - 随感

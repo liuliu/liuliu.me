@@ -4,6 +4,7 @@ layout: post
 slug: ipr-attribute-and-simile-classifiers-for-face-verification
 status: publish
 title: 'IPR: Attribute and Simile Classifiers for Face Verification'
+wordpress_guid: http://jsms.me/?p=750
 wordpress_id: '750'
 categories:
 - interesting paper reading

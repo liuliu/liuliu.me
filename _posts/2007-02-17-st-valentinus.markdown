@@ -4,6 +4,7 @@ layout: post
 slug: st-valentinus
 status: publish
 title: St. Valentinus
+wordpress_guid: http://jsms.me/?p=94
 wordpress_id: '379'
 categories:
 - 随感

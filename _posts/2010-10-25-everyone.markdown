@@ -4,6 +4,7 @@ layout: post
 slug: everyone
 status: publish
 title: Everyone
+wordpress_guid: http://jsms.me/?p=1060
 wordpress_id: '1060'
 categories:
 - twitter

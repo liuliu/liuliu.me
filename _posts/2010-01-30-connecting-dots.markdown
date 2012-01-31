@@ -4,6 +4,7 @@ layout: post
 slug: connecting-dots
 status: publish
 title: Connecting Dots
+wordpress_guid: http://jsms.me/?p=791
 wordpress_id: '791'
 categories:
 - twitter

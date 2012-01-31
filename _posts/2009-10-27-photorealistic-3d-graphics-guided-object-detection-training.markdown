@@ -4,6 +4,7 @@ layout: post
 slug: photorealistic-3d-graphics-guided-object-detection-training
 status: publish
 title: Photorealistic 3D Graphics Guided Object Detection Training
+wordpress_guid: http://jsms.me/?p=671
 wordpress_id: '671'
 categories:
 - eyes

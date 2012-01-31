@@ -4,6 +4,7 @@ layout: post
 slug: the-problem-of-facebook
 status: publish
 title: The Problem of Facebook
+wordpress_guid: http://jsms.me/?p=1015
 wordpress_id: '1015'
 categories:
 - 随感

@@ -1,0 +1,13 @@
+---
+date: '2009-10-26 20:18:36'
+layout: post
+slug: 不够豁达
+status: publish
+title: 不够豁达
+wordpress_guid: http://jsms.me/?p=675
+wordpress_id: '675'
+categories:
+- twitter
+---
+
+这么多年刻意修身养性，但是直到现在还不够豁达。重要的不是别人知道你知道多少，而是你自己知道自己知道多少。

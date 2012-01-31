@@ -4,6 +4,7 @@ layout: post
 slug: lets-abusively-use-cpp-macros
 status: publish
 title: Let's abusively use cpp macros
+wordpress_guid: http://jsms.me/?p=810
 wordpress_id: '810'
 categories:
 - eyes

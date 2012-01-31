@@ -4,6 +4,7 @@ layout: post
 slug: finally
 status: publish
 title: Finally
+wordpress_guid: http://jsms.me/?p=1008
 wordpress_id: '1008'
 categories:
 - twitter

@@ -4,6 +4,7 @@ layout: post
 slug: new-schedule-algorithm-for-my-life
 status: publish
 title: New Schedule Algorithm for My Life
+wordpress_guid: http://jsms.me/?p=1211
 wordpress_id: '1211'
 categories:
 - 随感

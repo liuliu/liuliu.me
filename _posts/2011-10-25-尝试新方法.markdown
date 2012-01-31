@@ -1,0 +1,13 @@
+---
+date: '2011-10-25 11:55:42'
+layout: post
+slug: 尝试新方法
+status: publish
+title: 尝试新方法
+wordpress_guid: http://jsms.me/?p=1336
+wordpress_id: '1336'
+categories:
+- twitter
+---
+
+在过去的一年，我都尽量避免使用药物来调整身体。现在决定走向另一个极端。白天使用牛磺酸，并且补充多种维生素来保持精力，晚上服用褪黑素来保证准时和良好的睡眠。尝试一周看看效果如何。

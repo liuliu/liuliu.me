@@ -1,0 +1,17 @@
+---
+date: '2008-12-29 02:37:30'
+layout: post
+slug: 冬天
+status: publish
+title: 冬天
+wordpress_guid: http://jsms.me/?p=415
+wordpress_id: '415'
+categories:
+- 随感
+---
+
+在Charlottesville呆了半年，都快忘了北京的冬天空气有多么差了。最近关注点也少太多了，在复习Data Mining和Matrix Analysis，好久都没看Libor的数据了。GReader的分享频度也降低了，大概在两天一篇左右。玩了一会LinkedIn，很好玩，但是还是觉得不靠谱，似乎我和所有人的关系都在3rd左右。这样考量下来，说明这个圈子还是很小的，人数不会超过4M。
+
+向来是个不会给政府写文件的孩子，高中时候的材料都是老师帮忙搞定的，我只是傻乎乎的等着去玩罢了。要是真的要做件需要政府的事情，还得找找擅长写文件的同学。
+
+我有很多地方是不符合这个Pattern的，要么我错了，要么我理解的Pattern错了。

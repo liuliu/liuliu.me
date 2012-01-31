@@ -1,0 +1,13 @@
+---
+date: '2010-01-23 06:05:51'
+layout: post
+slug: 乱世
+status: publish
+title: 乱世
+wordpress_guid: http://jsms.me/twitter/%e4%b9%b1%e4%b8%96
+wordpress_id: '786'
+categories:
+- twitter
+---
+
+用重典。钦此。

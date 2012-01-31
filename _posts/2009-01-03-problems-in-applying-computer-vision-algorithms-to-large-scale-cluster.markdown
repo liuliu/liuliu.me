@@ -4,6 +4,7 @@ layout: post
 slug: problems-in-applying-computer-vision-algorithms-to-large-scale-cluster
 status: publish
 title: Problems in Applying Computer Vision Algorithms to Large-scale Cluster
+wordpress_guid: http://jsms.me/?p=421
 wordpress_id: '421'
 categories:
 - 随感

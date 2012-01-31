@@ -4,6 +4,7 @@ layout: post
 slug: using-affinity-propagation-as-a-descriptor-reducing-tool
 status: publish
 title: Using Affinity Propagation as a Descriptor-Reducing Tool
+wordpress_guid: http://jsms.me/?p=517
 wordpress_id: '517'
 categories:
 - eyes

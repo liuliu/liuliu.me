@@ -4,6 +4,7 @@ layout: post
 slug: what-is
 status: publish
 title: What is
+wordpress_guid: http://jsms.me/?p=26
 wordpress_id: '319'
 categories:
 - twitter

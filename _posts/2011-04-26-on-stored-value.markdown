@@ -4,6 +4,7 @@ layout: post
 slug: on-stored-value
 status: publish
 title: On Stored Value
+wordpress_guid: http://jsms.me/?p=1255
 wordpress_id: '1255'
 categories:
 - 随感

@@ -4,6 +4,7 @@ layout: post
 slug: monster-of-overfitting
 status: publish
 title: monster of overfitting
+wordpress_guid: http://jsms.me/twitter/monster-of-overfitting
 wordpress_id: '690'
 categories:
 - twitter

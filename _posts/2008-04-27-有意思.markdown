@@ -1,0 +1,14 @@
+---
+date: '2008-04-27 04:11:00'
+layout: post
+slug: 有意思
+status: publish
+title: 有意思
+wordpress_guid: http://jsms.me/?p=32
+wordpress_id: '325'
+categories:
+- twitter
+---
+
+辛辛苦苦三十年，一夜回到改革前。  
+

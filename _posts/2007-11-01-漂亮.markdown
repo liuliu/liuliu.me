@@ -1,0 +1,13 @@
+---
+date: '2007-11-01 16:42:00'
+layout: post
+slug: 漂亮
+status: publish
+title: 漂亮
+wordpress_guid: http://jsms.me/?p=65
+wordpress_id: '294'
+categories:
+- twitter
+---
+
+小女孩们一个个都出落得越加漂亮了。

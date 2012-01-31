@@ -4,6 +4,7 @@ layout: post
 slug: ccv-a-modern-computer-vision-library
 status: publish
 title: 'CCV: a modern computer vision library'
+wordpress_guid: http://jsms.me/?p=1163
 wordpress_id: '1163'
 categories:
 - eyes

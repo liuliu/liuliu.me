@@ -4,6 +4,7 @@ layout: post
 slug: proposal-of-a-query-language-for-image-database
 status: publish
 title: Proposal of a Query Language for Image Database
+wordpress_guid: http://jsms.me/?p=712
 wordpress_id: '712'
 categories:
 - eyes

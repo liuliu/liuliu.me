@@ -1,0 +1,13 @@
+---
+date: '2009-09-12 19:04:57'
+layout: post
+slug: 有计划的人
+status: publish
+title: 有计划的人
+wordpress_guid: http://jsms.me/?p=645
+wordpress_id: '645'
+categories:
+- twitter
+---
+
+作为一个欠缺执行力和有计划的人，我总是瞎担心，虽然每次在最后一分钟都把事情办对也没有改掉这种提前十天半个月就开始担心的坏毛病。

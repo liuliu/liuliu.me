@@ -4,6 +4,7 @@ layout: post
 slug: new-year-plan-for-ccv
 status: publish
 title: New Year Plan for CCV
+wordpress_guid: http://jsms.me/?p=1148
 wordpress_id: '1148'
 categories:
 - eyes

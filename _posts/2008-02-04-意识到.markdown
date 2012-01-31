@@ -1,0 +1,13 @@
+---
+date: '2008-02-04 14:48:00'
+layout: post
+slug: 意识到
+status: publish
+title: 意识到
+wordpress_guid: http://jsms.me/?p=46
+wordpress_id: '270'
+categories:
+- twitter
+---
+
+猛然意识到要去看电影了虽然没有爸爸妈妈带，否则一天又被Boring Coding毁了

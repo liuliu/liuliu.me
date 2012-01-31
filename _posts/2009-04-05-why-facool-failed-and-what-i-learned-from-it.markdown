@@ -4,6 +4,7 @@ layout: post
 slug: why-facool-failed-and-what-i-learned-from-it
 status: publish
 title: Why Facool failed and what I learned from it
+wordpress_guid: http://jsms.me/?p=499
 wordpress_id: '499'
 categories:
 - 随感

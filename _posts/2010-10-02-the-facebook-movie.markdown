@@ -4,6 +4,7 @@ layout: post
 slug: the-facebook-movie
 status: publish
 title: The Facebook Movie
+wordpress_guid: http://jsms.me/?p=1033
 wordpress_id: '1033'
 categories:
 - 随感

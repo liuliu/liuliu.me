@@ -4,6 +4,7 @@ layout: post
 slug: ccv-new-in-the-summer
 status: publish
 title: 'CCV: New in the Summer'
+wordpress_guid: http://jsms.me/?p=1277
 wordpress_id: '1277'
 categories:
 - eyes

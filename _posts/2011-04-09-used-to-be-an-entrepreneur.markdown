@@ -4,6 +4,7 @@ layout: post
 slug: used-to-be-an-entrepreneur
 status: publish
 title: Used to be an Entrepreneur
+wordpress_guid: http://jsms.me/?p=1234
 wordpress_id: '1234'
 categories:
 - 随感

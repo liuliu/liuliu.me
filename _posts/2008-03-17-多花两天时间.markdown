@@ -1,0 +1,14 @@
+---
+date: '2008-03-17 21:37:00'
+layout: post
+slug: 多花两天时间
+status: publish
+title: 多花两天时间
+wordpress_guid: http://jsms.me/?p=41
+wordpress_id: '265'
+categories:
+- twitter
+---
+
+先把SURF给实现了。  
+

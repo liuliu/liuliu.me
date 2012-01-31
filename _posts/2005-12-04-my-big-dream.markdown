@@ -4,6 +4,7 @@ layout: post
 slug: my-big-dream
 status: publish
 title: My Big Dream
+wordpress_guid: http://jsms.me/?p=232
 wordpress_id: '71'
 categories:
 - 随感

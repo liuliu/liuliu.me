@@ -4,6 +4,7 @@ layout: post
 slug: status
 status: publish
 title: Status
+wordpress_guid: http://jsms.me/?p=107
 wordpress_id: '338'
 categories:
 - 随感

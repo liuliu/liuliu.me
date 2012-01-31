@@ -4,6 +4,7 @@ layout: post
 slug: deal-non-structured-data-along-with-structured-ones
 status: publish
 title: Deal Non-structured Data along with Structured Ones
+wordpress_guid: http://jsms.me/?p=399
 wordpress_id: '399'
 categories:
 - 随感

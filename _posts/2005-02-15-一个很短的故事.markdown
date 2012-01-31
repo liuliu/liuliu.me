@@ -1,0 +1,15 @@
+---
+date: '2005-02-15 16:29:00'
+layout: post
+slug: 一个很短的故事
+status: publish
+title: 一个很短的故事
+wordpress_guid: http://jsms.me/?p=255
+wordpress_id: '99'
+categories:
+- 收藏
+---
+
+某个月朗星稀的晚上，一只狮子在入睡之前想：“明天，我一定要逮到跑得最慢的羚羊。”同时，一只羚羊在入睡之前想：“明天，我一定要躲过跑得最快的狮子。” —— 无论如何，太阳升起之后，我们每个人都要奋力奔跑 ..... 
+
+摘自：[http://netlab.cs.tsinghua.edu.cn/~yxia/class.html](http://netlab.cs.tsinghua.edu.cn/~yxia/class.html)

@@ -4,6 +4,7 @@ layout: post
 slug: seamlessly-maintain-a-visual-word-set-with-sparse-representation
 status: publish
 title: Seamlessly Maintain a Visual Word Set with Sparse Representation
+wordpress_guid: http://jsms.me/?p=641
 wordpress_id: '641'
 categories:
 - eyes

@@ -1,0 +1,13 @@
+---
+date: '2011-12-09 01:42:20'
+layout: post
+slug: 行万里路，读万卷书
+status: publish
+title: 行万里路，读万卷书
+wordpress_guid: http://jsms.me/?p=1383
+wordpress_id: '1383'
+categories:
+- twitter
+---
+
+在一个地方沉寂了三年，学到了很多的知识，积累了很多的技术。突然觉得，应该出去走走看看，才不枉古训“行万里路，读万卷书”。

@@ -12,7 +12,8 @@ markdown: rdiscount
 # Themes are encouraged to use these universal variables 
 # so be sure to set them if your theme uses them.
 #
-title : 
+title : 静水铭室
+subtitle : 静水可铭，丰山须镂。 - Silent Water and Curved Mountain
 author :
   name : Liu Liu
   email : i@liuliu.me
@@ -66,7 +67,7 @@ JB :
   comments :
     provider : disqus
     disqus :
-      short_name : liuliu
+      short_name : liuliu-jsms
    
   # Settings for analytics helper
   # Set 'provider' to the analytics provider you want to use.

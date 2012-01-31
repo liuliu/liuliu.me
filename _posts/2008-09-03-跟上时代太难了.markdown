@@ -1,0 +1,14 @@
+---
+date: '2008-09-03 00:42:00'
+layout: post
+slug: 跟上时代太难了
+status: publish
+title: 跟上时代太难了
+wordpress_guid: http://jsms.me/?p=17
+wordpress_id: '306'
+categories:
+- twitter
+---
+
+每天阅读大量新的文献，还有老知识要补，还有新领域，而且一但不跟，就要更努力才能跟上了。  
+

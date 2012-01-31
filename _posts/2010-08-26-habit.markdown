@@ -4,6 +4,7 @@ layout: post
 slug: habit
 status: publish
 title: Habit
+wordpress_guid: http://jsms.me/?p=1001
 wordpress_id: '1001'
 categories:
 - twitter

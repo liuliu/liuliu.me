@@ -4,6 +4,7 @@ layout: post
 slug: anti-intellectualism-fact-of-evolution
 status: publish
 title: Anti-Intellectualism Fact of Evolution
+wordpress_guid: http://jsms.me/?p=1116
 wordpress_id: '1116'
 categories:
 - 随感

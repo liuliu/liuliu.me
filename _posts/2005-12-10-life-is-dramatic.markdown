@@ -4,6 +4,7 @@ layout: post
 slug: life-is-dramatic
 status: publish
 title: Life is Dramatic
+wordpress_guid: http://jsms.me/?p=229
 wordpress_id: '86'
 categories:
 - 随感

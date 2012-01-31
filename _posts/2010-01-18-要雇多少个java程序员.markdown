@@ -1,0 +1,14 @@
+---
+date: '2010-01-18 23:40:53'
+layout: post
+slug: 要雇多少个java程序员
+status: publish
+title: 要雇多少个Java程序员
+wordpress_guid: http://jsms.me/twitter/%e8%a6%81%e9%9b%87%e5%a4%9a%e5%b0%91%e4%b8%aajava%e7%a8%8b%e5%ba%8f%e5%91%98
+wordpress_id: '783'
+categories:
+- twitter
+---
+
+才能设计出这么繁复得清新脱俗，让人呕吐不止的API？
+http://code.google.com/p/facebook-actionscript-api/

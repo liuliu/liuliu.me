@@ -1,0 +1,13 @@
+---
+date: '2010-06-24 02:30:01'
+layout: post
+slug: 意
+status: publish
+title: 意
+wordpress_guid: http://jsms.me/?p=992
+wordpress_id: '992'
+categories:
+- twitter
+---
+
+农人看到的是糟蹋过的麦田，猎人看到的却是活泼的野猪。

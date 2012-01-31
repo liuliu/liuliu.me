@@ -4,6 +4,7 @@ layout: post
 slug: modern-design-concepts
 status: publish
 title: Modern Design Concepts
+wordpress_guid: http://jsms.me/?p=408
 wordpress_id: '408'
 categories:
 - 随感

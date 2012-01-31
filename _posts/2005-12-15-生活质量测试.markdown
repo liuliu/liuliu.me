@@ -1,0 +1,73 @@
+---
+date: '2005-12-15 09:25:00'
+layout: post
+slug: 生活质量测试
+status: publish
+title: 生活质量测试
+wordpress_guid: http://jsms.me/?p=227
+wordpress_id: '123'
+categories:
+- 收藏
+---
+
+
+
+
+
+
+
+生活质量测试
+
+
+
+
+总体质量:
+
+![](http://www.monkeyquiz.com/img/yelgrebar.gif) 5.3
+
+
+
+
+心智:
+
+![](http://www.monkeyquiz.com/img/grebar.gif) 5.7
+
+
+
+
+身体:
+
+![](http://www.monkeyquiz.com/img/grebar.gif) 6.3
+
+
+
+
+精神:
+
+![](http://www.monkeyquiz.com/img/blubar.gif) 7.5
+
+
+
+
+家人朋友:
+
+![](http://www.monkeyquiz.com/img/redorbar.gif) 1.5
+
+
+
+
+爱:
+
+![](http://www.monkeyquiz.com/img/redbar.gif) 0
+
+
+
+
+经济:
+
+![](http://www.monkeyquiz.com/img/yelgrebar.gif) 4.8
+
+
+
+
+[测测我的生活质量！](http://www.monkeyquiz.com/life/rate_my_life.html)

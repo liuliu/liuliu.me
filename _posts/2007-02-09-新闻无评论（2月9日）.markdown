@@ -1,0 +1,17 @@
+---
+date: '2007-02-09 15:00:00'
+layout: post
+slug: 新闻无评论（2月9日）
+status: publish
+title: 新闻无评论（2月9日）
+wordpress_guid: http://jsms.me/?p=96
+wordpress_id: '381'
+categories:
+- twitter
+---
+
+四川托普的资金黑洞有多深？  
+[http://finance.sina.com.cn/nz/tophd/index.shtml](http://finance.sina.com.cn/nz/tophd/index.shtml)
+
+四川国芯发布64位微内核操作系统 放言要做中国微软  
+[http://news.csdn.net/n/20070206/101223.html](http://news.csdn.net/n/20070206/101223.html)

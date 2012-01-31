@@ -4,6 +4,7 @@ layout: post
 slug: reflection-on-learning-distance
 status: publish
 title: Reflection on Learning Distance
+wordpress_guid: http://jsms.me/?p=492
 wordpress_id: '492'
 categories:
 - eyes

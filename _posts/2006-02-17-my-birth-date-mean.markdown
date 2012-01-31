@@ -4,6 +4,7 @@ layout: post
 slug: my-birth-date-mean
 status: publish
 title: My Birth Date Mean
+wordpress_guid: http://jsms.me/?p=194
 wordpress_id: '22'
 categories:
 - 收藏

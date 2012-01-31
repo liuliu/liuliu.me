@@ -4,6 +4,7 @@ layout: post
 slug: privacy-as-the-underlying-right-for-human-biological-material-dispute
 status: publish
 title: Privacy as the Underlying Right for Human Biological Material Dispute
+wordpress_guid: http://jsms.me/?p=1337
 wordpress_id: '1337'
 categories:
 - 随感

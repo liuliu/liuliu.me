@@ -4,6 +4,7 @@ layout: post
 slug: sophisticated
 status: publish
 title: Sophisticated
+wordpress_guid: http://jsms.me/?p=115
 wordpress_id: '342'
 categories:
 - 随感

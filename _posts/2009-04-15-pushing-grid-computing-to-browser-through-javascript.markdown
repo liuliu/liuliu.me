@@ -4,6 +4,7 @@ layout: post
 slug: pushing-grid-computing-to-browser-through-javascript
 status: publish
 title: Pushing Grid Computing to Browser through Javascript
+wordpress_guid: http://jsms.me/?p=512
 wordpress_id: '512'
 categories:
 - 随感

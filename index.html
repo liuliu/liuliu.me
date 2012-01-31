@@ -5,7 +5,7 @@ is_index: true
 {% include JB/setup %}
 
 {% for post in paginator.posts %}
-<div class="article"><div class="title"><a href="{{ post.url }}">{{ post.title }}</a></div><a href="{{ post.url }}#disqus_thread" class="comment-counter" data-disqus-identifier="{% if post.wordpress_id %}{{ post.wordpress_id }} http://jsms.me/?p={{ post.wordpress_id }}{% else %}{{ post.url }}{% endif %}">No comment yet<div><div></div></div></a><div class="datetime">{{ post.date | date_to_human_string }}</div><div class="paragraph">{{ post.content }}</div></div>
+<div class="article"><div class="title"><a href="{{ post.url }}">{{ post.title }}</a></div><a href="{{ site.production_url }}{{ post.url | url_utf8_escape | downcase }}#disqus_thread" class="comment-counter" {% unless post.wordpress_id %}data-disqus-identifier="{{ post.url | url_utf8_escape | downcase }}"{% endunless %}>No comment yet<div><div></div></div></a><div class="datetime">{{ post.date | date_to_human_string }}</div><div class="paragraph">{{ post.content }}</div></div>
 {% endfor %}
 <div id="discuss">
 {% if paginator.next_page %}

@@ -4,6 +4,7 @@ layout: post
 slug: ipr-multi-label-prediction-via-compressed-sensing
 status: publish
 title: 'IPR: Multi-Label Prediction via Compressed Sensing'
+wordpress_guid: http://jsms.me/?p=685
 wordpress_id: '685'
 categories:
 - interesting paper reading

@@ -1,0 +1,13 @@
+---
+date: '2007-11-21 14:40:00'
+layout: post
+slug: 香港独立了
+status: publish
+title: 香港独立了
+wordpress_guid: http://jsms.me/?p=61
+wordpress_id: '290'
+categories:
+- twitter
+---
+
+该多好。只用带着护照去香港驻中国大使馆办个签证就行了。

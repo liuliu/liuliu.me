@@ -4,6 +4,7 @@ layout: post
 slug: the-trouble-with-bright-kids
 status: publish
 title: The trouble with bright kids
+wordpress_guid: http://jsms.me/?p=1369
 wordpress_id: '1369'
 categories:
 - twitter

@@ -4,6 +4,7 @@ layout: post
 slug: article-summary-i
 status: publish
 title: Article Summary I
+wordpress_guid: http://jsms.me/?p=1221
 wordpress_id: '1221'
 categories:
 - 随感

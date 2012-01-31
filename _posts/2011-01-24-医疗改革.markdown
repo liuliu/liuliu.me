@@ -1,0 +1,15 @@
+---
+date: '2011-01-24 08:20:59'
+layout: post
+slug: 医疗改革
+status: publish
+title: 医疗改革
+wordpress_guid: http://jsms.me/?p=1154
+wordpress_id: '1154'
+categories:
+- twitter
+---
+
+http://www.ftchinese.com/story/001036635?page=1
+
+这篇文章思路很清晰。

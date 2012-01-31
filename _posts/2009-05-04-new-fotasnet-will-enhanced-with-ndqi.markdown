@@ -4,6 +4,7 @@ layout: post
 slug: new-fotasnet-will-enhanced-with-ndqi
 status: publish
 title: New Fotas.net will be Enhanced with NDQI
+wordpress_guid: http://jsms.me/?p=524
 wordpress_id: '524'
 categories:
 - twitter

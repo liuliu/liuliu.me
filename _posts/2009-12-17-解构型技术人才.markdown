@@ -1,0 +1,13 @@
+---
+date: '2009-12-17 06:04:05'
+layout: post
+slug: 解构型技术人才
+status: publish
+title: 解构型技术人才
+wordpress_guid: http://jsms.me/?p=727
+wordpress_id: '727'
+categories:
+- twitter
+---
+
+今天终于见识到学术大牛的忽悠了。那吹得叫一个清新脱俗，把一个URL缩短服务（好吧好吧，还有很多，比如只是RSS输出的URL缩短服务，还支持Mashup）能吹成下一代互联网技术，还扯了一个小时的淡。相比之下，我只能算是解构型人才了，一个巨NB无比的概念经过我口就变得平淡无奇了。

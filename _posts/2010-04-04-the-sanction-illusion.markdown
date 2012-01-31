@@ -4,6 +4,7 @@ layout: post
 slug: the-sanction-illusion
 status: publish
 title: The Sanction Illusion
+wordpress_guid: http://jsms.me/?p=853
 wordpress_id: '853'
 categories:
 - 随感

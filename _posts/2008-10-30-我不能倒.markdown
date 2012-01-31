@@ -1,0 +1,13 @@
+---
+date: '2008-10-30 04:24:26'
+layout: post
+slug: 我不能倒
+status: publish
+title: 我不能倒
+wordpress_guid: http://jsms.me/?p=272
+wordpress_id: '394'
+categories:
+- twitter
+---
+
+HB发给我的：有一次，程晨读到一封来自浙江大学的信，是四个大学生联名写的，他们在信中写道，“史玉柱，你不能倒，你是我们这一代人的偶像，如果你倒下了，你就会辜负一代人。”

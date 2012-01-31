@@ -1,0 +1,13 @@
+---
+date: '2009-12-31 03:56:35'
+layout: post
+slug: 对话
+status: publish
+title: 对话
+wordpress_guid: http://jsms.me/twitter/%e5%af%b9%e8%af%9d
+wordpress_id: '741'
+categories:
+- twitter
+---
+
+刚才看了个10年前的对话节目，意识到逻辑混乱是从60年代生人就开始了。

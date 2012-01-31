@@ -4,6 +4,7 @@ layout: post
 slug: a-comment-on-cs-projects-of-isef-2007
 status: publish
 title: A Comment on CS Projects of ISEF 2007
+wordpress_guid: http://jsms.me/?p=87
 wordpress_id: '372'
 categories:
 - 随感

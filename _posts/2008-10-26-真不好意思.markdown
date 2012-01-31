@@ -1,0 +1,15 @@
+---
+date: '2008-10-26 11:12:00'
+layout: post
+slug: 真不好意思
+status: publish
+title: 真不好意思
+wordpress_guid: http://jsms.me/?p=4
+wordpress_id: '295'
+categories:
+- twitter
+---
+
+OpenCV 1.1分发了，哥们把我的DEMO放到了Samples里面，做了很多修改，还不留名字，搞得我不都好意思了。另外，SURF的Patent不知道下来没，下来了OpenCV里面的实现就该撤了。  
+  
+

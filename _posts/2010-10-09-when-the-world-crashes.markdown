@@ -4,6 +4,7 @@ layout: post
 slug: when-the-world-crashes
 status: publish
 title: When The World Crashes
+wordpress_guid: http://jsms.me/?p=1040
 wordpress_id: '1040'
 categories:
 - twitter

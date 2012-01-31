@@ -4,6 +4,7 @@ layout: post
 slug: depressed
 status: publish
 title: Depressed
+wordpress_guid: http://jsms.me/?p=5
 wordpress_id: '296'
 categories:
 - twitter

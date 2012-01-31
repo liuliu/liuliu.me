@@ -4,6 +4,7 @@ layout: post
 slug: i-am-not
 status: publish
 title: I am not
+wordpress_guid: http://jsms.me/?p=836
 wordpress_id: '836'
 categories:
 - twitter

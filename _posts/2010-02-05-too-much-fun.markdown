@@ -4,6 +4,7 @@ layout: post
 slug: too-much-fun
 status: publish
 title: Too much fun
+wordpress_guid: http://jsms.me/twitter/too-much-fun
 wordpress_id: '793'
 categories:
 - twitter

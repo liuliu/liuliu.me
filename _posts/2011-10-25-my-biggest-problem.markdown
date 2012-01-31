@@ -4,6 +4,7 @@ layout: post
 slug: my-biggest-problem
 status: publish
 title: My Biggest Problem
+wordpress_guid: http://jsms.me/?p=1340
 wordpress_id: '1340'
 categories:
 - twitter

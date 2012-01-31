@@ -4,6 +4,7 @@ layout: post
 slug: my-dear-it-is-two-different-problem-domain
 status: publish
 title: My dear, it is two different problem domains
+wordpress_guid: http://jsms.me/?p=555
 wordpress_id: '555'
 categories:
 - eyes

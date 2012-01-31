@@ -4,6 +4,7 @@ layout: post
 slug: can-china-censor-the-internet
 status: publish
 title: Can China Censor the Internet?
+wordpress_guid: http://jsms.me/?p=765
 wordpress_id: '765'
 categories:
 - twitter

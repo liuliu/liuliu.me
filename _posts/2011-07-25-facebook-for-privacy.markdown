@@ -4,6 +4,7 @@ layout: post
 slug: facebook-for-privacy
 status: publish
 title: Facebook for Privacy
+wordpress_guid: http://jsms.me/?p=1299
 wordpress_id: '1299'
 categories:
 - twitter

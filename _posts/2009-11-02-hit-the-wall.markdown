@@ -4,6 +4,7 @@ layout: post
 slug: hit-the-wall
 status: publish
 title: hit the wall
+wordpress_guid: http://jsms.me/twitter/hit-the-wall
 wordpress_id: '689'
 categories:
 - twitter

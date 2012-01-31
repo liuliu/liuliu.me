@@ -4,6 +4,7 @@ layout: post
 slug: my-diary-went-away
 status: publish
 title: My Diary Went Away
+wordpress_guid: http://jsms.me/?p=198
 wordpress_id: '104'
 categories:
 - twitter

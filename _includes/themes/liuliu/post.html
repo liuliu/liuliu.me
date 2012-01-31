@@ -1,4 +1,4 @@
-<div class="article"><div class="title"><a href="{{ page.url }}">{{ page.title }}</a></div><a href="{{ page.url }}#disqus_thread" class="comment-counter" data-disqus-identifier="{% if page.wordpress_id %}{{ page.wordpress_id }} http://jsms.me/?p={{ page.wordpress_id }}{% else %}{{ page.url }}{% endif %}">No comment yet<div><div></div></div></a><div class="datetime">{{ page.date | date_to_human_string }}</div><div class="paragraph">{{ page.content | markdownify }}</div></div>
+<div class="article"><div class="title"><a href="{{ page.url }}">{{ page.title }}</a></div><a href="{{ site.production_url }}{{ page.url | url_utf8_escape | downcase }}#disqus_thread" class="comment-counter" {% unless page.wordpress_id %}data-disqus-identifier="{{ page.url | url_utf8_escape | downcase }}"{% endunless %}>No comment yet<div><div></div></div></a><div class="datetime"><a href="{{ page.date | date: "/%Y/%m" }}">{{ page.date | date_to_human_string }}</a></div><div class="paragraph">{{ page.content | markdownify }}</div></div>
 <div id="discuss"><div class="related-lead">Related Posts</div>
 {% if site.related_posts.size > 0 %}
 <ul class="related">

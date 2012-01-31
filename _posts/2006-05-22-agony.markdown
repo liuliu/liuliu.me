@@ -4,6 +4,7 @@ layout: post
 slug: agony
 status: publish
 title: Agony
+wordpress_guid: http://jsms.me/?p=151
 wordpress_id: '67'
 categories:
 - 随感

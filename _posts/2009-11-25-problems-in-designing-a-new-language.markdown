@@ -4,6 +4,7 @@ layout: post
 slug: problems-in-designing-a-new-language
 status: publish
 title: Problems in Designing a new Language
+wordpress_guid: http://jsms.me/?p=701
 wordpress_id: '701'
 categories:
 - twitter

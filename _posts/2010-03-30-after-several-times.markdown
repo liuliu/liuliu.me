@@ -4,6 +4,7 @@ layout: post
 slug: after-several-times
 status: publish
 title: after several times
+wordpress_guid: http://jsms.me/twitter/after-several-times
 wordpress_id: '919'
 categories:
 - twitter

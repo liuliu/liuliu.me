@@ -4,6 +4,7 @@ layout: post
 slug: my-mottos
 status: publish
 title: My Mottos
+wordpress_guid: http://jsms.me/?p=413
 wordpress_id: '413'
 categories:
 - 收藏
