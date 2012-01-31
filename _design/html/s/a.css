@@ -50,10 +50,6 @@ table {
 	border-spacing: 0;
 }
 
-strong {
-	font-weight: bold;
-}
-
 a, a:link, a:visited, a:hover {
 	text-decoration: none;
 }
@@ -264,6 +260,45 @@ a.hyper:hover {
 
 #content #main .article .paragraph a {
 	color: #dc3400;
+}
+
+#content #main .article .paragraph strong {
+	font-weight: bold;
+}
+
+#content #main .article .paragraph em {
+	font-style: italic;
+}
+
+#content #main .article .paragraph h1 {
+	text-indent: 0;
+	font-size: 1.5em;
+	font-weight: bold;
+	padding-top: 4px;
+	padding-bottom: 15px;
+}
+
+#content #main .article .paragraph h2 {
+	text-indent: 0;
+	font-size: 1.3em;
+	font-weight: bold;
+	padding-top: 3px;
+	padding-bottom: 14px;
+}
+
+#content #main .article .paragraph h3 {
+	text-indent: 0;
+	font-size: 1.1em;
+	font-weight: bold;
+	padding-bottom: 12px;
+}
+
+#content #main .article .paragraph h4,
+#content #main .article .paragraph h5,
+#content #main .article .paragraph h6 {
+	text-indent: 0;
+	font-weight: bold;
+	padding-bottom: 12px;
 }
 
 #content #main #discuss {

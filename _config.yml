@@ -76,7 +76,7 @@ JB :
   analytics :
     provider : google
     google : 
-        tracking_id : 'UA-303081-4'
+        tracking_id : 'UA-303081-5'
 
   posts_collate:
     provider : custom

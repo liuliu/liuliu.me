@@ -11,7 +11,7 @@ categories:
 每过一段时间，总会发现自己的草稿箱里充满了各种各样未完成的稿子，但是想来又都是写不下去的了，于是倒不如发出来看个热闹，权当凑个趣。
 
 劣鄙的公正，谈个人复仇的法律正义性 (2012-01-22)
-=========================================
+-----------------------------------------
 
 在中国，我们常常被教育，“冤冤相报何时了”，“冤家易解不易结”，“一笑泯恩仇”。但在武侠小说中，也常常有“杀父之仇，不共戴天”的说法。复仇，尤其是在此谈论的以杀死造成自己亲近之人死亡的凶手为目的的复仇，虽然有层出不穷的格言（以牙还牙，以眼还眼。An eye for an eye etc.），并不是古已有之的。
 
@@ -25,7 +25,8 @@ categories:
 
 个人复仇其正义性从何而来？为什么说正义，却是劣鄙的？怎样才能让正义得到贯彻而不失原则？个人复仇的正义性在于，受害者有所有的权力要求罪犯作出补偿。
 
-**What is FIFO, The Design Principle (2012-01-02)**
+What is FIFO, The Design Principle (2012-01-02)
+-----------------------------------------------
 
 FIFO is: [http://fifo.me/](http://fifo.me/)
 
@@ -35,7 +36,8 @@ The magic dew of FIFO is that it ticks. A task is ongoing not only because it is
 
 It certainly complicated FIFO's UI, but also brought some simplifications. For one, you cannot uncheck a completed task. If you've completed a task, and want to finish up some last minute thing, the alternative is to click on that completed task which will copy the item into input box and from there, you can re-enter the task.
 
-**The Symbol with Power - Storytelling of a Kadaitcha Man (2011-12-08)**
+The Symbol with Power - Storytelling of a Kadaitcha Man (2011-12-08)
+--------------------------------------------------------------------
 
 Introduction
 
@@ -75,23 +77,28 @@ One should look no further than The Old Man's Drawing to find the storytellings 
 
 Timmy Payungka Tjapangati's dreaming stories is not all about punishment if any of them is.
 
-**身体啊 (2011-10-19)**
+身体啊 (2011-10-19)
+------------------
 
 最近身体真是有点不好了，连续两天都感觉非常累，又没做太多事。果然是太胖的缘故。
 
-**On Core Competency (2011-10-14)**
+On Core Competency (2011-10-14)
+-------------------------------
 
 As naive as I am, or as biased as an engineer, I still think that the core competency in reforming any current physical activities lies in between engineering efforts and design. The core competency of an online banking is the engineering of optimizing
 
-**'"Good enough" is a high bar' (2011-07-14)**
+'"Good enough" is a high bar' (2011-07-14)
+------------------------------------------
 
 Most of the time, people won't claim that they want to make a "just good enough" product. They pursue something great, disruptive and in all its merit, a game changer. It is hard, it is rare, it shapes the future and at the bottom, it makes a shit load of money. Except one thing: many of them failed.
 
-**(Why) do things one doesn't like (2011-06-29)**
+(Why) do things one doesn't like (2011-06-29)
+---------------------------------------------
 
 It is famous to say, if you don't like it, don't do it. Such ignorant attitude is wrong because human brain fundamentally cannot  the 
 
-**The Value of Networking (2011-05-22)**
+The Value of Networking (2011-05-22)
+------------------------------------
 
 You must knew one or two of these people. They are childhood best friends of some well-known names. They know people in high positions. They are some kind of legendary in the early 21st century. They are networking people.
 
@@ -111,15 +118,18 @@ THE PUNCHLINE
 
 Y-Combinator is many things, but for one, it is an experiment to eliminate the networking cost.
 
-**The Spirit of Entrepreneurship (2011-04-21)**
+The Spirit of Entrepreneurship (2011-04-21)
+-------------------------------------------
 
 After the last post, my mind cannot recover from thinking about common traits of entrepreneurs I liked. Let me clarify this: there is no common traits among entrepreneurs, thus, my analysis is flawed from beginning.
 
-**You and us, we are different - why machine intelligence is inevitable (2011-02-23)**
+You and us, we are different - why machine intelligence is inevitable (2011-02-23)
+----------------------------------------------------------------------------------
 
 The "imbalance of power" hypothesis is interesting not only because its biological implication, also have the 
 
-**Application-Driven Development in CCV (2011-02-08)**
+Application-Driven Development in CCV (2011-02-08)
+--------------------------------------------------
 
 In the set off post of ccv, I listed one property of it to be "modern", which means rather than provides a truck-load of obsolete algorithms, ccv intended to provide best-of-its-kind algorithm among wide range of applications. Last September, I even went further and claimed that the first 4 applications for ccv would be: 1). object matching; 2). object detection; 3). text detection; 4). 3d reconstruction. These statements set the tone for ccv development known now as application-driven.
 
@@ -127,11 +137,13 @@ There are a lot of evidence in ccv code base to provide the actual usage of this
 
 With the application-driven development methods, some rarely noticed characteristics of computer vision library surfaced. For example, 
 
-**The disruptive Technology (2011-01-19)**
+The disruptive Technology (2011-01-19)
+--------------------------------------
 
 Most people take technology as an inevitable achievement of intelligent beings. Thus, a lot people would like to regard technology as a continuous improvement force to our daily life. For any technological sufficient race, the technology part should not be considered as an add-on for social structure. Rather, technology as a disruptive power
 
-**Darwin and Wallance (2010-11-08)**
+Darwin and Wallance (2010-11-08)
+--------------------------------
 
 Darwin reached his initial enlightenment on Natural Selection quite early in his year. But he anticipated criticisms, mass of them. The idea of Natural Selection and inner-group struggling was so novel, he believed no one would hold the same idea. Besides, the two questions: the origin of life and the origin of man left unanswered. Darwin was not in hurry. He was experimenting in his yard, collecting evidences and talking to breeders. He aimed at perfection, a theory that answers all. And Charles Darwin had resources. He was an English gentleman and even before his returning from the Beagle, he became a well-known naturalist already. He shared the idea with few friends, but never rushed to publication, the evolution needs time, and so did he.
 
@@ -145,13 +157,15 @@ From today's point of view, the 19 centuries scientific community was very inter
 
 The race between Darwin and Wallace was certainly an interesting one. But from the reading, it wasn't as deadly, cruelty as I imagined. It seems that the classes and the social status played a big role here. Even Wallace got every detail independently, it quite unlikely that he would collect enough evidences in time to proceed. As long as Darwin was willing to give him credit, Wallace seems quite happy as a defender to Darwin's theory. That was, to some extend, less Dramatically as a dead race to scientific discovery. As gentleman as Darwin was, it was unlikely that without Darwin, the 19 centuries won't discover the law of evolution. However, the coincidence shouldn't down play Darwin's contribution. As far as Wallace had got, it was an interesting theory, just as interesting as Lamarck's or in Vestiges. Darwin set out differently. He didn't want to get well-known because of a proposal of interesting theory, he was quite famous already. He wanted to establish the theory, a theory that needs no Creator. Thus, the ambitious goal put him into the role as the discoverer of Natural Selection.
 
-**On Betting the Big will Fail (2010-09-24)**
+On Betting the Big will Fail (2010-09-24)
+-----------------------------------------
 
 I have the little hobbit of predicting the future, based on patterns. The recent fail of Cuil to Google and upcoming challengers of CollegeOnly and Diaspora to Facebook give me a chance to predict the pattern of small startup up against big player in market.
-
+Patent in its traditional meaning, is a government-protected monopoly. However, because it is a granted property right that covers wide range of transactions, questionable practices such as patent suppression are invented ever since. By actively applying for patents and passively asking for royalty fee, it now becomes a standalone business mode, companies like Intellectual Ventures and Digitude Innovations are actively seeking legal means to profit from the large patent pools they gathered through acquisitions and bankruptcy liquidations. These business practices failed to address the very principle of patent law, which is to reward patent inventors in order to better promote technology advancement. On the other hand, in today’s world, a competitive market shows 
 It interesting because whether Cuil or CollegeOnly or Diaspora had chose a way to directly compete with these who already took a big share of market already. To me, these startups were founded on the idea that big players were too big to pursuit a small division of the market where can give these a niche.
 
-**Introducing LimPQ Service, Concepts and Ideas (2010-09-13)**
+Introducing LimPQ Service, Concepts and Ideas (2010-09-13)
+----------------------------------------------------------
 
 [limpq.com](http://limpq.com) is my newest venture to help developers get rid of all the madness in implementing a web-based photo management application. The web interface is only my vision of how a web photo management app should look like. The whole idea behind limPQ is about providing simple and robust photo management system that can be easily customized and embedded. With limPQ, developer can create a photo management app in minutes by pure javascript API or RESTful API.
 
@@ -161,13 +175,15 @@ Another important concept in limPQ is the floor. Floor is a generic property in 
 
 Collection, as the name suggests, is a container of references to photos. A collection can have as many photos as you want, and one photo can belong to several collections. If only collection reflects the relationship between photos, to implement one yourself is trivial. But collection here is powered by NDQI. A collection contains three parts: a query string, a list of included photos, a list of excluded photos. With the help of NDQI, collection can reflect the changes in the portfolio. A new uploaded photo can be automatically assigned to collections (Not real-time in current implementation). In that sense, it is dynamic.
 
-**The Third Thing (2010-08-24)**
+The Third Thing (2010-08-24)
+----------------------------
 
 I am a tech person, which means that I spend a lot time on technology stuffs: neat ideas, implementations and visions. When diving into the details of implementation, a thing scared me. That, by obsessing small details, I am losing the sight to the bigger picture. Once a year, I usually spent one week or more, to sit back and think, think really hard about, how, and what the future will be. Even being naively optimistic, I still believe that future is unpredictable. Paradigm shift comes and goes, and that breaks everything. Also, even from utilizationism point of view, the think is more about contrive fantastic words to sell ideas. It is, in selfish way, to fulfill the needs of visionaries throughout the history of civilization.
 
 When the history comes to a turn point, very few had a clear picture of how big it is. However, stripping out the context, all modern innovations are magic out of void.
 
-**The Fallacy of Military Occupation (2010-04-28)**
+The Fallacy of Military Occupation (2010-04-28)
+-----------------------------------------------
 
 The march to Baghdad in April, 2003 symbolized a triumph of the United States military force. However, the premature occupation policies of Iraq caused more chaos and uncertainty. Conventional wisdom suggests that the longer the military occupation is the more chaos it will create.  Contrarily, “The Surge”, Bush’s new way forward which essentially meant to send more troops to Iraq harvested many positive effects in the past three years. To many politicians, it seems now that sending more military force can solve the problem. However, the successes in Iraq only proved that enforcing more police power and regulations can improve local security situation. It cannot justify the necessity to send more troops under similar situation in the future.
 
@@ -179,7 +195,8 @@ If the success of “Surge” was built upon the reinforcement of police power, 
 
 Someone may suggest that the new battle troops are better in dealing with terrorism, thus, the positive effect of “the Surge” was more contributed by the fact that the new troops effectively defeated terrorist's threats. Maybe local police force is not the best option to deal with terrorist's threats, but in my opinion, the U.S. cooperation with Sunnis was a larger contributor to the drop down of foreign terrorist activities. Many foreign fighters, namely those worked for AQI were believed to enter the nation through border with Syria. By cooperating with Sunni militias to secure the border with Syria, the U.S. had the chance to stop new incoming foreign fighters and defeat the terrorists in Iraq. The fact is that during the time of “the Surge”, more troops were dispatched for jobs like securing street and public gathering place, which are just like what normal police force will do.
 
-**An Unnecessary War (2010-04-14)**
+An Unnecessary War (2010-04-14)
+-------------------------------
 
 In 1991, after the liberation of Kuwait, the U.N. army chose not to invade Iraq and left Saddam's regime untouched. 12 years later, when it was crystal clear that the International sanction would not swing Saddam's regime, police makers in Washington started to worry what would happen if the deterring measure fails. The consequent threat of WMD (Weapons of Mass Destruction) as a failure of deterrence urgent the United States to take action. However, the answer from President Bush's administration is a war on flimsy foundation [1]. Instead of a full military invasion, the United States could overthrow Saddam's regime by leveraging International politic & military pressure and providing actual military support to revolutionists within Iraq.
 
@@ -201,8 +218,8 @@ The popular perspective to the Iraq problem would argue that the military invasi
 
 5. George W. Bush: The 2002 State of Union Address. [http://georgewbush-whitehouse.archives.gov/news/releases/2002/01/print/20020129-11.html](http://georgewbush-whitehouse.archives.gov/news/releases/2002/01/print/20020129-11.html)
 
-**Religious Pitfalls in Baath Movement (2010-03-29)**
-
+Religious Pitfalls in Baath Movement (2010-03-29)
+-------------------------------------------------
 
 The Baath movement in 20th century tried to solve the Arab world problem by introducing modern western ideas and practices in order to create one united Arab nation. This cross-nation political organization of the 1920s was first founded under three principles: Unity, Liberty and Socialism. These three were the shared pursuit in early 20th century among most people in the world. Under these principles, the Baath Party is should never be considered as a religion oriented political organization. The intentional ignoring of the religious aspect in Arab people’s life helped the cross-border movement spread to wider population, but it also seeded the potential divisions and conflicts inside and outside the entity itself.
 
@@ -224,21 +241,25 @@ The Baath movement had and exercised serial aggressive moves in the belief of cr
 
 [4] The Iran Revolution, Adam Trusner, Iraq War Course, Spring 2010
 
-**Review Vector Boosting with Bag of Words (2010-01-28)**
+Review Vector Boosting with Bag of Words (2010-01-28)
+-----------------------------------------------------
 
 While reviewing vector boosting, the idea is tempting. It is a way to vectorize a region super fast and has learning ability inside. Sounds familiar? Modern dense descriptors do exactly like that but without the learning ability. More than that, if we can learning a vector from a given region, why not just learn the bag of words model directly? When you consider the user case of vector boosting (for different pose of faces), the output vector are generally sparse and so the bag of words model. What a great fit.
 
 There are several constraints that made the training a vector boosting model for interesting point detector/descriptor never be touched before. 1). Training a large vector is something prohibitive in time. A small usable codebook has tens of thousands classes, and today's typical vector boosting technique only works on handful classes. 2). Semi/non-supervised boosting learning is needed. Ideally, we don't want to rely on external detector to prepare the training data. If so, the trained system may be just sub-optimal than the external detector and thus useless. 3). Vector boosting requires orthogonal vector projection, for 10,000 classes, that means 10,000-d vector.
 
-**A new approach to the Internet (2010-01-14)**
+A new approach to the Internet (2010-01-14)
+-------------------------------------------
 
 The hard part of censoring the Internet is that, every connected device is equally treated: it can connect to other devices AND it can accept connections from other devices. The connectivity nature of the Internet causes many troubles when one tried to block the information. Let's imaging a world where every legal protocols is either censored or blocked, it is still possible to sneak out encrypted information through legal channel (forge request etc.). The dilemma is you cannot block every IP address outside one region. If do so,
 
-**Why China is not the Future (of Business) (2010-01-13)**
+Why China is not the Future (of Business) (2010-01-13)
+------------------------------------------------------
 
 Google is pulling out its China operation. Some posts are saying that it will damage Google's long-term growth. However, the implication here is that China is the future of business, and by quitting Chinese market, you are losing the future.
 
-**未来十年 (2010-01-12)**
+未来十年 (2010-01-12)
+--------------------
 
 中期的未来预测从来是件吃力不讨好的事情，准确的很少，而且容易受到不可预知的事件影响（比如对于航天业的发展严重受到苏联解体的影响），而且，中期预测和短期预测不同，个体无法根据中期预测进行战术性地调整，也使得这一预测实用性大打折扣。比如[前年做的4年期预测](http://jsms.me/%E9%9A%8F%E6%84%9F/%E9%A2%84%E6%B5%8B%E6%9C%AA%E6%9D%A52012)，现在看来，至少有这么几点是错误的：1. 现在看来，要在两年内将CPU主频从3GHz提高到5～6GHz是不可能的了；2. 存储没有以家庭化为单位，而是以中心存储为单位，天平已经倾斜过去了；3. Nokia比想象得死得快得多，Android和iPhone现在看来发展得快得多；4. 没有人购买家用存储设备，也没有人生产这样的设备，因为存储无可辩驳地向中心存储转移了；5. Roomba没有遇到拐点，相反，这一市场发展愈发平稳。
 
@@ -250,7 +271,8 @@ Google is pulling out its China operation. Some posts are saying that it will d
 
 然而，这十年并不是太平盛世。各个主要国家将在一个第三方卷入一场资源和话语权争夺的战争。这将是一场克制的，精确打击，低伤亡的战争，但是会导致一些国家的政权更迭。虽然号称低伤亡，但由于各种高科技的运用，这却是有史以来最血腥，报道也最全面的战争。
 
-**谈创业团队 (2009-11-28)**
+谈创业团队 (2009-11-28)
+---------------------
 
 最近有朋友跟我说要在互联网创业了。身边想做，已经开始做的朋友不少了，大家总是纠结在这几个问题，团队多大合适，怎么配置，股份怎么分配。
 
@@ -258,29 +280,34 @@ Google is pulling out its China operation. Some posts are saying that it will d
 
 首先，要肯定的是什么样的创业团队都是可能成功的。但是正如作为理性的人我们从不买彩票一样，我也只是挑选
 
-**Memory Efficiency is Important for Tree Structure (2009-10-29)**
+Memory Efficiency is Important for Tree Structure (2009-10-29)
+--------------------------------------------------------------
 
 When implementing general tree structure, people sometimes just forgets how important the memory efficiency is. At least, I was. The first mistake that made I aware of this issue is in the implementing radix tree (prefix tries). Radix tree is a tree structure with more than 2 children (26 children / 16 children is the common pattern). That's where the common knowledge is challenged. When implementing binary tree, we always allocate two pointers (left node/right node). If we follow the common knowledge and allocate 26/16 pointers, it becomes a huge waste. When a tree structure needs to hold millions of objects (which is common these days) in memory, a constant waste of 4*16 bytes is large.
 
 Most time we think the tree structure is more memory efficient than hash table.
 
-**为何我不看好创新工场 (2009-10-09)**
+为何我不看好创新工场 (2009-10-09)
+------------------------------
 
 觉得要抽空写点关于李开复博士新创业项目的一些话。
 
 题目说得很直白了，我不看好李博士的这个新项目。
 
-**Dr. Who or How I Learned to Stop Using Random Data and Love the Real World (2009-09-17)**
+Dr. Who or How I Learned to Stop Using Random Data and Love the Real World (2009-09-17)
+---------------------------------------------------------------------------------------
 
 The first pain with random data starts with the implementation of spill tree data structure.
 
-**Patterns of Business Success (2009-09-07)**
+Patterns of Business Success (2009-09-07)
+-----------------------------------------
 
 Starting from my middle school, I was facinated by the puzzle of business success: people from all walks of life can be huge success in business perspective. Can I find any pattern of how these people succeed? There are books like _Built to Last_ / _Good to Great_ want to figure out pretty much the same thing.
 
 From time to time, I realize that luck plays a big role in business success. However, that doesn't necessary mean there is only randomness is the pattern of business success.
 
-**Target has been Vectorized and Quantized (2009-08-24)**
+Target has been Vectorized and Quantized (2009-08-24)
+-----------------------------------------------------
 
 A common method to do computer experiment is to vectorize something and then quantize them in order to get a good, discrete representation of the essence. The one convenient thing about multimedia is that all the digital form of media is naturally a vector and sort of quantized. That's to say, to extract a better representation of media, we only have to apply different linear/non-linear transformations.
 
@@ -288,22 +315,26 @@ Vectorized data has many advantages. It easy to calculate, manipulate and visual
 
 There are several missing parts that worth to mention. We generally believe that human eyes have the function to vectorize what it perceives. But what level of vectorization have we gain is a bit little vague. Our current digital imaging technology forms a vector representation of image based on per-pixel intensity. Though there are similarities in low-level (eye function), human can more efficiently break image into higher/more compact representation. Let's assume it is still a vector representation, it should be weighted, dimension-reduced vector. An observation of human skimming skill suggests that human mayhave the ability to automatically verctorize document by skimming.
 
-**Some Misconceptions in Haar-like Feature Detection (2009-08-02)**
+Some Misconceptions in Haar-like Feature Detection (2009-08-02)
+---------------------------------------------------------------
 
 Adaboost training is simple. HAAR-like feature is simple. And the method for fast-detection was discovered in the beginning of 21st century. What's the big deal here? Well, because for a long time, I basically have some mis-concepts regarding the wide used fast-detection techniques.
 
 The adaboost classifier is a linear classifier. However, a linear classifier is not neccessarily bad classifier especially for these in high-dimensional space. HAAR-like features lays in a very rich space. It is rebundant,
 
-**新资本家 (2009-06-16)**
+新资本家 (2009-06-16)
+--------------------
 
 关于资本家的盈利模式，自由派经济学家和马克思是有重大分歧的。马克思认为价值是物品的固有属性，不会随着外部而变化。
 
-**进化的理性作用 (2009-05-31)**
+进化的理性作用 (2009-05-31)
+-------------------------
 
 理性主义者常常宣称，进化已经产生了智能，因此完全可以不依赖于自然选择的进化而经由理性的逻辑推理进行设计，找出最适应的方法。这一想法的狂妄之处在于忽视了理性的逻辑推理不是独立于进化而存在的，他本身是由进化所产生，因此不会是永久可靠，也自然不会是“找出最适应”的最优办法了。同时，定义最优的约束条件本身就是困难的，这也使得由理性推导来获得最适应族群是更加困难的。
 
 但是，这样的论断并没有否定理性决定最适应的可能性。
 
-**Everyone wants to be Steve Jobs (2009-04-02)**
+Everyone wants to be Steve Jobs (2009-04-02)
+--------------------------------------------
 
 As Steve Jobs introduced the idea that design is the center of product, suddenly, everyone comes up with a great excuse.
