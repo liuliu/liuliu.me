@@ -26,7 +26,8 @@ footer, header, hgroup, menu, nav, section {
 }
 
 body {
-	background: #f5f4d7;
+	background-color: #f5f4d7;
+	background: url('whitey.gif');
 	line-height: 1;
 	font-family: "lucida grande",tahoma,verdana,arial,sans-serif;
 }
@@ -82,7 +83,7 @@ a.hyper:hover {
 
 #container {
 	margin: auto;
-	max-width: 1180px;
+	max-width: 1170px;
 }
 
 #header {
@@ -136,6 +137,7 @@ a.hyper:hover {
 	float: left;
 	margin-left: 70px;
 	margin-right: 15px;
+	cursor: default;
 }
 
 #header .title a {
@@ -143,7 +145,7 @@ a.hyper:hover {
 	color: #00a035;
 	cursor: pointer;
 	text-decoration: none;
-	margin-right: 6px;
+	margin-right: 10px;
 }
 
 #header .divider {

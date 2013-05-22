@@ -5,7 +5,6 @@ permalink: /:categories/:title
 paginate: 10
 
 exclude: [".rbenv-version", "README.md", "Rakefile"]
-auto: false
 pygments: true
 markdown: rdiscount
 

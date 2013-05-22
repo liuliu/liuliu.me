@@ -94,8 +94,13 @@ end # task :preview
 
 desc "Update to production"
 task :update do
-  system "jekyll ; rsync -avz --progress --delete _site/* kamino@liuliu.me:/home/kamino/jekyll/"
+  system "jekyll build ; rsync -avz --progress --delete _site/* kamino@liuliu.me:/home/kamino/jekyll/"
 end # task :update
+
+desc "Syncing to production"
+task :syncing do
+  system "rsync -avz --progress --delete _site/* kamino@liuliu.me:/home/kamino/jekyll/"
+end # task :syncing
 
 def ask(message, valid_options)
   if valid_options

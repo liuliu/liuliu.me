@@ -1,0 +1,15 @@
+---
+date: '2012-03-23 16:24:00'
+layout: post
+slug: 失败
+status: publish
+title: 失败
+categories:
+- 随感
+---
+
+突然有了很多闲暇时光，读完了一些累积了一两年的书，在前几天终于开始读《大国崛起》英文版，*Why Nations Fail*，才发现最近读的书堪称失败三部曲啊，先是*When Genius Failed*，然后是*When New Technologies Cause Great Firms to Fail*，最后是更泛化的*Why Nations Fail*。中间一本还好，第一本和第三本真是看得心焦，郁闷感和1月份的时候天天看大屠杀的感觉差不多。
+
+在我年轻得不知肉味的时候，写过一篇[赞美失败](http://liuliu.me/%E9%9A%8F%E6%84%9F/%E8%B5%9E%E7%BE%8E%E5%A4%B1%E8%B4%A5/)。而现在读多了，越发觉得失败的理由千千万万，成功的模式各有不同。
+
+如果都是制度的问题，又何必说什么失败，总会把他弄正确的。

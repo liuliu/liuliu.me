@@ -13,7 +13,7 @@ module Liquid
 		end
 
 		def url_utf8_escape(input)
-			multi = input.split('/')
+			multi = input.force_encoding("UTF-8").split('/')
 			escaped = multi.collect do |x|
 				begin
 					URI.escape(URI.unescape(x))

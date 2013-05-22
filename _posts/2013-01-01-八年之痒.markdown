@@ -1,0 +1,31 @@
+---
+date: '2013-01-01 00:01:00'
+layout: post
+slug: 八年之痒
+status: publish
+title: 八年之痒
+categories:
+- 随感
+---
+
+写BLOG已经八年了。从05年二月至今，断断续续，唯有05年的七月，08年的六月，10年的七月和12年的五六七月未动过笔。写得多的时候总是赋闲，写得少的时候却是忙。从BLOG还在MSN Spaces开始，有什么事情和想法，都记在了上面。也许再过几十年，就跟Caprica似的，只需要把这些个文字输入进去，马上出来一个一模一样的我。多让人泄气。
+
+八年前，正是青春懵懂的年纪，[写过生](http://liuliu.me/%E9%9A%8F%E6%84%9F/%E4%B8%80%E4%B8%AA%E4%BA%BA%E7%9A%84%E7%94%9F%E6%B4%BB/)，[写过死](http://liuliu.me/%E9%9A%8F%E6%84%9F/%E6%98%8E%E5%A4%A9%E8%B5%B0%E4%BA%86/)，也[写过故乡](http://liuliu.me/twitter/%E9%81%82%E5%B7%9E%E7%BA%AA%E4%BA%8B%E5%85%B6%E4%B8%80/)。
+
+七年前，刚刚保送，大把大把的时间给自己花。可以[回忆电影](http://liuliu.me/%E9%9A%8F%E6%84%9F/%E7%94%B5%E5%BD%B1%E5%9B%9E%E5%BF%86/)，还可以[谈谈酒](http://liuliu.me/%E9%9A%8F%E6%84%9F/%E8%B0%88%E9%85%92/)。烧掉了[过去的日记](http://liuliu.me/twitter/my-diary-went-away/)，对未来有[好多憧憬](http://liuliu.me/%E9%9A%8F%E6%84%9F/%E6%88%90%E4%BA%BA%E4%B8%96%E7%95%8C/)。开始了每年写一篇[很极地很阳光的文章](http://liuliu.me/%E5%B0%8F%E8%AF%B4/%E9%82%A3%E4%B8%AA%E5%AD%A6%E5%A7%90/)的习惯。
+
+六年前被刘同学[带着看各种暴力电影，Apocalypse Now，Sin City，Kill Bill……](http://liuliu.me/%E9%9A%8F%E6%84%9F/2007/)，直到最近看了Django Unchained，才觉得看Quentin Tarantino的暴力有些审美疲劳了。对了，那时候[我还会算八卦呢](http://liuliu.me/%E9%9A%8F%E6%84%9F/%E8%BF%99%E4%B8%80%E5%88%87%E6%B2%A1%E6%9C%89%E6%83%B3%E8%B1%A1%E5%BE%97%E9%82%A3%E4%B9%88%E7%B3%9F/)。从清华辍学的那段时间，居然没有任何反应，还去[看电影](http://liuliu.me/%E9%9A%8F%E6%84%9F/%E5%8F%98%E5%BD%A2%E9%87%91%E5%88%9A%EF%BC%8C%E8%BF%9F%E5%88%B0%E7%9A%84%E7%AB%A5%E5%B9%B4/)。想起来当时也确实是很休闲，每天就起床看书，炒股，晚上帮全寝室的同学下载AV。开始写[意识流的文章](http://liuliu.me/%E9%9A%8F%E6%84%9F/%E4%B8%80%E9%A5%AE%E6%88%90%E8%8A%B3%E6%B3%BD/)了，六年前还真是丰富啊，在读过《激荡三十年》之后，居然还去[蛇口参观感怀](http://liuliu.me/%E9%9A%8F%E6%84%9F/%E8%9B%87%E5%8F%A3/)了一趟，见了[小学时候喜欢的一个姑娘，感叹着被生活摧残得只剩下理想了](http://liuliu.me/%E9%9A%8F%E6%84%9F/%E6%9A%96%E6%9A%96/)，然后还写了篇[情色小小说](http://liuliu.me/%E5%B0%8F%E8%AF%B4/%E8%89%B3%E5%86%AC/)。
+
+五年前的时候，[年初就一直在挣扎](http://liuliu.me/%E9%9A%8F%E6%84%9F/%E8%B5%9E%E7%BE%8E%E5%A4%B1%E8%B4%A5/)，但是也有时间[研究面相](http://liuliu.me/%E9%9A%8F%E6%84%9F/%E7%9C%8B%E9%9D%A2%E7%9B%B8/)。[预测了2012年，错了一半](http://liuliu.me/%E9%9A%8F%E6%84%9F/%E9%A2%84%E6%B5%8B%E6%9C%AA%E6%9D%A52012/)。天哪，我是多么的[喜欢僵尸](http://liuliu.me/twitter/%E9%9D%A2%E5%AF%B9%E5%83%B5%E5%B0%B8%E6%80%8E%E4%B9%88%E5%8A%9E/)！即使到UVa读书了，心思还是乱转，[申请了Y Combinator，开始了读Hacker News](http://liuliu.me/%E9%9A%8F%E6%84%9F/%E6%97%B6%E4%BA%8B/)。
+
+四年前又从UVa辍学了半年，还是[疑惑](http://liuliu.me/%E9%9A%8F%E6%84%9F/%E6%97%B6%E4%BA%8B/)。当时也不会想到，我居然能够从大学毕业。开始写好多[形而上学的总结](http://liuliu.me/%E9%9A%8F%E6%84%9F/why-facool-failed-and-what-i-learned-from-it/)，想能够公式化一些东西。也从那个时候，开始[写了ccv最开始最开始的一个版本](http://liuliu.me/twitter/%E5%BF%83%E6%83%85%E5%A4%A7%E5%A5%BD/)。居然没有在年底前提我那个传奇的黑人哥们室友！应该过段时间写篇文章专门介绍他！
+
+三年前的我是多么天真，[居然说iPad只是大号的iPhone](http://liuliu.me/twitter/%E7%AE%80%E5%8D%95%E8%AF%B4%E4%B8%80%E4%B8%8Bipad/)。第一次[去参观了Facebook](http://liuliu.me/%E9%9A%8F%E6%84%9F/%E4%B8%A4%E6%97%A5%E4%B8%80%E8%AE%B0/)，好像那时候的食堂更好吃，还是我的幻觉？写信给[Stephen Wolfram](http://liuliu.me/twitter/stephen-wolfram/)，还打算帮他翻译A New Kind of Science呢。在飞机上[读完了最好的一本写中国的书](http://liuliu.me/%E9%9A%8F%E6%84%9F/%E4%B8%AD%E5%9B%BD%E6%A2%A6/)。开始逐渐思考22岁之后到底应该相信什么，写下了[达尔文主义的反智性](http://liuliu.me/%E9%9A%8F%E6%84%9F/anti-intellectualism-fact-of-evolution/)，而自己现在依然相信。
+
+两年前的时候，小规模的给同学们[介绍了ccv的设计](http://liuliu.me/ccv-a-modern-computer-vision-library/)。那两年的我，是多么的注重于科学研究啊。上了人类学的课之后，又[意识流了](http://liuliu.me/%E9%9A%8F%E6%84%9F/%E4%B8%80%E4%B8%AA%E4%BA%BA%E7%9A%84%E6%88%98%E4%BA%89/)。然后这些啊，那些啊，[两三个月都处于睡眠不足](http://liuliu.me/%E9%9A%8F%E6%84%9F/%E7%9D%A1%E7%9C%A0%E7%9A%84surplus%E6%9E%9C%E7%84%B6%E7%94%A8%E7%9A%84%E5%BE%88%E5%BF%AB%EF%BC%8C%E5%96%82%EF%BC%8C%E4%BD%A0%E8%A6%81%E6%9B%B4%E5%8A%AA%E5%8A%9B%E5%95%8A%E6%88%91%E8%AF%B4/)的边缘。终于开始回忆了一下[小学时候穷得叮当响的情形](http://liuliu.me/%E9%9A%8F%E6%84%9F/used-to-be-an-entrepreneur/)和[现在还穷得当叮晃的窘迫](http://liuliu.me/%E9%9A%8F%E6%84%9F/%E6%B2%A1%E9%92%B1%E7%9A%84%E6%97%B6%E5%80%99/)，可是混蛋你怎么没提这件[穷得用开水泡冷馒头的事](http://liuliu.me/%E9%9A%8F%E6%84%9F/%E5%9C%A8%E5%95%86%E8%A8%80%E5%95%86/)啊！也玩了[一阵子Hadoop](http://liuliu.me/hipi-computer-vision-at-large-scale/)。在上了几节课之后，就开始玩弄[我的专利系统改革的想法](http://liuliu.me/eyes/creating-competitive-market-for-patent/)。
+
+一年前在家的时候，[反而越发想念她](http://liuliu.me/%E9%9A%8F%E6%84%9F/%E7%A6%BB%E5%BC%80%E7%9A%84%E6%97%B6%E5%80%99%E6%9C%80%E6%83%B3%E5%A5%B9/)。终于跟大家承认了我是[韩寒的脑残粉](http://liuliu.me/%E9%9A%8F%E6%84%9F/%E6%88%91%E5%B0%B1%E5%96%9C%E6%AC%A2%E9%9F%A9%E5%AF%92/)。天天[跑到金门公园读书](http://liuliu.me/%E9%9A%8F%E6%84%9F/%E4%BC%91%E5%81%87%E4%B8%AD/)，还真的几天读完了Innovator's Dilemma和When Genius Failed。写了[另一篇半色情的很极地很阳光的小小说](http://liuliu.me/%E5%B0%8F%E8%AF%B4/%E5%96%9C%E6%AC%A2/)。直到在Hawaii休假的时候，才变得[突然多愁善感起来](http://liuliu.me/%E9%9A%8F%E6%84%9F/20%E9%82%A3%E5%B9%B4/)，哪个姑娘告诉我加州每天都很阳光的，自己认错！
+
+现在想来，大概八年前的我，对2012年的我的处境，是非常特别的之不会满意的。
+
+I was a little bit confused in the past month. Thought that for the next year, I should focus on gaining experience and planed along that way for a while. But now I am shaked up, and realized that I should still focus on being more knowledgable and improving my physical. Will have a self-driving car prototype done by the end of 2013.

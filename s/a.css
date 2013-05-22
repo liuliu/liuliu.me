@@ -25,8 +25,14 @@ footer, header, hgroup, menu, nav, section {
 	display: block;
 }
 
+@font-face {
+	font-family: "elena";
+	src: url("/s/elena-regular.woff") format("woff");
+}
+
 body {
-	background: #f5f4d7;
+	background-color: #f5f4d7;
+	background: url('whitey.gif');
 	line-height: 1;
 	font-family: "lucida grande",tahoma,verdana,arial,sans-serif;
 }
@@ -82,7 +88,7 @@ a.hyper:hover {
 
 #container {
 	margin: auto;
-	max-width: 1180px;
+	max-width: 1170px;
 }
 
 #header {
@@ -136,6 +142,7 @@ a.hyper:hover {
 	float: left;
 	margin-left: 70px;
 	margin-right: 15px;
+	cursor: default;
 }
 
 #header .title a {
@@ -143,7 +150,7 @@ a.hyper:hover {
 	color: #00a035;
 	cursor: pointer;
 	text-decoration: none;
-	margin-right: 6px;
+	margin-right: 10px;
 }
 
 #header .divider {
@@ -165,7 +172,7 @@ a.hyper:hover {
 }
 
 #content #main {
-	font-family: "minion-pro-1","minion-pro-2","Palatino",Georgia,"Times New Roman",serif;
+	font-family: "elena";
 }
 
 #content #main .lead {
@@ -187,7 +194,6 @@ a.hyper:hover {
 }
 
 #content #main .article .title a {
-	font-weight: bold;
 	text-transform: capitalize;
 	color: #dc3400;
 	font-size: 1.5em;
@@ -198,7 +204,7 @@ a.hyper:hover {
 	display: block;
 	color: #000000;
 	float: left;
-	font-size: 0.9em;
+	font-size: 0.95em;
 	margin-left: 10px;
 	margin-bottom: 8px;
 	cursor: pointer;
@@ -232,7 +238,6 @@ a.hyper:hover {
 #content #main .article .datetime {
 	display: block;
 	font-size: 1em;
-	font-weight: bold;
 	text-align: right;
 	margin-right: 300px;
 	margin-bottom: 8px;
@@ -247,7 +252,7 @@ a.hyper:hover {
 	clear: left;
 	text-indent: 1em;
 	padding-top: 12px;
-	font-size: 0.9em;
+	font-size: 0.95em;
 	line-height: 135%;
 	margin-left: 20px;
 	margin-right: 310px;
@@ -273,7 +278,6 @@ a.hyper:hover {
 #content #main .article .paragraph h1 {
 	text-indent: 0;
 	font-size: 1.5em;
-	font-weight: bold;
 	padding-top: 4px;
 	padding-bottom: 15px;
 }
@@ -281,7 +285,6 @@ a.hyper:hover {
 #content #main .article .paragraph h2 {
 	text-indent: 0;
 	font-size: 1.3em;
-	font-weight: bold;
 	padding-top: 3px;
 	padding-bottom: 14px;
 }
@@ -289,7 +292,6 @@ a.hyper:hover {
 #content #main .article .paragraph h3 {
 	text-indent: 0;
 	font-size: 1.1em;
-	font-weight: bold;
 	padding-bottom: 12px;
 }
 
@@ -297,7 +299,6 @@ a.hyper:hover {
 #content #main .article .paragraph h5,
 #content #main .article .paragraph h6 {
 	text-indent: 0;
-	font-weight: bold;
 	padding-bottom: 12px;
 }
 
