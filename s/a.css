@@ -250,7 +250,7 @@ a.hyper:hover {
 
 #content #main .article .paragraph {
 	clear: left;
-	text-indent: 1em;
+	text-indent: 0;
 	padding-top: 12px;
 	font-size: 0.95em;
 	line-height: 135%;
