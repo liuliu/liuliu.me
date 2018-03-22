@@ -1,0 +1,49 @@
+---
+date: '2013-12-23 13:55:00'
+layout: post
+slug: 2013，26
+status: publish
+title: 2013，26
+categories:
+- 随感
+---
+
+年底的时候，也想找个有高山悬崖大海的地方坐着边喝茶边写年终总结啊。所以坐在这里，其他人都在边喝酒边聊天，只有我打开笔记本开始劈劈啪啪敲起来。
+
+![有高山悬崖大海的地方！](/p/2013-12-23.jpg)
+
+年初心里打的小算盘，只有自己知道。但是还好完成了不多一些，要不望着这样的景色，就该羞愧地跳下去了。去年十二月底的时候，突然觉得如果只做重要的事情，而自己活得一塌糊涂总有些不对，才想起来，从二十一岁到现在，我是什么成色一点都没变。那个胖胖的自负的不知检点的毫无自制力的放纵的小男孩从来没死去过，他在这具基因不良的肉体里面活得可欢实了。
+
+就算从来没想过长大，但是没有自制力也挺糟糕的，就跟那些从我的餐篮里偷薯条的小喜鹊似的，早早地肝硬化是说定的事。
+
+那么，今年最大的进步，或许就是用这具基因不良的肉体和仅仅比平常人好一点的智力管住了他。
+
+所以，其他的也就顺理成章了。
+
+11700，是今年跑的英里数。
+
+去了CVPR，和好多人整夜整夜的聊天。
+
+发布了ccv的0.5。
+
+还有Facebook的1234567。
+
+终于能把每个月订的杂志和Email给看完了。
+
+读完了7、8本书。
+
+第一次跑完了马拉松，然后是50K。
+
+管住了冬天的季节性抑郁。
+
+把烤Fred's练到了炉火纯青。
+
+重新拾起了GPGPU Programming。
+
+认识了一些好有趣的新朋友和导师。
+
+三年前的时候，我最喜欢的一个教授跟我说，你或许现在觉得大学里要做的事情千头百绪，以为等到工作就好了；可是到工作之后，才发现每天要完成的事情更多，只能安慰自己说等到公司被收购了就好了；可是到公司被收购了之后，又会有更多的事情等着你去完成。从现在开始，需要你去完成的事只会越来越多，不过幸好你也会发现，原来再多的事情，都能处理得过来。
+
+想到这些话和Grimshaw，突然觉得惭愧了起来，原来我也并没有做太多的事，瓶子里的那个小人，他没有多努力啊。就在这样的遗憾中，开始期待明年。
+
+When I told Paul that I was way over-paid, I meant it. No matter how genetically-defected my physical is, or mere above average intelligence I have, everything I possessed is derived from public common. I need to do whatever I can to contribute back, and anything I got as extra, are the display of how serendipitous I am. There is no God in my world, but I am thankful before every meal.

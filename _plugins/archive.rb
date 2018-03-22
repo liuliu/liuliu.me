@@ -33,7 +33,7 @@ module Jekyll
 		def generate(site)
 			self.collated_posts = collate(site)
 
-			self.collated_posts.keys.each do |y|
+			self.collated_posts.each do |y, yearly_posts|
 				if site.layouts.key? 'archive_yearly'
 					previous_yearly = nil
 					y.downto(self.lbyear) do |py|
@@ -51,14 +51,14 @@ module Jekyll
 					end
 					write_archive_index(site, y.to_s, 'archive_yearly', self.collated_posts, previous_yearly, next_yearly)
 				end
-				self.collated_posts[ y ].keys.each do |m|
+				yearly_posts.each do |m, monthly_posts|
 	 				if site.layouts.key? 'archive_monthly'
 						previous_monthly = nil
 						py, pm = y, m
 						while py >= self.lbyear do
 							pm = pm - 1
 							py, pm = py - 1, 12 if pm < 1
-							if self.collated_posts.key? py and self.collated_posts[ py ].key? pm
+							if self.collated_posts.key? py and self.collated_posts[py].key? pm
 								previous_monthly = Date.civil(py.to_i, pm.to_i)
 								break
 							end
@@ -67,8 +67,8 @@ module Jekyll
 						ny, nm = y, m
 						while ny <= self.ubyear do
 							nm = nm + 1
-							ny, nm = py + 1, 1 if nm > 12
-							if self.collated_posts.key? ny and self.collated_posts[ ny ].key? nm
+							ny, nm = ny + 1, 1 if nm > 12
+							if self.collated_posts.key? ny and self.collated_posts[ny].key? nm
 								next_monthly = Date.civil(ny.to_i, nm.to_i)
 								break
 							end
@@ -76,14 +76,14 @@ module Jekyll
 						write_archive_index(site, "%04d/%02d" % [ y.to_s, m.to_s ], 'archive_monthly', self.collated_posts, previous_monthly, next_monthly)
 					 end
 					if site.layouts.key? 'archive_daily'
-						self.collated_posts[ y ][ m ].keys.each do |d|
+						monthly_posts.each do |d, daily_posts|
 							previous_daily = nil
 							py, pm, pd = y, m, d
 							while py >= self.lbyear do
 								pd = pd - 1
 								pm, pd = pm - 1, 31 if pd < 1
 								py, pm = py - 1, 12 if pm < 1
-								if self.collated_posts.key? py and self.collated_posts[ py ].key? pm and self.collated_posts[ py ][ pm ].size > 0
+								if self.collated_posts.key? py and self.collated_posts[py].key? pm and self.collated_posts[py][pm].size > 0
 									previous_daily = Date.civil(py.to_i, pm.to_i, pd.to_i)
 									break
 								end
@@ -92,9 +92,9 @@ module Jekyll
 							ny, nm, nd = y, m, d
 							while ny <= self.ubyear do
 								nd = nd + 1
-								nm, nd = pm + 1, 1 if pd > 31
-								ny, nm = py + 1, 1 if pm > 12
-								if self.collated_posts.key? ny and self.collated_posts[ ny ].key? nm and self.collated_posts[ ny ][ nm ].size > 0
+								nm, nd = nm + 1, 1 if nd > 31
+								ny, nm = ny + 1, 1 if nm > 12
+								if self.collated_posts.key? ny and self.collated_posts[ny].key? nm and self.collated_posts[ny][nm].size > 0
 									next_daily = Date.civil(ny.to_i, nm.to_i, nd.to_i)
 									break
 								end
@@ -117,14 +117,14 @@ module Jekyll
 		def collate(site)
 			collated_posts = {}
 			self.ubyear = self.lbyear = nil
-			site.posts.reverse.each do |post|
+			site.posts.docs.reverse.each do |post|
 				y, m, d = post.date.year, post.date.month, post.date.day
 				self.lbyear = y if self.lbyear == nil or y < self.lbyear
 				self.ubyear = y if self.ubyear == nil or y > self.ubyear
-				collated_posts[ y ] = {} unless collated_posts.key? y
-				collated_posts[ y ][ m ] = {} unless collated_posts[y].key? m
-				collated_posts[ y ][ m ][ d ] = [] unless collated_posts[ y ][ m ].key? d
-				collated_posts[ y ][ m ][ d ].push(post) unless collated_posts[ y ][ m ][ d ].include?(post)
+				collated_posts[y] = {} unless collated_posts.key? y
+				collated_posts[y][m] = {} unless collated_posts[y].key? m
+				collated_posts[y][m][d] = [] unless collated_posts[y][m].key? d
+				collated_posts[y][m][d].push(post) unless collated_posts[y][m][d].include?(post)
 			end
 			return collated_posts
 		end

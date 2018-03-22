@@ -1,0 +1,71 @@
+---
+date: '2018-03-21 21:05:00'
+layout: post
+slug: the-year-2022
+status: publish
+title: The Year 2022
+categories:
+- eye
+---
+
+十年前，我开始每两三年写一篇BLOG，内容是关于四年之后的一些预测。预测的原理也很简单，就是根据和大家聊的内容，还有每天看的新闻，做一些合理的臆测。后来也开始正儿八经的先描述一下大致的人文市场政治环境，再做猜测。这么一个设置，让很多地方也就看起来扯得更有道理了。然而追根究底之所以如此，不过是其实接下去几年大家要做什么也都了解得八九不离十。说四年后苹果会生产第十四代iPhone，这又有什么好猜的呢。
+
+那么，站在2018年的的刚开始看2022年，又是什么样的呢？
+
+首先，是中国的消除贫困。在2021年，也就是建党一百周年的时候，中国领导人会宣布全面建成小康社会。而在中国的语境下，全面建成小康社会是明确可量的，那就是消除贫困。在2022年，中国人均GDP将超过一万元美金。任何其他的情况都没有什么意义，因为如果这2021年中国不能全面建成小康社会，那么整个国际环境也将很不稳定，接下去的预测自然就会漏洞百出了。
+
+美国的衰落是21世纪的主要命题。但就这四年而言，我们只能看到美国衰落的点点迹象，而这个国家仍然是世界经济的主要影响力，是世界科技发展的引擎。
+
+计算性能在混合计算领域仍然有大的提升，单机的计算能力会接近0.5 Petaflops（全32bit浮点），GPU的内存将会达到48GiB每片。而移动系统的CPU / GPU发展终于遇到了性能瓶颈。在未来4年，他们的价格仍然会继续下降，但是性能的提升只在两倍左右。移动芯片的大部分工作将在于特殊优化和功能集成。
+
+有了这些铺垫，那么接下去会发生什么就顺理成章了。
+
+在2022年，大部分销售的电动车和豪华车都有了L3的自动驾驶功能。中产阶级更倾向于开电动车，而年收入在三万元以下的家庭则大多会开汽车。也因如此，美国对于电动车的补贴在2022年将会聊胜于无。虽然大部分在售的电动车都有了L3的自动驾驶功能，在2022年，并没有什么加装的自动驾驶组件在卖。
+
+L3：在大部分的高速/低速行驶中不需要人工注意，特殊情况下会警示驾驶员，要求驾驶员干预。
+
+比较意外的是，现在在电动车行业起步较早的传统汽车厂商并没有抢得什么先机。具体而言，宝马的i系销量会越来越不尽人意，而普遍认为已经失掉推出纯电车先机的福特和丰田都推出了成功（总销量在十万辆以上）的纯电动车型。尽管如此，在全球范围内，仍然有两到三家新兴的电动车企业成长了起来。特斯拉，虽然在自动驾驶方面步履蹒跚，也在2020年做到了L3的自动驾驶水平。而Model 3，要么是一个巨大的成功（年销量二十万辆以上），要么是一个中等的成功（年销量八万辆以上）。真正的爆款，或许是一种Minivan和紧凑型SUV的混合体。
+
+高铁没什么可说的。从孟买到海德拉巴的高铁从2013年就开始跟大家讲，在2022年的尾巴才会勉强完工。而美国西海岸的高铁仍然遥遥无期。
+
+由于油价的稳定和新一代客机的大规模使用，超过16个小时的直线长途航班又多了起来。但基于超音速客机的航班仍然没有运行起来。
+
+HIV的疫苗终于在未来的四年上市了。这或许是普罗大众所知道的医学方面最重磅的消息了。很多行业都是这样，一些大的变化，都是从很小的地方开始的。比如便宜的无刷电机和芯片的组合，还有因为智能手机而便宜起来的传感器。这些小东西组合起来，就变成了信息化农业落地的重要元素。尤其是在亚洲，未来四年你会逐渐发现一些产量高，产品一致性好的现代化精细生产的农场。利用信息化技术，这些农场的产量达到了普通工业化农场产量的两倍，接近于需要大量劳力的农场产量。
+
+虽然2017年号称是AR元年，然而，即使四年之后，也不会有一款大众的AR硬件产品（单品总销量在五百万件以上）。
+
+另一件终于发生的事情，就是亚马逊会赶在2022年结束前，在一些地区开始商用的无人机送货了。这些送货的无人机，和开始在州际公路上测试的无人货车（一位司机，多辆货车）标志着一些低附加值的工作也开始逐渐被机器所取代了。
+
+而我们，在经历了一轮经济的回调之后，或许也不会把比特币作为正常的投资项目了吧。
+
+以上。
+
+Ten years ago, I began to post some predictions of 4-year in the future. The principle of these predictions are simple: it was a combination of things we chatted, things I read, and a stash of reasonable imaginations. Later, to make this a bit more fun and educating, I would also map out the potential market political environments before the prediction. With this setup, everything now looks more systematic and professional. But to be honest, everything that is going to happen in the next a few years has already set in motion today. It won't be that entertaining to predict that Apple will design the 14th generation of iPhone in 2022.
+
+That's been said, what it would look like in 2022, now the 2018 starts to unfolding?
+
+First, the elimination of poverty in China. In 2021, the 100th anniversary of Communist Party of China, the leadership in China will announce that they have finished building the moderately prosperous society in all respects. For China, the *moderately prosperous society in all respects* is a measurable goal, and the end result is the elimination of poverty. In 2022, China's GDP per capita will reach 10,000 USD. If China cannot reach that goal, everything else is not very meaningful to predict due to the global instability.
+
+The main theme of 21st century is the decline of American power. But in this 4 years, we can only see occasional hints of such, this nation is and continue to be the main player in global economy, and the major powerhouse for technology development.
+
+There are at least 5x improvements in raw computation power from heterogeneous computing paradigm. Single chip can reach 0.5 Petaflops (full 32-bit floating point) by the end of 2022. On-device memory per GPU card can reach up to 48GiB. The view for mobile is not as rosy however. In the next 4 years, the price of mobile system-on-chip (SoC) will continue to go down, but the speed on traditional workload will not improve much, and at max, 2x. More work will go into function-specific optimizations and feature integration.
+
+Now, grand scene has been set, what will happen next?
+
+Cars. In 2022, most production electric cars and luxury vehicles will have level-3 autonomous driving capability. Middle-class will now drive more electric cars while for families with annual income less than $30,000, they will continue to drive cars with internal-combustion engine. Although most electric cars on sales have level-3 autonomous driving capability, there is no viable after-market component for level-3 autonomous driving.
+
+Level-3: No human attention needed in most highway and local environments. The system will alert the driver under certain conditions.
+
+To many people's surprise, traditional car manufacturers who started early in the electric vehicle market don't have much first-mover advantage. Specifically, BMW's i-series sales number will plunge. Ford and Toyota, who were once considered late-comers to the market now both have successful battery electric vehicles (total unit sales exceeding 100,000). Even so, globally, there will be two or three new but established all-electric car manufacturer. Tesla, who had some false starts in autonomous driving technology finally gets to level-3 in 2020. Its Model 3, is either a huge success (200,000 unit sales per year) or a moderate one (80,000 unit sales per year). The most popular battery electric car? We probably haven't seen it yet, and it is likely to be a cross-over between minivan and compact SUV.
+
+High-speed railway. We've been talking about the high-speed railway from Mumbai to Hyderabad since 2013. At the end of 2022, it will finish. The high-speed railway between San Francisco and Los Angeles? It probably hasn't even broken the ground.
+
+With the stability of oil price, and the mass use of the new generation airplanes, there will be more ultra-long distance non-stop flights (more than 16 hours). There will be no regular supersonic commercial flights by 2022 though.
+
+The HIV vaccine will hit the market in the next 4 years. This probably will be the single most known medical breakthrough in that 4 years. A lot of important breakthroughs, often have some miniscule starts. Cheap brush-less motors, SoC, and cheap sensors, thanks to the ubiquitousness of smartphones. These gadgets becomes the important ingredients of why information agriculture now works. Especially in Asia, you will find some modern lean production farms with high yield and high quality produce. Equipped with information technology, these farms have yield more than 2x of their industrial-farm counterparts, closer to the yield of small labor intensive farming.
+
+2017 was called the origin year of AR. However, even after 4 years, there will be no mass-market successful AR hardware (more than 5 million total unit sales).
+
+And it finally happened, Amazon, just before the end of 2022, starts deliveries with drones in certain area of North America. These delivery drones, along with autonomous trunk on the inter-state high ways (one driver, many trunks), symbolizes the beginning of elimination of low-paying jobs.
+
+Lucky for all of us, after a economic downturn, Bitcoin will stop being an investment vehicle.

@@ -89,7 +89,7 @@ end # task :switch_theme
 
 desc "Launch preview environment"
 task :preview do
-  system "jekyll --auto --server"
+  system "jekyll serve --watch"
 end # task :preview
 
 desc "Update to production"

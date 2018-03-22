@@ -5,8 +5,10 @@ permalink: /:categories/:title
 paginate: 10
 
 exclude: [".rbenv-version", "README.md", "Rakefile"]
-pygments: true
+highlighter: true
 markdown: rdiscount
+
+plugins: [jekyll-paginate]
 
 # Themes are encouraged to use these universal variables 
 # so be sure to set them if your theme uses them.

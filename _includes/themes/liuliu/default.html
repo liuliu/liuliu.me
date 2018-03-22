@@ -12,19 +12,19 @@
 {% endif %}
 </head><body>
 <div id="container">
-<div id="header"><span class="me"><a href="http://facebook.com/liu.ll">Me on Facebook</a></span><span class="title"><a href="/">{{ site.title }}</a>{{ site.subtitle }}</span><div class="divider"><div></div></div></div>
+<div id="header"><span class="me"><a href="http://facebook.com/lliu">Me on Facebook</a></span><span class="title"><a href="/">{{ site.title }}</a>{{ site.subtitle }}</span><div class="divider"><div></div></div></div>
 <div id="content"><div id="navigation"><div class="divider"><div></div></div>
 {% assign posts_collate = site.posts %}
 {% include JB/posts_collate %}
 </div>
 <div id="main">{{ content }}</div>
-</div><div id="footer"><div><a href="http://facebook.com/liu.ll">Liu Liu</a> @ <a href="http://liuliu.me">liuliu.me</a></div></div></div>
+</div><div id="footer"><div><a href="http://facebook.com/lliu">Liu Liu</a> @ <a href="http://liuliu.me">liuliu.me</a></div></div></div>
 <script type="text/javascript">
 	var disqus_shortname = 'liuliu-jsms';
 	(function () {
 		var s = document.createElement('script'); s.async = true;
 		s.type = 'text/javascript';
-		s.src = 'http://' + disqus_shortname + '.disqus.com/count.js';
+		s.src = '//' + disqus_shortname + '.disqus.com/count.js';
 		(document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(s);
 	}());
 </script>
