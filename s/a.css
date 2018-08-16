@@ -259,6 +259,17 @@ a.hyper:hover {
 	text-align: justify;
 }
 
+pre, code {
+	font-family: "SFMono-Regular",Consolas,"Liberation Mono",Menlo,Courier,monospace;
+	font-size: 0.8em;
+	border-radius: 0;
+	background-color: #fff2e0;
+}
+
+code {
+	padding: 1px 5px;
+}
+
 #content #main .article .paragraph p {
 	padding-bottom: 12px;
 }

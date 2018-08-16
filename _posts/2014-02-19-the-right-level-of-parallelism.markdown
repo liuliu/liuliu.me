@@ -5,7 +5,7 @@ slug: the-right-level-of-parallelism
 status: publish
 title: The Right Level of Parallelism
 categories:
-- eye
+- eyes
 ---
 
 I was not a fan of low-level parallelism exploitation. The level of parallelism that OpenMP tries is too easy to get wrong. On the other hand, I'd prefer dispatch_apply in any cases for the precise reason to disfavor OpenMP: it is restrictive enough to be only useful for embarrassing parallel problems.
