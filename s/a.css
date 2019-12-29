@@ -204,7 +204,7 @@ a.hyper:hover {
 	display: block;
 	color: #000000;
 	float: left;
-	font-size: 0.95em;
+	font-size: 1.1em;
 	margin-left: 10px;
 	margin-bottom: 8px;
 	cursor: pointer;
@@ -237,7 +237,7 @@ a.hyper:hover {
 
 #content #main .article .datetime {
 	display: block;
-	font-size: 1em;
+	font-size: 1.2em;
 	text-align: right;
 	margin-right: 300px;
 	margin-bottom: 8px;
@@ -252,11 +252,21 @@ a.hyper:hover {
 	clear: left;
 	text-indent: 0;
 	padding-top: 12px;
-	font-size: 0.95em;
+	font-size: 1.1em;
 	line-height: 135%;
 	margin-left: 20px;
 	margin-right: 310px;
-	text-align: justify;
+	text-align: left;
+	-webkit-text-size-adjust: 150%;
+}
+
+#content #main .article .paragraph ol {
+	list-style: decimal;
+	padding-bottom: 12px;
+}
+
+#content #main .article .paragraph ol li {
+	margin-left: 20px;
 }
 
 pre, code {
@@ -271,6 +281,10 @@ code {
 }
 
 #content #main .article .paragraph p {
+	padding-bottom: 12px;
+}
+
+#content #main .article .paragraph div.highlighter-coderay {
 	padding-bottom: 12px;
 }
 

@@ -6,7 +6,13 @@ paginate: 10
 
 exclude: [".rbenv-version", "README.md", "Rakefile"]
 highlighter: true
-markdown: rdiscount
+markdown: kramdown
+
+kramdown:
+    syntax_highlighter: coderay
+    syntax_highlighter_opts:
+        line_numbers: table
+        line_number_anchors: false
 
 plugins: [jekyll-paginate]
 
