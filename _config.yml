@@ -9,10 +9,14 @@ highlighter: true
 markdown: kramdown
 
 kramdown:
-    syntax_highlighter: coderay
+    syntax_highlighter: rouge
     syntax_highlighter_opts:
         line_numbers: table
         line_number_anchors: false
+        span:
+            disable: true
+        block:
+            disable: false
 
 plugins: [jekyll-paginate]
 
