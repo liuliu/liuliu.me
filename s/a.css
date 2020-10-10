@@ -344,6 +344,29 @@ p code {
 	padding-bottom: 12px;
 }
 
+#content #main .article table:not(.rouge-table) {
+	font-size: 0.9em;
+	display: block;
+	width: max-content;
+	max-width: 100%;
+	overflow: auto;
+	padding-bottom: 12px;
+}
+
+#content #main .article .paragraph table:not(.rouge-table) tr {
+	background-color: #fff;
+	border-top: 1px solid #c6cbd1;
+}
+
+#content #main .article .paragraph table:not(.rouge-table) tr:nth-child(2n) {
+	background-color: #f6f8fa;
+}
+
+#content #main .article .paragraph table:not(.rouge-table) td, th {
+	padding: 2px 8px;
+	border-top: 1px solid #dfe2e5;
+}
+
 #content #main #discuss {
 	margin-left: 20px;
 	margin-right: 310px;
