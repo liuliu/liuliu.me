@@ -61,43 +61,43 @@ A code excerpt would look like this:
 
 ```c
 #define CSV_QUOTE_BR(c, n) \
-	do { \
-		if (c##n == quote) \
-			++quotes; \
-		else if (c##n == '\n') { \
-			++count[quotes & 1]; \
-			if (starter[quotes & 1] == -1) \
-				starter[quotes & 1] = (int)(p - p_start) + n; \
-		} \
-	} while (0)
-	parallel_for(i, aligned_chunks) {
-		const uint64_t* pd = (const uint64_t*)(data + i * chunk_size);
-		const char* const p_start = (const char*)pd;
-		const uint64_t* const pd_end = pd + chunk_size / sizeof(uint64_t);
-		int quotes = 0;
-		int starter[2] = {-1, -1};
-		int count[2] = {0, 0};
-		for (; pd < pd_end; pd++)
-		{
-			// Load 8-bytes at batch.
-			const char* const p = (const char*)pd;
-			char c0, c1, c2, c3, c4, c5, c6, c7;
-			c0 = p[0], c1 = p[1], c2 = p[2], c3 = p[3], c4 = p[4], c5 = p[5], c6 = p[6], c7 = p[7];
-			CSV_QUOTE_BR(c, 0);
-			CSV_QUOTE_BR(c, 1);
-			CSV_QUOTE_BR(c, 2);
-			CSV_QUOTE_BR(c, 3);
-			CSV_QUOTE_BR(c, 4);
-			CSV_QUOTE_BR(c, 5);
-			CSV_QUOTE_BR(c, 6);
-			CSV_QUOTE_BR(c, 7);
-		}
-		crlf[i].even = count[0];
-		crlf[i].odd = count[1];
-		crlf[i].even_starter = starter[0];
-		crlf[i].odd_starter = starter[1];
-		crlf[i].quotes = quotes;
-	} parallel_endfor
+    do { \
+        if (c##n == quote) \
+            ++quotes; \
+        else if (c##n == '\n') { \
+            ++count[quotes & 1]; \
+            if (starter[quotes & 1] == -1) \
+                starter[quotes & 1] = (int)(p - p_start) + n; \
+        } \
+    } while (0)
+    parallel_for(i, aligned_chunks) {
+        const uint64_t* pd = (const uint64_t*)(data + i * chunk_size);
+        const char* const p_start = (const char*)pd;
+        const uint64_t* const pd_end = pd + chunk_size / sizeof(uint64_t);
+        int quotes = 0;
+        int starter[2] = {-1, -1};
+        int count[2] = {0, 0};
+        for (; pd < pd_end; pd++)
+        {
+            // Load 8-bytes at batch.
+            const char* const p = (const char*)pd;
+            char c0, c1, c2, c3, c4, c5, c6, c7;
+            c0 = p[0], c1 = p[1], c2 = p[2], c3 = p[3], c4 = p[4], c5 = p[5], c6 = p[6], c7 = p[7];
+            CSV_QUOTE_BR(c, 0);
+            CSV_QUOTE_BR(c, 1);
+            CSV_QUOTE_BR(c, 2);
+            CSV_QUOTE_BR(c, 3);
+            CSV_QUOTE_BR(c, 4);
+            CSV_QUOTE_BR(c, 5);
+            CSV_QUOTE_BR(c, 6);
+            CSV_QUOTE_BR(c, 7);
+        }
+        crlf[i].even = count[0];
+        crlf[i].odd = count[1];
+        crlf[i].even_starter = starter[0];
+        crlf[i].odd_starter = starter[1];
+        crlf[i].quotes = quotes;
+    } parallel_endfor
 ```
 
 This is our first pass.
@@ -185,8 +185,8 @@ The performance of our parser approaches 2000MiB/s, not bad!
 | Software | Time |
 |:---      |  ---:|
 | csv2 | 19.221s |
-| NNC's Dataframe CSV (Many Cores) | 4.093s |
-| NNC's Dataframe CSV (Single Core) | 45.391s |
+| NNC's Dataframe CSV (Many-core) | 4.093s |
+| NNC's Dataframe CSV (Single-core) | 45.391s |
 
 It is about 2x slower than [csv2](https://github.com/p-ranav/csv2). This is expected because we need to null-terminate strings and copy them to a new buffer.
 
@@ -207,35 +207,35 @@ The fuzz program is very concise:
 
 int LLVMFuzzerInitialize(int* argc, char*** argv)
 {
-        ccv_nnc_init();
-        return 0;
+    ccv_nnc_init();
+    return 0;
 }
 
 int LLVMFuzzerTestOneInput(const uint8_t* data, size_t size)
 {
-        if (size == 0)
-                return 0;
-        int column_size = 0;
-        ccv_cnnp_dataframe_t* dataframe = ccv_cnnp_dataframe_from_csv_new((void*)data, CCV_CNNP_DATAFRAME_CSV_MEMORY, size, ',', '"', 0, &column_size);
-        if (dataframe)
-        {
-                if (column_size > 0) // Iterate through the first column.
-                {
-                        ccv_cnnp_dataframe_iter_t* const iter = ccv_cnnp_dataframe_iter_new(dataframe, COLUMN_ID_LIST(0));
-                        const int row_count = ccv_cnnp_dataframe_row_count(dataframe);
-                        int i;
-                        size_t total = 0;
-                        for (i = 0; i < row_count; i++)
-                        {
-                                void* data = 0;
-                                ccv_cnnp_dataframe_iter_next(iter, &data, 1, 0);
-                                total += strlen(data);
-                        }
-                        ccv_cnnp_dataframe_iter_free(iter);
-                }
-                ccv_cnnp_dataframe_free(dataframe);
-        }
+    if (size == 0)
         return 0;
+    int column_size = 0;
+    ccv_cnnp_dataframe_t* dataframe = ccv_cnnp_dataframe_from_csv_new((void*)data, CCV_CNNP_DATAFRAME_CSV_MEMORY, size, ',', '"', 0, &column_size);
+    if (dataframe)
+    {
+        if (column_size > 0) // Iterate through the first column.
+        {
+            ccv_cnnp_dataframe_iter_t* const iter = ccv_cnnp_dataframe_iter_new(dataframe, COLUMN_ID_LIST(0));
+            const int row_count = ccv_cnnp_dataframe_row_count(dataframe);
+            int i;
+            size_t total = 0;
+            for (i = 0; i < row_count; i++)
+            {
+                void* data = 0;
+                ccv_cnnp_dataframe_iter_next(iter, &data, 1, 0);
+                total += strlen(data);
+            }
+            ccv_cnnp_dataframe_iter_free(iter);
+        }
+        ccv_cnnp_dataframe_free(dataframe);
+    }
+    return 0;
 }
 ```
 
@@ -246,3 +246,26 @@ int LLVMFuzzerTestOneInput(const uint8_t* data, size_t size)
 With many-core systems becoming increasingly common, we should expect more programs to use these cores at the level traditionally considered for single core such as parsing. It doesn't necessarily need to be hard either! With good OpenMP support, some simple tuning on algorithm-side, we can easily take advantage of improved hardware to get more things done.
 
 I am excited to share more of my journey into parallel algorithms on modern GPUs next. Stay tuned!
+
+---
+
+#### 2020-10-18 Update
+
+There are some more discussions in [lobste.rs](https://lobste.rs/s/zksa0f/loading_csv_file_at_speed_limit_nvme) and [news.ycombinator](https://news.ycombinator.com/item?id=24736559). After these discussions, I benchmarked [xsv](https://github.com/BurntSushi/xsv) for this particular csv file and implemented zero-copy parsing (effectively pushing more processing to iteration time) [on my side](https://github.com/liuliu/ccv/commit/b1a5cbf708a1e9e0048ff52949d905f251ef0e2c). The zero-copy implementation becomes trickier than I initially liked because expanding from *pointer* to *pointer + length* has memory usage implications and can be slower if implemented naively for the later case.
+
+Here are some results for parsing from NVMe storage:
+
+| Software | Time |
+|:---      |  ---:|
+| xsv index | 26.613s |
+| NNC's Dataframe CSV | 7.895s |
+| NNC's Dataframe CSV (Zero-copy) | 7.142s |
+
+If runs on single-core, the parallel parser was penalized by the two-pass approach. Particularly:
+
+| Software | Time |
+|:---      |  ---:|
+| NNC's Dataframe CSV (Single-core) | 45.391s |
+| NNC's Dataframe CSV (Zero-copy, Single-core) | 39.181s |
+| NNC's Dataframe CSV (Zero-copy, Single-core, First-pass) | 9.274s |
+| NNC's Dataframe CSV (Zero-copy, Single-core, Second-pass) | 32.963s |
