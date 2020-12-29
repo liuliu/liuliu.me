@@ -42,7 +42,7 @@ mRNA疫苗的成功应用和对疫苗监管的放松使得在2024年，一小部
 
 但是，站在2024年的门槛上，虽然我们看到了全球化的受阻和意识形态斗争的暗流涌动，却充满希望：只要我们进步得够快，或许不会那么糟呢。
 
-Every two years, I [will make](https://liuliu.me/%E9%9A%8F%E6%84%9F/%E9%A2%84%E6%B5%8B%E6%9C%AA%E6%9D%A52016/) a [4-year](https://liuliu.me/eyes/the-year-2022/) scenario prediction / planning. However, [the previous prediction for 2020](https://liuliu.me/eyes/predicting-future-2020/) won't even touch the slightest how dramatic it was. Such drastic change, however, makes seemingly gloomy predictions 4 years more optimistic.
+Every two years, I [will make](https://liuliu.me/%E9%9A%8F%E6%84%9F/%E9%A2%84%E6%B5%8B%E6%9C%AA%E6%9D%A52016/) a [4-year](https://liuliu.me/eyes/the-year-2022/) scenario prediction / planning. However, [the previous prediction for 2020](https://liuliu.me/eyes/predicting-future-2020/) won't even touch the slightest how dramatic it was. Such drastic change, however, makes seemingly gloomy predictions of 4 years more optimistic.
 
 Right on mark for the 4-year prediction made in 2016, is the prevalence of driver-assistance technologies in all types of cars. Cruise and Waymo finally started their human driver-free autonomous vehicle commercialization in San Francisco and Phoenix, Arizona. The surviving mobile messaging services all will have around 300 million DAUs by now.
 
@@ -50,7 +50,7 @@ A lot of long-haul flights have been cancelled, but for reasons other than what 
 
 VR devices haven't sold 30 millions in 2019. There were only 3 millions sold that year.
 
-After the posts in the past few years, my goal for these changed from the singular pursuit of accuracy to unmask new trends while being accurate. That's why after almost ten years religious repetitive discussions on autonomous driving, there is none this time. It is on track of real-world productionization now, the rest will happen over time.
+After the posts in the past few years, my goal for these changed from the singular pursuit of accuracy to unmask new trends while being accurate. That's why after almost ten years religiously repetitive discussions on autonomous driving, there is none this time. It is on track of real-world productionization now, the rest will happen over time.
 
 ---
 
