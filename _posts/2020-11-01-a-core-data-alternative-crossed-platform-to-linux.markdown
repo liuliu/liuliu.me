@@ -1,5 +1,5 @@
 ---
-date: '2020-11-01 06:47:00'
+date: '2020-11-01 00:07:00'
 layout: post
 slug: a-core-data-alternative-crossed-platform-to-linux
 status: publish
@@ -29,9 +29,7 @@ git_repository(
     commit = "3dc11274e8c466dd28ee35cdd04e84ddf7d420bc",
     shallow_since = "1604185591 -0400"
 )
-
 load("@dflat//:deps.bzl", "dflat_deps")
-
 dflat_deps()
 ```
 
@@ -42,7 +40,6 @@ table User {
     username: string (primary);
     accessTime: double;
 }
-
 root_type User;
 ```
 
@@ -50,12 +47,10 @@ In your `BUILD.bazel`:
 
 ```python
 load("@dflat//:dflat.bzl", "dflatc")
-
 dflatc(
     name = "user_schema",
     src = "user.fbs"
 )
-
 swift_binary(
     name = "main",
     srcs = ["main.swift", ":user_schema"],
@@ -70,16 +65,13 @@ Use them in `main.swift` file:
 ```swift
 import Dflat
 import SQLiteDflat
-
 let workspace = SQLiteWorkspace(filePath: "main.db", fileProtectionLevel: .noProtection)
-
 workspace.performChanges([User.self], changesHandler: { txnContext in
   let creationRequest = UserChangeRequest.creationRequest()
   creationRequest.username = "lliu"
   creationRequest.accessTime = Date().timeIntervalSince1970
   txnContext.try(submit: creationRequest)
 })
-
 workspace.shutdown()
 ```
 
@@ -88,19 +80,15 @@ Later read the data and update the `accessTime`:
 ```swift
 import Dflat
 import SQLiteDflat
-
 let workspace = SQLiteWorkspace(filePath: "main.db", fileProtectionLevel: .noProtection)
-
 let result = workspace.fetch(for: User.self).where(User.username == "lliu")
 let user = result[0]
 print(user.accessTime)
-
 workspace.performChanges([User.self], changesHandler: { txnContext in
   let changeRequest = UserChangeRequest.changeRequest(user)
   changeRequest.accessTime = Date().timeIntervalSince1970
   txnContext.try(submit: changeRequest)
 })
-
 workspace.shutdown()
 ```
 
